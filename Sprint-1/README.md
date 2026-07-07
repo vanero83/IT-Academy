@@ -1,5 +1,3 @@
-# Sprint 1
-
 Entrega correspondiente al Sprint 1 de la especialización en Data Analytics de IT Academy.
 
 ## Contenido
