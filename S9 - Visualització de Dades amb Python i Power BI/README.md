@@ -1,4 +1,4 @@
-# Visualización de datos con Python y Power BI
+# Visualización de datos con Python 
 
 ## Objetivos
 
@@ -19,5 +19,3 @@ Practicar la selección de visualizaciones adecuadas según el tipo de variables
 ## Archivos
 
 Notebook de **Google Colab (`.ipynb`)** con el desarrollo de los ejercicios, cálculos, visualizaciones y conclusiones del análisis.
-
-> **Nota:** no se realizó el Nivel 3 de la tarea, correspondiente al desarrollo de visualizaciones en **Power BI**.
