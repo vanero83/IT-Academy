@@ -1,0 +1,103 @@
+Mirall Hotels | diccionari_dades.txt
+==============================================================================
+Dades fictícies per avaluar; no representen operacions reals.
+Estades de 2025. Les reserves es poden haver formalitzat el 2024. El període d’observació és de 365 dies.
+
+ABAST I CONVENCIONS
+- El catàleg inclou totes les habitacions; es consideren disponibles durant els 365 dies. data_sortida no genera una nit d’estada.
+- preu_nit_eur és el preu contractat per nit, constant dins de la reserva. comissio_pct és un percentatge entre 0 i 100 aplicable a l’allotjament.
+- Per a aquest cas, només les reserves Completada generen nits ocupades i ingressos d’allotjament. No es disposa de penalitzacions de cancel·lació, altres ingressos ni costos d’explotació.
+- client_id identifica qui reserva, no necessàriament qui s’allotja: pot reservar per a altres persones. Un valor buit indica un compte no identificat.
+- Capacitat màxima per tipus: Individual 1, Doble 2, Superior 3, Suite 4. Els No-show bloquegen l’interval previst al registre operatiu, però no són estades completades.
+
+FORMAT
+CSV en UTF-8, separats per comes. Hi ha petites inconsistències de format intencionades. Els valors extrems requereixen interpretació, no eliminació automàtica. Consulta el diccionari i el model relacional.
+Els identificadors són text. Els buits es reserven a claus opcionals o dates de baixa obertes. Les dates amb barres segueixen dia/mes/any. Els decimals amb coma són camps entre cometes dins del CSV.
+
+hotels.csv
+------------------------------------------------------------------------------
+Un establiment hoteler.
+PK: hotel_id
+  hotel_id [text; PK]
+    Identificador únic del registre.
+  ciutat [nominal; -]
+    Ciutat de l’establiment.
+  categoria_estrelles [ordinal; -]
+    Categoria hotelera, de 3 a 5 estrelles.
+    3 < 4 < 5
+  zona [nominal; -]
+    Tipus d’entorn del negoci.
+
+habitacions.csv
+------------------------------------------------------------------------------
+Una habitació física del catàleg.
+PK: habitacio_id
+  habitacio_id [text; PK]
+    Identificador únic del registre.
+  hotel_id [text; FK]
+    Referència a hotels.hotel_id.
+  tipus_habitacio [nominal; -]
+    Tipus d’habitació; la capacitat es defineix a les convencions.
+  preu_base_eur [decimal; -]
+    Tarifa orientativa per nit, no necessàriament el preu contractat.
+
+clients.csv
+------------------------------------------------------------------------------
+Un compte titular de reserves.
+PK: client_id
+  client_id [text; PK]
+    Identificador únic del registre.
+  pais_residencia [nominal; -]
+    País del titular de la reserva.
+  tipus_client [nominal; -]
+    Perfil Oci o Negocis del compte.
+  nivell_fidelitat [ordinal; -]
+    Nivell Cap, Silver o Gold del titular.
+    Cap < Silver < Gold
+
+canals.csv
+------------------------------------------------------------------------------
+Un canal comercial i la seva comissió.
+PK: canal_id
+  canal_id [text; PK]
+    Identificador únic del registre.
+  nom_canal [nominal; -]
+    Nom comercial fictici del canal.
+  tipus_canal [nominal; -]
+    Classificació del canal comercial.
+  comissio_pct [decimal; -]
+    Comissió sobre l’allotjament, expressada entre 0 i 100.
+
+reserves.csv
+------------------------------------------------------------------------------
+Una reserva d’una sola habitació.
+PK: reserva_id
+  reserva_id [text; PK]
+    Identificador únic del registre.
+  client_id [text; FK?]
+    Referència a clients.client_id. Pot estar buit.
+  habitacio_id [text; FK]
+    Referència a habitacions.habitacio_id.
+  canal_id [text; FK]
+    Referència a canals.canal_id.
+  data_reserva [data; -]
+    Data en què es formalitza la reserva.
+  data_entrada [data; -]
+    Data prevista d’entrada; coincideix amb l’entrada real en Completada.
+  data_sortida [data; -]
+    Data de sortida, exclosa del recompte de nits.
+  estat [nominal; -]
+    Completada, Cancel·lada o No-show.
+  preu_nit_eur [decimal; -]
+    Preu per nit contractat, constant dins de la reserva.
+  nombre_hostes [enter; -]
+    Nombre d’hostes previst per a l’habitació.
+
+MODEL RELACIONAL
+hotels.hotel_id (1)  --  (0..N) habitacions.hotel_id
+habitacions.habitacio_id (1)  --  (0..N) reserves.habitacio_id
+clients.client_id (0..1)  --  (0..N) reserves.client_id
+canals.canal_id (1)  --  (0..N) reserves.canal_id
+
+PK: clau primària. FK: clau forana. UQ: valor únic. FK?: admet buit.
+0..N: zero o més registres. Els tipus són lògics, després de la neteja.

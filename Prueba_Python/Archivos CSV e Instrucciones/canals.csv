@@ -1,0 +1,7 @@
+canal_id,nom_canal,tipus_canal,comissio_pct
+CH01,Web directa,Directe,0.0
+CH02,App directa,Directe,0.0
+CH03,StayNow,OTA,18.0
+CH04,RoomsHub,OTA,23.0
+CH05,Empresa,Corporatiu,6.0
+CH06,Agència Pro,Intermediari,12.0

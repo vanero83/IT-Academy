@@ -1,0 +1,6501 @@
+client_id,pais_residencia,tipus_client,nivell_fidelitat
+C00001,Alemanya,Oci,Silver
+C00002,Espanya,Negocis,Cap
+C00003,Espanya,Negocis,Cap
+C00004,Espanya,Negocis,Gold
+C00005,França,Oci,Cap
+C00006,Espanya,Oci,Cap
+C00007,Estats Units,Negocis,Cap
+C00008,Regne Unit,Negocis,Silver
+C00009,Alemanya,Negocis,Cap
+C00010,Alemanya,Negocis,Silver
+C00011,Itàlia,Oci,Cap
+C00012,Portugal,Oci,Silver
+C00013,França,oci,Cap
+C00014,Espanya,Oci,Silver
+C00015,Països Baixos,Oci,Cap
+C00016,Països Baixos,Oci,Cap
+C00017,Portugal,Negocis,Cap
+C00018,Espanya,Oci,Silver
+C00019,Països Baixos,Negocis,Cap
+C00020,Països Baixos,Oci,Cap
+C00021,Regne Unit,Oci,Cap
+C00022,França,Oci,Cap
+C00023,Regne Unit,Negocis,Cap
+C00024,Alemanya,Negocis,Cap
+C00025,Regne Unit,Oci,Cap
+C00026,Espanya,Negocis,Cap
+C00027,Espanya,Oci,Silver
+C00028,Espanya,Oci,Cap
+C00029,Alemanya,Negocis,Silver
+C00030,Espanya,Negocis,Cap
+C00031,Espanya,Oci,Cap
+C00032,França,Oci,Cap
+C00033,Espanya,Negocis,Cap
+C00034,Espanya,Oci,Cap
+C00035,Països Baixos,Oci,Silver
+C00036,Espanya,Oci,Cap
+C00037,França,Negocis,Cap
+C00038,Itàlia,Oci,Cap
+C00039,Espanya,Oci,Silver
+C00040,Estats Units,Oci,Cap
+C00041,Itàlia,Negocis,Cap
+C00042,Alemanya,Negocis,Silver
+C00043,Alemanya,Negocis,Gold
+C00044,Estats Units,Oci,Cap
+C00045,Alemanya,Negocis,Cap
+C00046,Espanya,Negocis,Gold
+C00047,Itàlia,Oci,Silver
+C00048,Espanya,Oci,Silver
+C00049,Espanya,Negocis,Cap
+C00050,Espanya,Oci,Cap
+C00051,Països Baixos,Negocis,Gold
+C00052,Països Baixos,Oci,Silver
+C00053,Països Baixos,Oci,Cap
+C00054,França,Negocis,Silver
+C00055,Itàlia,Oci,Cap
+C00056,Espanya,Oci,Cap
+C00057,Espanya,Oci,Cap
+C00058,Espanya,Negocis,Gold
+C00059,Espanya,Oci,Silver
+C00060,Portugal,Oci,Silver
+C00061,Espanya,Negocis,Cap
+C00062,Itàlia,Negocis,Silver
+C00063,Regne Unit,Negocis,Cap
+C00064,França,Oci,Gold
+C00065,Espanya,Oci,Silver
+C00066,Itàlia,Negocis,Cap
+C00067,Espanya,Oci,Cap
+C00068,Espanya,Negocis,Cap
+C00069,Espanya,Oci,Cap
+C00070,França,Oci,Cap
+C00071,Regne Unit,Oci,Silver
+C00072,Alemanya,Oci,Cap
+C00073,Països Baixos,Oci,Cap
+C00074,Regne Unit,Negocis,Cap
+C00075,França,Oci,Silver
+C00076,Espanya,Oci,Gold
+C00077,Regne Unit,Oci,Gold
+C00078,Portugal,Negocis,Cap
+C00079,Estats Units,Oci,Silver
+C00080,Espanya,Oci,Cap
+C00081,Alemanya,Oci,Cap
+C00082,França,Oci,Cap
+C00083,Alemanya,Negocis,Cap
+C00084,Alemanya,Oci,Cap
+C00085,Portugal,Oci,Silver
+C00086,Països Baixos,Oci,Cap
+C00087,Espanya,oci,Cap
+C00088,Alemanya,Oci,Silver
+C00089,Alemanya,Oci,Cap
+C00090,Espanya,Oci,Cap
+C00091,Regne Unit,Oci,Gold
+C00092,França,Negocis,Cap
+C00093,Espanya,Oci,Cap
+C00094,Portugal,Oci,Cap
+C00095,Alemanya,Oci,Cap
+C00096,Espanya,Oci,Cap
+C00097,Països Baixos,Oci,Cap
+C00098,Espanya,Oci,Cap
+C00099,França,Oci,Cap
+C00100,Espanya,Negocis,Cap
+C00101,Alemanya,Negocis,Cap
+C00102,França,Oci,Cap
+C00103,Espanya,Oci,Cap
+C00104,Espanya,Oci,Gold
+C00105,Regne Unit,Oci,Cap
+C00106,Espanya,Oci,Cap
+C00107,Espanya,Oci,Cap
+C00108,Espanya,Oci,Cap
+C00109,Espanya,Negocis,Gold
+C00110,Itàlia,Oci,Cap
+C00111,Regne Unit,Oci,Cap
+C00112,Alemanya,Negocis,Cap
+C00113,Espanya,Oci,Silver
+C00114,Estats Units,Negocis,Cap
+C00115,Espanya,Negocis,Silver
+C00116,Alemanya,Oci,Cap
+C00117,França,Oci,Silver
+C00118,Espanya,Negocis,Silver
+C00119,Itàlia,Oci,Gold
+C00120,Espanya,Oci,Cap
+C00121,Estats Units,Oci,Cap
+C00122,Itàlia,Oci,Gold
+C00123,Països Baixos,Negocis,Silver
+C00124,Alemanya,Oci,Cap
+C00125,Espanya,Oci ,Cap
+C00126,Espanya,Negocis,Cap
+C00127,Estats Units,Negocis,Cap
+C00128,França,Oci,Cap
+C00129,Espanya,Oci,Cap
+C00130,França,Oci,Cap
+C00131,Espanya,Oci,Gold
+C00132,Espanya,Oci,Cap
+C00133,Espanya,Oci,Silver
+C00134,França,Oci,Silver
+C00135,Països Baixos,Negocis,Cap
+C00136,Regne Unit,Negocis,Silver
+C00137,Espanya,Oci,Cap
+C00138,Itàlia,Negocis,Cap
+C00139,França,Oci,Cap
+C00140,França,Negocis,Silver
+C00141,Itàlia,Oci,Cap
+C00142,Itàlia,Oci,Gold
+C00143,Països Baixos,Oci,Cap
+C00144,Portugal,Oci,Silver
+C00145,França,Negocis,Cap
+C00146,Espanya,Oci,Cap
+C00147,Estats Units,Negocis,Cap
+C00148,Itàlia,Negocis,Silver
+C00149,Espanya,Oci,Cap
+C00150,Itàlia,Negocis,Silver
+C00151,Espanya,Oci,Silver
+C00152,Espanya,Oci,Silver
+C00153,Itàlia,Oci ,Cap
+C00154,Espanya,Oci,Gold
+C00155,Alemanya,Negocis,Silver
+C00156,França,Oci,Cap
+C00157,Espanya,Oci,Silver
+C00158,Alemanya,Oci,Cap
+C00159,Espanya,Oci,Cap
+C00160,França,Oci,Cap
+C00161,Itàlia,Oci,Cap
+C00162,Estats Units,Negocis,Cap
+C00163,França,Oci,Cap
+C00164,Alemanya,Oci,Cap
+C00165,Regne Unit,Oci,Cap
+C00166,Espanya,Negocis,Silver
+C00167,Espanya,Oci,Cap
+C00168,Països Baixos,Oci,Cap
+C00169,Itàlia,Oci,Gold
+C00170,Regne Unit,Negocis,Gold
+C00171,França,Oci,Silver
+C00172,Espanya,Oci,Cap
+C00173,Alemanya,Oci,Gold
+C00174,Espanya,Oci,Silver
+C00175,Alemanya,Oci,Cap
+C00176,Espanya,Oci,Cap
+C00177,Itàlia,Oci,Silver
+C00178,Espanya,Oci,Cap
+C00179,Països Baixos,Negocis,Cap
+C00180,Espanya,Oci,Silver
+C00181,Itàlia,Oci,Cap
+C00182,Espanya,Oci ,Cap
+C00183,Portugal,Oci,Silver
+C00184,Espanya,Negocis,Cap
+C00185,Itàlia,Oci,Cap
+C00186,Portugal,Oci,Cap
+C00187,Espanya,Oci,Gold
+C00188,Espanya,Oci,Silver
+C00189,Regne Unit,Negocis,Gold
+C00190,Espanya,Oci,Cap
+C00191,Regne Unit,Negocis,Silver
+C00192,França,Oci,Cap
+C00193,Espanya,Negocis,Cap
+C00194,Països Baixos,Negocis,Silver
+C00195,França,Oci,Silver
+C00196,Regne Unit,Oci,Cap
+C00197,Portugal,Oci,Silver
+C00198,Portugal,Negocis,Cap
+C00199,Espanya,Oci,Cap
+C00200,França,Oci,Silver
+C00201,Espanya,Negocis,Cap
+C00202,Alemanya,Negocis,Silver
+C00203,Portugal,Oci,Cap
+C00204,Regne Unit,Oci,Cap
+C00205,Estats Units,Oci,Gold
+C00206,Espanya,Negocis,Gold
+C00207,Regne Unit,Oci,Cap
+C00208,Espanya,Negocis,Cap
+C00209,Espanya,Oci,Cap
+C00210,Regne Unit,Negocis,Cap
+C00211,Espanya,Oci,Cap
+C00212,Itàlia,Oci,Cap
+C00213,Espanya,Oci,Cap
+C00214,Regne Unit,Negocis,Cap
+C00215,Alemanya,Negocis ,Gold
+C00216,Itàlia,Oci,Cap
+C00217,França,Oci,Silver
+C00218,Alemanya,Oci,Cap
+C00219,Espanya,Oci,Cap
+C00220,Alemanya,Oci,Silver
+C00221,França,Negocis,Cap
+C00222,Espanya,Oci,Cap
+C00223,Alemanya,Oci,Cap
+C00224,Estats Units,Oci ,Cap
+C00225,França,Negocis,Gold
+C00226,Espanya,Oci,Silver
+C00227,Itàlia,Oci,Cap
+C00228,Espanya,Negocis,Gold
+C00229,Estats Units,Oci,Cap
+C00230,Espanya,Oci,Cap
+C00231,França,Oci,Cap
+C00232,Estats Units,Oci,Cap
+C00233,Regne Unit,Oci,Cap
+C00234,Itàlia,Negocis,Cap
+C00235,Espanya,Oci,Cap
+C00236,Espanya,Oci,Silver
+C00237,Alemanya,Oci,Cap
+C00238,Espanya,Oci,Cap
+C00239,Alemanya,Oci,Gold
+C00240,Espanya,Oci,Cap
+C00241,Estats Units,Oci,Silver
+C00242,Alemanya,Oci,Cap
+C00243,Espanya,Negocis,Cap
+C00244,Portugal,Oci,Silver
+C00245,Espanya,Oci,Cap
+C00246,Alemanya,Oci,Cap
+C00247,Estats Units,Oci,Cap
+C00248,Espanya,Negocis,Cap
+C00249,Espanya,Oci,Cap
+C00250,Alemanya,Oci,Silver
+C00251,Espanya,Oci,Cap
+C00252,Alemanya,Oci,Cap
+C00253,Espanya,Negocis,Cap
+C00254,Estats Units,Oci,Cap
+C00255,Espanya,Negocis,Gold
+C00256,Espanya,Oci,Silver
+C00257,Estats Units,Negocis,Cap
+C00258,Espanya,Oci,Cap
+C00259,Itàlia,Oci,Cap
+C00260,Portugal,Negocis,Cap
+C00261,Regne Unit,Negocis,Cap
+C00262,Portugal,Oci,Cap
+C00263,Itàlia,Negocis,Cap
+C00264,Regne Unit,Oci,Cap
+C00265,Espanya,Oci,Cap
+C00266,Itàlia,Oci,Cap
+C00267,Itàlia,Oci,Cap
+C00268,Espanya,Negocis,Cap
+C00269,Espanya,Oci,Cap
+C00270,Espanya,Oci,Cap
+C00271,Portugal,Oci,Cap
+C00272,Estats Units,Oci,Cap
+C00273,Regne Unit,Oci,Silver
+C00274,Espanya,Oci,Cap
+C00275,Espanya,Oci,Cap
+C00276,Espanya,Oci,Cap
+C00277,Alemanya,Oci,Cap
+C00278,Espanya,Oci,Silver
+C00279,França,Oci,Cap
+C00280,França,Oci,Silver
+C00281,Alemanya,Negocis,Cap
+C00282,Portugal,Oci,Cap
+C00283,Espanya,Oci,Cap
+C00284,Itàlia,Oci,Silver
+C00285,Espanya,Oci,Gold
+C00286,Espanya,Negocis,Cap
+C00287,Espanya,Oci,Silver
+C00288,Espanya,Oci,Cap
+C00289,Estats Units,Oci,Cap
+C00290,Espanya,Negocis,Silver
+C00291,Itàlia,Oci,Silver
+C00292,Espanya,Oci,Cap
+C00293,Espanya,Oci,Silver
+C00294,Espanya,Oci,Cap
+C00295,Espanya,Oci,Cap
+C00296,Espanya,oci,Cap
+C00297,França,Oci,Silver
+C00298,Espanya,Oci,Silver
+C00299,Regne Unit,Oci,Silver
+C00300,França,Oci,Cap
+C00301,Itàlia,Negocis,Gold
+C00302,França,Oci,Cap
+C00303,Alemanya,Oci,Cap
+C00304,Espanya,Oci,Cap
+C00305,Regne Unit,Oci,Gold
+C00306,Espanya,Oci,Cap
+C00307,Espanya,Oci,Cap
+C00308,Portugal,Negocis,Silver
+C00309,Espanya,Oci,Silver
+C00310,França,Oci,Cap
+C00311,Regne Unit,Negocis,Silver
+C00312,Alemanya,Oci,Cap
+C00313,França,Oci,Silver
+C00314,Espanya,Oci,Cap
+C00315,Regne Unit,Oci,Silver
+C00316,Alemanya,Oci,Cap
+C00317,Espanya,Oci,Cap
+C00318,França,Oci,Gold
+C00319,Espanya,Negocis,Cap
+C00320,Regne Unit,Negocis,Cap
+C00321,Regne Unit,Oci,Cap
+C00322,Espanya,Negocis,Cap
+C00323,Països Baixos,Negocis,Silver
+C00324,Alemanya,Negocis,Cap
+C00325,Estats Units,Oci,Cap
+C00326,Espanya,Negocis,Cap
+C00327,Espanya,Oci,Cap
+C00328,Regne Unit,Oci,Cap
+C00329,Regne Unit,Negocis,Cap
+C00330,Alemanya,Oci,Cap
+C00331,Alemanya,Oci,Cap
+C00332,Espanya,Oci,Silver
+C00333,Regne Unit,Oci,Silver
+C00334,Països Baixos,Negocis,Silver
+C00335,Estats Units,Negocis,Silver
+C00336,Espanya,Oci,Cap
+C00337,Itàlia,Oci,Gold
+C00338,Alemanya,Oci,Cap
+C00339,Espanya,Oci,Cap
+C00340,Alemanya,Oci,Cap
+C00341,Alemanya,Negocis,Cap
+C00342,Regne Unit,Oci,Silver
+C00343,Espanya,Negocis,Cap
+C00344,França,Oci,Cap
+C00345,Espanya,Oci,Cap
+C00346,Espanya,Negocis,Cap
+C00347,Regne Unit,Oci,Cap
+C00348,Itàlia,Oci,Cap
+C00349,França,Oci,Cap
+C00350,Espanya,Oci,Silver
+C00351,França,Oci,Silver
+C00352,França,Negocis,Gold
+C00353,Portugal,Oci,Silver
+C00354,Estats Units,Negocis,Cap
+C00355,Portugal,Oci,Silver
+C00356,Espanya,Oci,Cap
+C00357,Regne Unit,Negocis,Cap
+C00358,França,Oci,Cap
+C00359,Espanya,Negocis,Cap
+C00360,Estats Units,Negocis,Cap
+C00361,França,Oci,Silver
+C00362,Itàlia,Oci,Silver
+C00363,Itàlia,Negocis,Silver
+C00364,Itàlia,Oci,Cap
+C00365,Espanya,Negocis,Silver
+C00366,Espanya,Oci,Cap
+C00367,Regne Unit,Oci,Cap
+C00368,Espanya,Oci,Cap
+C00369,Portugal,Oci,Cap
+C00370,Portugal,Oci,Cap
+C00371,Espanya,Oci,Cap
+C00372,Països Baixos,Negocis,Cap
+C00373,Alemanya,Oci,Cap
+C00374,Alemanya,Oci,Cap
+C00375,Espanya,Negocis,Silver
+C00376,Espanya,Oci,Cap
+C00377,Portugal,Oci,Cap
+C00378,França,Oci,Cap
+C00379,Espanya,Oci,Cap
+C00380,Espanya,Oci,Silver
+C00381,Espanya,Oci,Cap
+C00382,França,Oci,Silver
+C00383,Alemanya,Negocis,Silver
+C00384,Espanya,Oci,Silver
+C00385,Països Baixos,Negocis,Silver
+C00386,França,Oci,Cap
+C00387,Espanya,Negocis,Silver
+C00388,Països Baixos,Oci,Cap
+C00389,Portugal,Oci,Cap
+C00390,Espanya,Negocis,Gold
+C00391,Portugal,Oci,Silver
+C00392,Espanya,Oci,Cap
+C00393,Espanya,Oci,Silver
+C00394,Itàlia,Oci,Cap
+C00395,Itàlia,Oci,Cap
+C00396,Portugal,Negocis,Gold
+C00397,França,Oci,Silver
+C00398,Alemanya,Oci,Silver
+C00399,França,Negocis,Gold
+C00400,Espanya,Oci,Cap
+C00401,Espanya,Oci,Silver
+C00402,Regne Unit,Oci,Cap
+C00403,Espanya,Oci,Gold
+C00404,Portugal,Oci,Cap
+C00405,Espanya,Negocis,Cap
+C00406,Espanya,Oci,Cap
+C00407,Espanya,Negocis,Cap
+C00408,Espanya,Oci,Cap
+C00409,Portugal,Oci,Cap
+C00410,Espanya,Oci,Silver
+C00411,Alemanya,Negocis,Silver
+C00412,Portugal,Oci,Silver
+C00413,Espanya,Oci,Cap
+C00414,Espanya,Negocis,Cap
+C00415,Alemanya,Negocis,Silver
+C00416,França,Negocis,Cap
+C00417,Països Baixos,Oci,Gold
+C00418,Espanya,Negocis,Cap
+C00419,França,Oci,Cap
+C00420,França,Oci,Cap
+C00421,Itàlia,Negocis,Cap
+C00422,Regne Unit,Negocis,Silver
+C00423,Espanya,Oci,Cap
+C00424,Alemanya,Oci,Cap
+C00425,Espanya,Negocis,Cap
+C00426,Espanya,Oci,Cap
+C00427,Països Baixos,Oci,Cap
+C00428,Espanya,Oci,Cap
+C00429,Espanya,Negocis,Gold
+C00430,Espanya,Oci,Cap
+C00431,Itàlia,Oci,Cap
+C00432,Portugal,Oci,Silver
+C00433,Portugal,Negocis,Gold
+C00434,Països Baixos,Negocis,Cap
+C00435,França,Negocis,Cap
+C00436,Estats Units,Oci,Gold
+C00437,Itàlia,Negocis,Silver
+C00438,Espanya,Oci,Silver
+C00439,Portugal,Oci,Cap
+C00440,Regne Unit,Oci,Silver
+C00441,França,Oci,Cap
+C00442,Alemanya,Oci,Cap
+C00443,Portugal,Oci,Cap
+C00444,Portugal,Oci,Cap
+C00445,Estats Units,Oci ,Cap
+C00446,Espanya,Oci,Cap
+C00447,Alemanya,Oci,Silver
+C00448,França,Oci,Cap
+C00449,França,Negocis,Silver
+C00450,Alemanya,Oci,Cap
+C00451,Portugal,Negocis,Gold
+C00452,Alemanya,Oci,Silver
+C00453,Portugal,Oci,Cap
+C00454,Espanya,Oci,Cap
+C00455,Espanya,Negocis,Silver
+C00456,França,Negocis,Cap
+C00457,Regne Unit,Oci,Cap
+C00458,França,Oci,Cap
+C00459,Regne Unit,Oci,Gold
+C00460,Itàlia,Oci,Silver
+C00461,Portugal,Oci,Cap
+C00462,França,Oci,Gold
+C00463,França,Oci,Cap
+C00464,Espanya,Oci,Cap
+C00465,Espanya,Negocis,Gold
+C00466,Països Baixos,Negocis,Cap
+C00467,França,Oci,Silver
+C00468,França,Negocis,Silver
+C00469,França,Oci,Silver
+C00470,Països Baixos,Oci,Cap
+C00471,Regne Unit,Oci,Cap
+C00472,Portugal,Negocis,Gold
+C00473,França,Negocis,Cap
+C00474,Portugal,Oci,Gold
+C00475,Alemanya,Oci,Silver
+C00476,Països Baixos,Negocis,Cap
+C00477,Espanya,Oci,Silver
+C00478,Espanya,Oci,Cap
+C00479,Espanya,Oci,Cap
+C00480,Itàlia,Oci,Cap
+C00481,Espanya,Negocis,Gold
+C00482,Regne Unit,Negocis,Gold
+C00483,Itàlia,Oci,Cap
+C00484,Espanya,Negocis,Silver
+C00485,Països Baixos,Negocis,Cap
+C00486,Alemanya,Oci,Silver
+C00487,Estats Units,Negocis,Silver
+C00488,Itàlia,Negocis,Cap
+C00489,Alemanya,Oci,Cap
+C00490,Regne Unit,Oci,Cap
+C00491,Espanya,Negocis,Silver
+C00492,Itàlia,Oci,Silver
+C00493,Espanya,Negocis,Silver
+C00494,Alemanya,Negocis,Gold
+C00495,França,Oci,Cap
+C00496,Alemanya,Negocis,Silver
+C00497,Països Baixos,Oci,Silver
+C00498,França,Negocis,Silver
+C00499,Espanya,Oci,Cap
+C00500,Alemanya,Oci,Cap
+C00501,Espanya,Oci,Silver
+C00502,Espanya,Oci,Cap
+C00503,Itàlia,Oci,Cap
+C00504,França,Oci,Cap
+C00505,Itàlia,Negocis,Cap
+C00506,França,Negocis,Silver
+C00507,Alemanya,Oci,Cap
+C00508,França,Oci,Silver
+C00509,Itàlia,Negocis,Cap
+C00510,Espanya,Oci,Cap
+C00511,Regne Unit,Oci,Cap
+C00512,Portugal,Oci,Cap
+C00513,Espanya,Negocis,Silver
+C00514,Espanya,Negocis,Gold
+C00515,Espanya,Oci,Cap
+C00516,Països Baixos,Oci,Cap
+C00517,Itàlia,Oci,Gold
+C00518,França,Negocis,Cap
+C00519,Regne Unit,Negocis,Cap
+C00520,Espanya,Oci,Cap
+C00521,Regne Unit,Oci,Cap
+C00522,França,Oci,Cap
+C00523,Alemanya,Oci,Silver
+C00524,Espanya,Oci,Cap
+C00525,Itàlia,Oci,Silver
+C00526,Espanya,Oci,Gold
+C00527,Espanya,Oci,Cap
+C00528,Espanya,Oci,Cap
+C00529,Alemanya,Oci,Cap
+C00530,Itàlia,Negocis,Cap
+C00531,Regne Unit,Negocis,Silver
+C00532,Espanya,Oci,Silver
+C00533,Alemanya,Negocis,Cap
+C00534,Alemanya,Oci,Cap
+C00535,Regne Unit,Negocis,Silver
+C00536,Regne Unit,Negocis,Cap
+C00537,França,Negocis,Cap
+C00538,Espanya,Oci,Cap
+C00539,Espanya,Oci,Cap
+C00540,Itàlia,Oci,Cap
+C00541,França,Oci,Cap
+C00542,Espanya,Oci,Gold
+C00543,Espanya,Oci,Cap
+C00544,Regne Unit,Oci,Cap
+C00545,Espanya,Negocis,Cap
+C00546,Portugal,Oci,Cap
+C00547,França,Oci,Cap
+C00548,Països Baixos,Negocis,Cap
+C00549,Itàlia,Oci,Silver
+C00550,Estats Units,Negocis,Cap
+C00551,Espanya,oci,Cap
+C00552,França,Oci,Silver
+C00553,Espanya,Oci,Cap
+C00554,Portugal,Negocis,Silver
+C00555,Espanya,Negocis,Silver
+C00556,Països Baixos,Oci,Silver
+C00557,Espanya,Oci,Gold
+C00558,Espanya,Oci,Cap
+C00559,Espanya,Oci,Silver
+C00560,Espanya,Negocis,Silver
+C00561,Espanya,Oci,Cap
+C00562,Regne Unit,Oci,Silver
+C00563,Països Baixos,Negocis,Cap
+C00564,Espanya,Oci,Cap
+C00565,Alemanya,Negocis,Cap
+C00566,Portugal,Oci,Cap
+C00567,Espanya,Oci,Cap
+C00568,Espanya,Oci,Gold
+C00569,Espanya,Oci,Silver
+C00570,Portugal,Negocis,Cap
+C00571,Espanya,Oci,Silver
+C00572,Espanya,Oci,Silver
+C00573,Espanya,Oci,Cap
+C00574,Portugal,Negocis,Silver
+C00575,Estats Units,Negocis,Cap
+C00576,Portugal,Oci,Silver
+C00577,Alemanya,Oci,Silver
+C00578,Regne Unit,Oci,Cap
+C00579,Portugal,Oci,Silver
+C00580,Alemanya,Negocis,Silver
+C00581,Espanya,Negocis,Cap
+C00582,Espanya,Negocis,Cap
+C00583,Portugal,Oci,Cap
+C00584,Espanya,Oci,Cap
+C00585,Espanya,Oci,Silver
+C00586,Espanya,Oci,Silver
+C00587,Alemanya,Oci,Gold
+C00588,Espanya,Oci,Cap
+C00589,França,Oci,Cap
+C00590,Itàlia,Oci,Cap
+C00591,Espanya,Oci,Silver
+C00592,Alemanya,Negocis,Silver
+C00593,Regne Unit,Oci,Cap
+C00594,França,Oci,Cap
+C00595,Espanya,Negocis,Gold
+C00596,Estats Units,Oci,Silver
+C00597,Portugal,Oci,Cap
+C00598,Alemanya,Oci,Silver
+C00599,Espanya,Oci,Cap
+C00600,Alemanya,Oci,Cap
+C00601,Portugal,Oci,Silver
+C00602,Regne Unit,Negocis,Cap
+C00603,Espanya,Negocis,Cap
+C00604,França,Oci,Silver
+C00605,Espanya,Negocis,Cap
+C00606,Espanya,Oci,Silver
+C00607,Espanya,Negocis,Silver
+C00608,Espanya,Oci,Gold
+C00609,Estats Units,Oci,Cap
+C00610,Espanya,Oci,Cap
+C00611,Espanya,Oci,Silver
+C00612,Regne Unit,Oci,Cap
+C00613,França,Oci,Silver
+C00614,Espanya,Oci ,Cap
+C00615,Regne Unit,Oci,Cap
+C00616,Regne Unit,Oci,Cap
+C00617,França,Oci,Cap
+C00618,Regne Unit,Oci,Cap
+C00619,Espanya,Oci,Cap
+C00620,Països Baixos,Negocis,Cap
+C00621,Espanya,negocis,Silver
+C00622,Països Baixos,Negocis,Cap
+C00623,França,Oci,Cap
+C00624,Regne Unit,Oci,Cap
+C00625,Alemanya,Oci,Cap
+C00626,Regne Unit,Negocis,Gold
+C00627,Espanya,Oci,Silver
+C00628,Itàlia,Oci,Cap
+C00629,Alemanya,Oci,Cap
+C00630,Espanya,Oci,Cap
+C00631,Alemanya,Negocis,Cap
+C00632,Espanya,Oci,Cap
+C00633,Itàlia,Negocis,Cap
+C00634,Itàlia,Oci,Cap
+C00635,Espanya,Oci,Silver
+C00636,Espanya,Negocis,Silver
+C00637,Espanya,Oci,Cap
+C00638,Espanya,Oci,Silver
+C00639,Espanya,Oci,Cap
+C00640,Espanya,Oci,Cap
+C00641,Espanya,Oci,Cap
+C00642,Espanya,Oci,Cap
+C00643,Països Baixos,Oci,Cap
+C00644,Països Baixos,Oci,Cap
+C00645,França,Oci,Silver
+C00646,Països Baixos,Oci,Silver
+C00647,Regne Unit,Oci,Cap
+C00648,Països Baixos,Negocis,Cap
+C00649,Regne Unit,Oci,Gold
+C00650,Espanya,Negocis,Gold
+C00651,Espanya,Negocis,Gold
+C00652,Espanya,Negocis,Silver
+C00653,Itàlia,Oci,Cap
+C00654,Espanya,Oci,Cap
+C00655,Itàlia,Oci,Cap
+C00656,Itàlia,Oci,Cap
+C00657,Itàlia,Negocis,Gold
+C00658,França,Negocis,Cap
+C00659,Alemanya,Negocis,Gold
+C00660,Espanya,Negocis,Cap
+C00661,Itàlia,Oci,Silver
+C00662,Països Baixos,Oci,Cap
+C00663,França,Oci,Cap
+C00664,Itàlia,Oci,Cap
+C00665,Espanya,Oci,Silver
+C00666,Alemanya,Negocis,Silver
+C00667,Espanya,Oci,Silver
+C00668,Regne Unit,Oci,Cap
+C00669,Portugal,Negocis,Gold
+C00670,Estats Units,Oci,Gold
+C00671,Espanya,Negocis,Silver
+C00672,Espanya,Oci,Cap
+C00673,França,Oci,Silver
+C00674,Espanya,Negocis,Cap
+C00675,Espanya,Oci,Cap
+C00676,Alemanya,Oci,Cap
+C00677,Regne Unit,Negocis,Cap
+C00678,Estats Units,Oci,Silver
+C00679,Regne Unit,Oci,Gold
+C00680,Països Baixos,Negocis,Cap
+C00681,Alemanya,Oci,Cap
+C00682,Itàlia,Negocis,Cap
+C00683,França,Oci,Cap
+C00684,Espanya,Oci,Cap
+C00685,Espanya,oci,Cap
+C00686,Regne Unit,Oci,Cap
+C00687,Portugal,Oci,Cap
+C00688,França,Oci,Cap
+C00689,Espanya,Oci,Cap
+C00690,Espanya,Negocis,Cap
+C00691,Espanya,Oci,Cap
+C00692,Itàlia,Oci,Gold
+C00693,Itàlia,Oci,Silver
+C00694,Regne Unit,Oci,Cap
+C00695,Espanya,Oci,Cap
+C00696,Alemanya,Oci,Cap
+C00697,Espanya,Oci,Silver
+C00698,Regne Unit,Oci,Cap
+C00699,Alemanya,Oci,Cap
+C00700,França,Oci,Cap
+C00701,França,Negocis,Cap
+C00702,Països Baixos,Oci,Cap
+C00703,França,Oci,Cap
+C00704,Països Baixos,Oci,Cap
+C00705,Regne Unit,Negocis,Silver
+C00706,França,Oci,Cap
+C00707,Itàlia,Oci,Silver
+C00708,França,Oci,Cap
+C00709,França,Oci,Cap
+C00710,Espanya,Oci,Cap
+C00711,Itàlia,Oci,Cap
+C00712,Països Baixos,Oci,Gold
+C00713,Alemanya,Negocis,Cap
+C00714,Espanya,Negocis,Silver
+C00715,Alemanya,Negocis,Silver
+C00716,Alemanya,Negocis,Cap
+C00717,Espanya,Oci,Gold
+C00718,Itàlia,Oci,Cap
+C00719,Espanya,negocis,Cap
+C00720,Regne Unit,Oci,Cap
+C00721,Països Baixos,Oci,Cap
+C00722,Espanya,Oci,Cap
+C00723,França,Negocis,Cap
+C00724,Espanya,Oci,Silver
+C00725,Portugal,Negocis,Cap
+C00726,Alemanya,Negocis,Silver
+C00727,Alemanya,Negocis,Silver
+C00728,Regne Unit,Oci,Gold
+C00729,Portugal,Oci,Cap
+C00730,Espanya,Negocis,Silver
+C00731,Espanya,Oci,Cap
+C00732,Espanya,Oci,Cap
+C00733,França,Oci,Cap
+C00734,Itàlia,Oci,Cap
+C00735,Països Baixos,Oci,Cap
+C00736,Regne Unit,Negocis,Cap
+C00737,Espanya,Negocis,Silver
+C00738,Espanya,Oci,Cap
+C00739,Itàlia,Negocis,Cap
+C00740,Espanya,Negocis,Cap
+C00741,Regne Unit,Oci,Gold
+C00742,Espanya,Oci,Cap
+C00743,França,Negocis,Silver
+C00744,Espanya,Negocis,Cap
+C00745,Països Baixos,Oci,Cap
+C00746,Espanya,Oci,Silver
+C00747,França,Oci,Cap
+C00748,França,Oci,Cap
+C00749,França,Negocis,Cap
+C00750,Regne Unit,Negocis,Cap
+C00751,França,Oci,Cap
+C00752,Regne Unit,Oci,Cap
+C00753,Estats Units,Negocis,Cap
+C00754,Regne Unit,Oci,Silver
+C00755,Estats Units,Oci,Cap
+C00756,França,Negocis,Cap
+C00757,Països Baixos,Negocis,Gold
+C00758,Alemanya,Oci,Silver
+C00759,Espanya,Negocis,Cap
+C00760,Regne Unit,Oci,Cap
+C00761,Espanya,Oci,Silver
+C00762,Estats Units,Negocis,Cap
+C00763,Alemanya,Oci,Cap
+C00764,Espanya,Negocis,Cap
+C00765,Espanya,Oci,Cap
+C00766,França,Oci,Silver
+C00767,Portugal,Negocis,Cap
+C00768,Alemanya,Oci,Cap
+C00769,Alemanya,Oci,Cap
+C00770,Portugal,Negocis,Gold
+C00771,França,Oci,Cap
+C00772,Espanya,Oci,Cap
+C00773,França,Oci,Gold
+C00774,Espanya,Oci,Cap
+C00775,Itàlia,Oci,Silver
+C00776,França,Negocis,Cap
+C00777,Itàlia,Negocis,Silver
+C00778,Espanya,Negocis,Cap
+C00779,França,Oci,Silver
+C00780,Espanya,Negocis,Silver
+C00781,Alemanya,Oci,Silver
+C00782,Itàlia,Negocis,Silver
+C00783,Regne Unit,Oci,Cap
+C00784,Espanya,Oci,Cap
+C00785,França,Oci,Cap
+C00786,Alemanya,Negocis,Cap
+C00787,Itàlia,Oci,Cap
+C00788,Espanya,Negocis,Cap
+C00789,Espanya,Negocis,Cap
+C00790,França,Oci,Cap
+C00791,Alemanya,Oci,Cap
+C00792,Alemanya,Oci,Cap
+C00793,Portugal,Negocis,Silver
+C00794,França,Negocis,Gold
+C00795,Espanya,Negocis,Gold
+C00796,Espanya,Oci,Cap
+C00797,Portugal,Oci,Silver
+C00798,Països Baixos,Oci,Silver
+C00799,Països Baixos,Oci,Cap
+C00800,Espanya,Negocis,Silver
+C00801,Espanya,Negocis,Cap
+C00802,Regne Unit,Oci,Gold
+C00803,Estats Units,Negocis,Cap
+C00804,Espanya,Oci,Cap
+C00805,França,Oci,Cap
+C00806,Espanya,Negocis,Cap
+C00807,Itàlia,Oci,Cap
+C00808,Estats Units,Oci,Gold
+C00809,Països Baixos,Oci,Gold
+C00810,Espanya,Oci,Cap
+C00811,França,Negocis,Silver
+C00812,Alemanya,Oci,Cap
+C00813,Alemanya,Negocis,Silver
+C00814,Alemanya,Oci,Silver
+C00815,Portugal,Oci,Cap
+C00816,França,Negocis,Silver
+C00817,França,Oci,Cap
+C00818,Espanya,Oci,Silver
+C00819,Espanya,Oci,Cap
+C00820,Espanya,Negocis,Cap
+C00821,Itàlia,Negocis,Cap
+C00822,Països Baixos,Negocis,Silver
+C00823,França,Oci,Silver
+C00824,Itàlia,Oci,Cap
+C00825,Espanya,Oci,Cap
+C00826,Espanya,Oci,Cap
+C00827,Espanya,Oci ,Cap
+C00828,Espanya,Oci,Silver
+C00829,Espanya,Oci,Silver
+C00830,Portugal,Oci,Silver
+C00831,Països Baixos,Negocis,Silver
+C00832,França,Negocis,Silver
+C00833,França,Negocis,Silver
+C00834,Espanya,Negocis,Silver
+C00835,Estats Units,Negocis,Silver
+C00836,Alemanya,Oci,Cap
+C00837,Portugal,Negocis,Gold
+C00838,Espanya,Negocis,Cap
+C00839,Espanya,Negocis,Silver
+C00840,Regne Unit,Negocis,Cap
+C00841,França,Oci,Silver
+C00842,Espanya,Oci,Cap
+C00843,Regne Unit,Negocis,Silver
+C00844,Països Baixos,Oci,Cap
+C00845,Espanya,Oci,Cap
+C00846,Espanya,Oci,Cap
+C00847,Espanya,Oci,Gold
+C00848,Espanya,Oci,Cap
+C00849,França,Oci,Silver
+C00850,Espanya,Negocis,Cap
+C00851,Espanya,Negocis,Cap
+C00852,Regne Unit,Oci,Cap
+C00853,Regne Unit,Negocis,Cap
+C00854,Espanya,Oci,Silver
+C00855,Regne Unit,Oci,Silver
+C00856,Espanya,Oci,Cap
+C00857,Espanya,Oci,Cap
+C00858,Portugal,Oci,Silver
+C00859,França,Oci ,Cap
+C00860,Països Baixos,Negocis,Cap
+C00861,Portugal,Oci,Cap
+C00862,França,Negocis,Silver
+C00863,Espanya,Negocis,Silver
+C00864,Regne Unit,Oci,Silver
+C00865,Alemanya,Oci,Cap
+C00866,Portugal,Negocis,Silver
+C00867,França,Oci,Cap
+C00868,Itàlia,Oci,Cap
+C00869,Alemanya,Oci,Cap
+C00870,Regne Unit,Oci,Cap
+C00871,Espanya,Negocis,Cap
+C00872,Alemanya,Oci,Cap
+C00873,Itàlia,Negocis,Gold
+C00874,Alemanya,Oci,Silver
+C00875,França,Oci,Cap
+C00876,Espanya,Negocis,Cap
+C00877,França,Negocis,Gold
+C00878,Portugal,Oci,Cap
+C00879,Espanya,Oci,Cap
+C00880,Espanya,Oci,Cap
+C00881,França,Oci,Silver
+C00882,Regne Unit,Oci,Silver
+C00883,França,Oci,Cap
+C00884,Regne Unit,Negocis,Cap
+C00885,Espanya,Oci,Cap
+C00886,Espanya,Oci,Cap
+C00887,Espanya,Oci,Cap
+C00888,Regne Unit,Negocis,Cap
+C00889,Espanya,Negocis,Gold
+C00890,Espanya,Negocis,Cap
+C00891,Itàlia,Oci,Cap
+C00892,Espanya,Oci,Cap
+C00893,França,Oci,Cap
+C00894,Espanya,Negocis,Cap
+C00895,França,Oci,Silver
+C00896,Espanya,Oci,Cap
+C00897,Alemanya,Oci,Gold
+C00898,França,Oci,Cap
+C00899,França,Oci,Cap
+C00900,Alemanya,Oci,Cap
+C00901,Alemanya,Negocis,Silver
+C00902,França,Oci,Silver
+C00903,Espanya,Oci,Cap
+C00904,Espanya,Oci,Cap
+C00905,Alemanya,Oci,Cap
+C00906,Regne Unit,Oci,Cap
+C00907,Alemanya,Negocis,Silver
+C00908,França,Oci,Cap
+C00909,Regne Unit,Oci,Silver
+C00910,Espanya,Oci,Cap
+C00911,Espanya,Oci,Cap
+C00912,Espanya,Oci,Cap
+C00913,Espanya,Oci,Cap
+C00914,Alemanya,Oci,Cap
+C00915,Estats Units,Oci,Cap
+C00916,Itàlia,Oci,Silver
+C00917,Portugal,Oci,Cap
+C00918,França,Negocis,Silver
+C00919,Països Baixos,Negocis,Cap
+C00920,Regne Unit,Oci,Silver
+C00921,Països Baixos,Oci,Silver
+C00922,Espanya,Oci,Cap
+C00923,Espanya,Oci,Silver
+C00924,França,Negocis,Silver
+C00925,Portugal,Oci,Cap
+C00926,Regne Unit,Negocis,Cap
+C00927,Espanya,Oci,Cap
+C00928,Espanya,Oci,Gold
+C00929,Espanya,Oci,Cap
+C00930,Països Baixos,Negocis,Cap
+C00931,Estats Units,Oci,Cap
+C00932,Regne Unit,Oci,Cap
+C00933,Regne Unit,Oci,Gold
+C00934,Portugal,Oci,Cap
+C00935,Portugal,Oci,Gold
+C00936,Espanya,Negocis,Gold
+C00937,Estats Units,Oci,Cap
+C00938,Regne Unit,Negocis,Cap
+C00939,Portugal,Negocis,Silver
+C00940,Espanya,Negocis,Silver
+C00941,Països Baixos,Negocis,Silver
+C00942,Espanya,Oci,Silver
+C00943,Espanya,Negocis,Cap
+C00944,Regne Unit,Negocis,Cap
+C00945,Alemanya,Oci,Cap
+C00946,Alemanya,Negocis,Cap
+C00947,Espanya,Negocis,Cap
+C00948,Portugal,Oci,Cap
+C00949,Alemanya,Oci,Cap
+C00950,Alemanya,Negocis,Cap
+C00951,Portugal,Oci,Cap
+C00952,Països Baixos,Oci,Cap
+C00953,Alemanya,Oci,Cap
+C00954,Espanya,Negocis,Cap
+C00955,Regne Unit,Oci,Cap
+C00956,Espanya,Oci,Silver
+C00957,Espanya,Oci,Silver
+C00958,Espanya,Oci,Silver
+C00959,Alemanya,Oci,Cap
+C00960,Espanya,Negocis,Cap
+C00961,Estats Units,Oci,Silver
+C00962,França,Oci,Cap
+C00963,Països Baixos,Oci,Cap
+C00964,Espanya,Oci,Cap
+C00965,Itàlia,Oci,Silver
+C00966,Espanya,Oci,Cap
+C00967,Espanya,Oci,Cap
+C00968,Espanya,Oci,Cap
+C00969,Espanya,Negocis,Cap
+C00970,Regne Unit,Oci,Cap
+C00971,Itàlia,Oci,Cap
+C00972,Espanya,Oci,Silver
+C00973,Portugal,Oci,Cap
+C00974,Països Baixos,Negocis,Cap
+C00975,Alemanya,Negocis,Cap
+C00976,Espanya,Oci,Silver
+C00977,Portugal,Oci,Cap
+C00978,Espanya,Oci,Silver
+C00979,Espanya,Oci,Gold
+C00980,Espanya,Oci,Silver
+C00981,Alemanya,Oci,Cap
+C00982,Països Baixos,Negocis,Cap
+C00983,Espanya,Oci,Cap
+C00984,Portugal,Oci,Cap
+C00985,Alemanya,Oci,Cap
+C00986,Itàlia,Oci,Silver
+C00987,Espanya,Oci,Cap
+C00988,Itàlia,Oci,Gold
+C00989,Itàlia,Oci,Cap
+C00990,Espanya,Negocis,Silver
+C00991,França,Negocis,Cap
+C00992,Portugal,Oci,Cap
+C00993,Espanya,Negocis,Silver
+C00994,Regne Unit,Oci,Cap
+C00995,Espanya,Oci,Cap
+C00996,Espanya,Negocis,Cap
+C00997,Regne Unit,Oci,Cap
+C00998,Alemanya,Negocis,Cap
+C00999,Itàlia,Oci,Cap
+C01000,Espanya,Oci,Silver
+C01001,Països Baixos,Negocis,Silver
+C01002,Espanya,Oci,Silver
+C01003,Alemanya,Oci,Gold
+C01004,Espanya,Oci,Cap
+C01005,Portugal,Oci,Cap
+C01006,Espanya,Oci,Cap
+C01007,Portugal,Oci,Cap
+C01008,Espanya,Oci,Cap
+C01009,Espanya,Oci,Cap
+C01010,Alemanya,Oci,Cap
+C01011,Regne Unit,Negocis,Cap
+C01012,França,Negocis,Gold
+C01013,Estats Units,Negocis,Cap
+C01014,Espanya,Negocis,Cap
+C01015,França,Negocis,Cap
+C01016,Regne Unit,Oci,Cap
+C01017,Itàlia,Oci,Cap
+C01018,Espanya,Oci,Cap
+C01019,Estats Units,Oci,Cap
+C01020,França,Oci,Silver
+C01021,Espanya,Oci,Cap
+C01022,Alemanya,Oci,Cap
+C01023,Espanya,Oci,Cap
+C01024,Estats Units,Oci,Cap
+C01025,Portugal,Oci,Cap
+C01026,Països Baixos,Negocis,Cap
+C01027,Itàlia,Oci,Cap
+C01028,França,Oci,Cap
+C01029,Regne Unit,Oci,Silver
+C01030,Itàlia,Negocis,Cap
+C01031,Itàlia,Oci,Silver
+C01032,França,Negocis,Cap
+C01033,Regne Unit,Oci,Cap
+C01034,Espanya,Oci,Silver
+C01035,Espanya,Oci,Cap
+C01036,França,Oci,Cap
+C01037,Espanya,Negocis,Cap
+C01038,França,Oci,Cap
+C01039,Portugal,Oci,Gold
+C01040,Espanya,Oci,Silver
+C01041,Alemanya,Oci,Gold
+C01042,Alemanya,Oci,Cap
+C01043,França,Oci,Silver
+C01044,Espanya,Oci,Cap
+C01045,França,Oci,Silver
+C01046,Portugal,Oci,Cap
+C01047,Espanya,Negocis,Cap
+C01048,Estats Units,Oci,Cap
+C01049,Portugal,Oci,Cap
+C01050,Espanya,Negocis,Cap
+C01051,Espanya,Negocis,Silver
+C01052,França,Oci,Cap
+C01053,Espanya,Negocis,Cap
+C01054,Estats Units,Oci,Cap
+C01055,Regne Unit,Oci,Silver
+C01056,Portugal,Oci,Cap
+C01057,Alemanya,Oci ,Cap
+C01058,França,Oci,Silver
+C01059,Alemanya,Negocis,Silver
+C01060,Alemanya,Oci,Silver
+C01061,Països Baixos,Oci,Cap
+C01062,Espanya,Oci,Silver
+C01063,Espanya,Oci,Silver
+C01064,Espanya,Negocis,Cap
+C01065,Espanya,Oci,Cap
+C01066,Espanya,Negocis,Cap
+C01067,Regne Unit,Oci,Cap
+C01068,Espanya,Oci,Silver
+C01069,Regne Unit,Negocis,Cap
+C01070,Regne Unit,Negocis,Silver
+C01071,Portugal,Negocis,Cap
+C01072,Espanya,Oci,Cap
+C01073,Itàlia,Oci,Cap
+C01074,Espanya,Oci,Cap
+C01075,Alemanya,Oci,Cap
+C01076,Regne Unit,Negocis,Silver
+C01077,Alemanya,Oci,Silver
+C01078,Espanya,Oci,Cap
+C01079,Portugal,Negocis,Cap
+C01080,Espanya,Oci,Cap
+C01081,Espanya,Oci,Cap
+C01082,Alemanya,Negocis,Cap
+C01083,Espanya,Negocis,Cap
+C01084,Alemanya,Negocis,Cap
+C01085,Alemanya,Oci,Silver
+C01086,Espanya,Oci,Cap
+C01087,Espanya,Negocis,Cap
+C01088,Portugal,Oci,Cap
+C01089,França,Oci,Cap
+C01090,Espanya,Oci,Cap
+C01091,Regne Unit,Oci,Gold
+C01092,Portugal,Negocis,Cap
+C01093,Alemanya,Negocis,Cap
+C01094,Espanya,Oci,Cap
+C01095,Regne Unit,Oci,Cap
+C01096,Espanya,Negocis,Gold
+C01097,Espanya,Oci,Cap
+C01098,Espanya,Negocis,Silver
+C01099,França,Negocis,Cap
+C01100,Espanya,Negocis,Cap
+C01101,Alemanya,Negocis,Gold
+C01102,Alemanya,Oci,Cap
+C01103,Estats Units,Oci,Cap
+C01104,Espanya,Negocis,Gold
+C01105,Portugal,Oci,Cap
+C01106,França,Oci,Gold
+C01107,Alemanya,Oci,Cap
+C01108,França,Negocis,Silver
+C01109,Països Baixos,Oci,Cap
+C01110,Regne Unit,Oci,Cap
+C01111,Itàlia,Oci,Cap
+C01112,Regne Unit,Oci,Cap
+C01113,Espanya,Oci,Cap
+C01114,Espanya,Oci,Silver
+C01115,Espanya,Oci,Cap
+C01116,Espanya,Negocis,Silver
+C01117,França,Negocis,Cap
+C01118,Portugal,Oci,Cap
+C01119,Alemanya,Oci,Cap
+C01120,Espanya,Oci,Silver
+C01121,Espanya,Negocis,Cap
+C01122,Espanya,Oci,Cap
+C01123,Espanya,Negocis,Cap
+C01124,Alemanya,Negocis,Gold
+C01125,Alemanya,Negocis,Cap
+C01126,Alemanya,Oci,Cap
+C01127,Espanya,Oci,Silver
+C01128,Itàlia,Negocis,Silver
+C01129,Espanya,Negocis,Cap
+C01130,França,Oci,Cap
+C01131,Alemanya,Oci,Cap
+C01132,Espanya,Oci,Silver
+C01133,Itàlia,Negocis,Silver
+C01134,Regne Unit,Oci,Cap
+C01135,Estats Units,Negocis,Silver
+C01136,Espanya,Oci,Gold
+C01137,Alemanya,Oci,Cap
+C01138,Itàlia,Negocis,Cap
+C01139,Espanya,Oci,Cap
+C01140,França,Negocis,Cap
+C01141,Espanya,Oci,Cap
+C01142,Itàlia,Oci,Cap
+C01143,Espanya,Oci,Cap
+C01144,Països Baixos,Oci,Cap
+C01145,Països Baixos,Oci,Cap
+C01146,Portugal,Oci,Silver
+C01147,Itàlia,Oci,Cap
+C01148,Espanya,Oci,Silver
+C01149,Regne Unit,Oci,Cap
+C01150,Espanya,Oci,Cap
+C01151,Espanya,Negocis,Cap
+C01152,Alemanya,Oci,Cap
+C01153,Estats Units,Oci,Silver
+C01154,França,Oci,Cap
+C01155,Espanya,Oci,Cap
+C01156,Regne Unit,Oci,Silver
+C01157,Alemanya,Negocis,Cap
+C01158,Portugal,Oci,Gold
+C01159,Espanya,Oci,Cap
+C01160,Alemanya,Oci,Silver
+C01161,Espanya,Negocis,Cap
+C01162,Espanya,Oci,Cap
+C01163,Espanya,Oci,Gold
+C01164,Espanya,Oci,Cap
+C01165,Itàlia,Oci,Cap
+C01166,Regne Unit,Negocis,Silver
+C01167,Espanya,Oci,Silver
+C01168,Espanya,Oci,Cap
+C01169,Països Baixos,Oci,Silver
+C01170,Espanya,Oci,Gold
+C01171,Regne Unit,Oci,Cap
+C01172,França,Oci,Cap
+C01173,Espanya,Oci,Cap
+C01174,Espanya,Oci,Cap
+C01175,França,Negocis,Silver
+C01176,Països Baixos,Oci,Cap
+C01177,Espanya,Oci,Cap
+C01178,Regne Unit,Oci,Cap
+C01179,Regne Unit,Oci,Cap
+C01180,Regne Unit,Negocis,Gold
+C01181,Espanya,Negocis,Cap
+C01182,Espanya,Oci,Cap
+C01183,Itàlia,Negocis,Cap
+C01184,Espanya,Oci,Gold
+C01185,Espanya,Oci,Cap
+C01186,Itàlia,Negocis,Cap
+C01187,Espanya,Oci,Cap
+C01188,Itàlia,Negocis,Silver
+C01189,Espanya,Oci,Cap
+C01190,Itàlia,Oci,Cap
+C01191,França,Oci,Gold
+C01192,Espanya,Oci,Silver
+C01193,Espanya,Negocis,Cap
+C01194,França,Oci,Cap
+C01195,Portugal,Oci,Cap
+C01196,Alemanya,Oci,Cap
+C01197,Itàlia,Negocis,Cap
+C01198,Països Baixos,Oci,Cap
+C01199,Països Baixos,Oci,Silver
+C01200,Espanya,Oci,Silver
+C01201,Espanya,Negocis,Silver
+C01202,Regne Unit,Negocis,Cap
+C01203,França,Negocis,Cap
+C01204,Espanya,Negocis,Cap
+C01205,Itàlia,Oci,Silver
+C01206,França,Oci,Cap
+C01207,Portugal,Negocis,Cap
+C01208,Espanya,Negocis,Gold
+C01209,Itàlia,Oci,Cap
+C01210,Espanya,Oci,Cap
+C01211,Països Baixos,Oci,Silver
+C01212,Portugal,Oci,Cap
+C01213,Itàlia,Negocis,Cap
+C01214,Portugal,Oci,Gold
+C01215,França,Oci,Cap
+C01216,Espanya,Oci,Cap
+C01217,Espanya,Oci,Cap
+C01218,Alemanya,Oci,Silver
+C01219,Espanya,Oci,Cap
+C01220,Regne Unit,Oci,Cap
+C01221,França,Oci,Silver
+C01222,Espanya,Oci,Gold
+C01223,Regne Unit,Negocis,Silver
+C01224,Estats Units,Negocis,Silver
+C01225,Espanya,Oci,Cap
+C01226,Espanya,Negocis,Silver
+C01227,Espanya,Negocis,Silver
+C01228,Regne Unit,Oci,Cap
+C01229,Alemanya,Negocis,Cap
+C01230,Estats Units,Oci,Cap
+C01231,Espanya,Oci,Cap
+C01232,Espanya,Oci,Cap
+C01233,França,Negocis,Gold
+C01234,Alemanya,Oci,Cap
+C01235,Espanya,Oci,Gold
+C01236,Espanya,Oci,Cap
+C01237,França,Negocis,Cap
+C01238,França,Negocis,Cap
+C01239,Portugal,Negocis,Cap
+C01240,Regne Unit,Negocis,Gold
+C01241,Espanya,Oci,Cap
+C01242,Espanya,Oci,Cap
+C01243,França,Negocis,Gold
+C01244,França,Oci,Cap
+C01245,Espanya,Oci,Gold
+C01246,Alemanya,Negocis,Gold
+C01247,Espanya,Oci,Silver
+C01248,França,Negocis,Cap
+C01249,Estats Units,Oci,Cap
+C01250,Regne Unit,Oci,Cap
+C01251,Regne Unit,Negocis,Silver
+C01252,Espanya,Oci,Silver
+C01253,Espanya,Oci,Cap
+C01254,Alemanya,Oci,Silver
+C01255,Itàlia,Oci,Cap
+C01256,Espanya,Oci,Gold
+C01257,Espanya,Oci,Gold
+C01258,Regne Unit,Negocis,Cap
+C01259,Espanya,Oci,Cap
+C01260,Espanya,Oci,Cap
+C01261,Regne Unit,Oci,Cap
+C01262,Espanya,Oci,Gold
+C01263,Regne Unit,Oci,Silver
+C01264,Regne Unit,Oci,Silver
+C01265,Espanya,Oci,Silver
+C01266,Espanya,Negocis,Gold
+C01267,França,Oci,Cap
+C01268,Espanya,Oci,Cap
+C01269,Itàlia,Oci,Cap
+C01270,Espanya,Oci,Cap
+C01271,Espanya,Oci,Cap
+C01272,França,Oci,Cap
+C01273,Alemanya,Oci,Cap
+C01274,Països Baixos,Oci,Gold
+C01275,Espanya,Oci,Cap
+C01276,Portugal,Oci,Cap
+C01277,Estats Units,Oci,Cap
+C01278,Països Baixos,Oci,Cap
+C01279,França,Oci,Silver
+C01280,Regne Unit,Oci,Cap
+C01281,França,Oci,Cap
+C01282,Espanya,Oci,Silver
+C01283,Espanya,Negocis,Cap
+C01284,Estats Units,Oci,Cap
+C01285,Itàlia,Negocis,Gold
+C01286,Espanya,Oci,Cap
+C01287,Espanya,Negocis,Cap
+C01288,Espanya,Oci,Gold
+C01289,Regne Unit,Negocis,Cap
+C01290,Regne Unit,Negocis,Cap
+C01291,Espanya,Oci,Cap
+C01292,Itàlia,Negocis,Gold
+C01293,Països Baixos,Oci,Cap
+C01294,Països Baixos,Oci,Cap
+C01295,França,Oci,Cap
+C01296,Estats Units,Oci,Cap
+C01297,Portugal,Negocis,Cap
+C01298,Espanya,Negocis,Cap
+C01299,França,Oci,Cap
+C01300,Estats Units,Oci,Cap
+C01301,Alemanya,Oci,Silver
+C01302,França,Negocis,Silver
+C01303,Alemanya,Negocis,Cap
+C01304,Espanya,Oci,Cap
+C01305,Regne Unit,Oci,Cap
+C01306,Espanya,Oci,Silver
+C01307,Espanya,Oci,Cap
+C01308,Espanya,Negocis,Cap
+C01309,França,Negocis,Cap
+C01310,Espanya,Oci,Gold
+C01311,Espanya,Oci,Gold
+C01312,Espanya,Oci,Cap
+C01313,Alemanya,Oci,Cap
+C01314,Espanya,Oci,Cap
+C01315,Espanya,Oci,Cap
+C01316,Regne Unit,Oci,Cap
+C01317,Espanya,Oci,Cap
+C01318,França,Oci,Silver
+C01319,Espanya,Negocis,Cap
+C01320,Espanya,Oci,Cap
+C01321,França,Oci,Cap
+C01322,Itàlia,Oci,Silver
+C01323,Espanya,Oci,Cap
+C01324,Regne Unit,Negocis,Cap
+C01325,França,Oci,Cap
+C01326,Espanya,Negocis,Cap
+C01327,Estats Units,Oci,Cap
+C01328,Espanya,Oci,Cap
+C01329,Regne Unit,Oci,Cap
+C01330,França,Negocis,Cap
+C01331,França,Negocis,Cap
+C01332,Espanya,Negocis,Silver
+C01333,Alemanya,Oci,Cap
+C01334,Espanya,Oci,Silver
+C01335,Espanya,Negocis,Silver
+C01336,Espanya,Oci,Silver
+C01337,Alemanya,Oci,Cap
+C01338,Estats Units,Oci,Cap
+C01339,Alemanya,Negocis,Cap
+C01340,França,Negocis,Gold
+C01341,Alemanya,Oci,Cap
+C01342,Espanya,Negocis,Gold
+C01343,França,Negocis,Cap
+C01344,França,Negocis,Cap
+C01345,Espanya,Oci,Cap
+C01346,Espanya,Oci,Silver
+C01347,Espanya,Oci,Silver
+C01348,Espanya,Negocis,Gold
+C01349,Alemanya,Negocis,Silver
+C01350,Països Baixos,Negocis,Silver
+C01351,Alemanya,Oci,Cap
+C01352,Països Baixos,oci,Cap
+C01353,Itàlia,Oci,Cap
+C01354,Espanya,Oci,Silver
+C01355,Espanya,Negocis,Gold
+C01356,França,Oci,Cap
+C01357,Espanya,Oci,Cap
+C01358,Itàlia,Negocis,Silver
+C01359,França,Oci,Cap
+C01360,Estats Units,Negocis,Gold
+C01361,Països Baixos,Oci,Cap
+C01362,Països Baixos,Oci,Cap
+C01363,Espanya,Oci,Silver
+C01364,Països Baixos,Negocis,Gold
+C01365,Espanya,Oci,Cap
+C01366,Alemanya,Oci,Cap
+C01367,Espanya,Negocis,Cap
+C01368,Espanya,Oci,Silver
+C01369,Països Baixos,Oci,Silver
+C01370,Portugal,Oci,Cap
+C01371,Portugal,Oci,Cap
+C01372,França,Negocis,Cap
+C01373,Alemanya,Oci,Silver
+C01374,França,Negocis,Cap
+C01375,Alemanya,Negocis,Silver
+C01376,Itàlia,Negocis,Cap
+C01377,Espanya,Negocis,Silver
+C01378,França,Oci,Cap
+C01379,Espanya,Oci,Cap
+C01380,Alemanya,Oci,Cap
+C01381,Espanya,Oci,Gold
+C01382,Espanya,Negocis,Cap
+C01383,Itàlia,Negocis,Silver
+C01384,Espanya,Oci,Cap
+C01385,Espanya,Oci,Cap
+C01386,Espanya,Oci,Cap
+C01387,Països Baixos,Oci,Cap
+C01388,Espanya,Oci,Cap
+C01389,Espanya,Oci,Cap
+C01390,Alemanya,Negocis,Cap
+C01391,Espanya,Oci,Gold
+C01392,Portugal,Oci,Cap
+C01393,Països Baixos,Negocis,Cap
+C01394,Regne Unit,Negocis,Cap
+C01395,Alemanya,Oci,Cap
+C01396,Espanya,Oci,Silver
+C01397,Itàlia,Oci,Cap
+C01398,Espanya,Oci,Cap
+C01399,Itàlia,Oci,Cap
+C01400,Espanya,Negocis,Silver
+C01401,Alemanya,Oci,Cap
+C01402,Itàlia,Oci,Cap
+C01403,França,Oci,Cap
+C01404,Espanya,Oci,Cap
+C01405,Itàlia,Oci,Silver
+C01406,Regne Unit,Oci,Silver
+C01407,Espanya,Negocis,Cap
+C01408,França,Oci,Cap
+C01409,Espanya,Oci,Silver
+C01410,Països Baixos,Oci,Silver
+C01411,Regne Unit,Oci,Gold
+C01412,Regne Unit,Oci,Cap
+C01413,Espanya,Oci,Cap
+C01414,Regne Unit,Oci,Cap
+C01415,Països Baixos,Oci,Gold
+C01416,Regne Unit,Negocis,Gold
+C01417,Alemanya,Oci,Cap
+C01418,Espanya,Oci,Cap
+C01419,Regne Unit,Oci,Silver
+C01420,Estats Units,Oci,Silver
+C01421,Itàlia,Oci,Gold
+C01422,Espanya,Oci,Cap
+C01423,Portugal,Oci,Cap
+C01424,Regne Unit,Oci,Silver
+C01425,Alemanya,Oci,Gold
+C01426,Regne Unit,Oci,Cap
+C01427,Espanya,Oci ,Silver
+C01428,Alemanya,Oci,Cap
+C01429,Portugal,Oci,Cap
+C01430,Espanya,Oci,Gold
+C01431,Espanya,Oci,Cap
+C01432,Espanya,Oci,Cap
+C01433,França,Oci,Cap
+C01434,Regne Unit,Negocis,Silver
+C01435,Alemanya,Oci,Cap
+C01436,Espanya,Oci,Silver
+C01437,França,Negocis,Cap
+C01438,Espanya,Negocis,Cap
+C01439,França,Oci,Cap
+C01440,Espanya,Oci,Gold
+C01441,Països Baixos,Oci,Cap
+C01442,Espanya,Negocis,Silver
+C01443,Espanya,Oci,Cap
+C01444,Alemanya,Negocis,Gold
+C01445,Alemanya,Oci,Cap
+C01446,Espanya,Negocis,Silver
+C01447,Espanya,Negocis,Gold
+C01448,Alemanya,Negocis,Silver
+C01449,Itàlia,Oci,Cap
+C01450,Alemanya,Oci,Cap
+C01451,Portugal,Oci,Gold
+C01452,Països Baixos,Oci,Cap
+C01453,França,Oci,Cap
+C01454,Regne Unit,Oci,Gold
+C01455,Espanya,Negocis,Gold
+C01456,Espanya,Oci,Gold
+C01457,França,Negocis,Gold
+C01458,Regne Unit,Negocis,Gold
+C01459,França,Oci,Cap
+C01460,França,Oci,Cap
+C01461,Alemanya,Oci,Silver
+C01462,Espanya,Negocis,Cap
+C01463,Portugal,Oci,Silver
+C01464,França,Negocis,Cap
+C01465,Espanya,Oci,Cap
+C01466,França,Oci,Silver
+C01467,Països Baixos,Oci,Cap
+C01468,Regne Unit,Oci,Cap
+C01469,Portugal,Oci,Cap
+C01470,Itàlia,Oci,Cap
+C01471,Espanya,Negocis,Cap
+C01472,Estats Units,Oci,Cap
+C01473,Regne Unit,Oci,Cap
+C01474,Espanya,Oci,Cap
+C01475,Portugal,Oci,Cap
+C01476,Itàlia,Oci,Silver
+C01477,Alemanya,Oci,Cap
+C01478,Regne Unit,Oci,Cap
+C01479,Itàlia,Negocis,Silver
+C01480,Espanya,Negocis,Cap
+C01481,Itàlia,Negocis,Cap
+C01482,Estats Units,Negocis,Cap
+C01483,Alemanya,Negocis,Cap
+C01484,Itàlia,Negocis,Cap
+C01485,França,Negocis,Cap
+C01486,Espanya,Oci,Cap
+C01487,Alemanya,Oci,Cap
+C01488,Països Baixos,Oci,Cap
+C01489,Alemanya,Negocis,Silver
+C01490,Estats Units,Oci,Cap
+C01491,Espanya,Oci,Silver
+C01492,Espanya,Negocis,Cap
+C01493,Alemanya,Negocis,Gold
+C01494,Països Baixos,Oci,Cap
+C01495,Itàlia,Negocis,Silver
+C01496,França,Oci,Cap
+C01497,França,Negocis,Cap
+C01498,Països Baixos,Oci,Cap
+C01499,Espanya,Negocis,Cap
+C01500,França,Oci,Cap
+C01501,Itàlia,Oci,Silver
+C01502,Països Baixos,Negocis,Cap
+C01503,Regne Unit,Oci,Cap
+C01504,Països Baixos,Oci,Cap
+C01505,Espanya,Oci,Cap
+C01506,Estats Units,Oci,Silver
+C01507,Regne Unit,Negocis,Cap
+C01508,Països Baixos,Oci,Cap
+C01509,Regne Unit,Oci,Cap
+C01510,Regne Unit,Oci,Silver
+C01511,Espanya,Negocis,Silver
+C01512,França,Oci,Silver
+C01513,Espanya,Negocis,Silver
+C01514,Espanya,Oci,Silver
+C01515,Espanya,Oci,Silver
+C01516,Països Baixos,Oci,Cap
+C01517,Regne Unit,Oci,Cap
+C01518,Itàlia,Oci,Cap
+C01519,Espanya,Oci,Cap
+C01520,Espanya,Negocis,Cap
+C01521,Espanya,Oci,Cap
+C01522,Alemanya,Negocis,Cap
+C01523,Espanya,Oci,Cap
+C01524,Itàlia,Oci,Cap
+C01525,Espanya,Oci,Cap
+C01526,Espanya,Negocis,Cap
+C01527,Regne Unit,Oci,Silver
+C01528,Espanya,Negocis,Silver
+C01529,Espanya,Oci,Cap
+C01530,Estats Units,Oci,Cap
+C01531,França,Oci,Cap
+C01532,França,Oci,Cap
+C01533,Alemanya,Oci,Cap
+C01534,Alemanya,Negocis,Silver
+C01535,Espanya,Oci,Cap
+C01536,Espanya,Negocis,Silver
+C01537,Espanya,Negocis,Silver
+C01538,Espanya,Oci,Gold
+C01539,Espanya,Oci,Cap
+C01540,Estats Units,Oci,Cap
+C01541,Països Baixos,Oci,Silver
+C01542,Alemanya,Oci,Cap
+C01543,França,Oci,Cap
+C01544,Espanya,Oci,Silver
+C01545,Regne Unit,Oci,Cap
+C01546,Països Baixos,Negocis,Silver
+C01547,França,Oci,Cap
+C01548,França,Oci,Cap
+C01549,Alemanya,Oci,Cap
+C01550,Regne Unit,Oci,Gold
+C01551,Espanya,Oci,Silver
+C01552,França,Oci,Silver
+C01553,Països Baixos,Oci,Cap
+C01554,França,Oci,Cap
+C01555,Espanya,Oci,Cap
+C01556,Espanya,Oci,Cap
+C01557,Espanya,Negocis,Gold
+C01558,Alemanya,Negocis,Cap
+C01559,França,Oci,Silver
+C01560,Estats Units,Oci,Silver
+C01561,Itàlia,Oci,Gold
+C01562,Espanya,Negocis,Silver
+C01563,Estats Units,Oci,Cap
+C01564,Itàlia,Negocis,Gold
+C01565,Espanya,Negocis,Silver
+C01566,Espanya,Oci,Gold
+C01567,França,Oci,Cap
+C01568,Espanya,Oci ,Cap
+C01569,Portugal,Negocis,Silver
+C01570,Portugal,Oci,Cap
+C01571,França,Negocis,Cap
+C01572,Espanya,Oci,Cap
+C01573,Estats Units,Negocis,Gold
+C01574,França,Oci,Cap
+C01575,Països Baixos,Negocis,Silver
+C01576,Espanya,Oci,Silver
+C01577,Regne Unit,Oci,Silver
+C01578,Estats Units,Oci,Cap
+C01579,Alemanya,Oci,Silver
+C01580,Alemanya,Oci,Cap
+C01581,Regne Unit,Oci,Silver
+C01582,França,Negocis,Gold
+C01583,Alemanya,Oci,Cap
+C01584,Estats Units,Negocis,Cap
+C01585,Alemanya,Oci,Cap
+C01586,Països Baixos,Negocis,Cap
+C01587,Espanya,Oci,Cap
+C01588,Espanya,Oci,Cap
+C01589,Itàlia,Oci,Silver
+C01590,Alemanya,Negocis,Silver
+C01591,França,Negocis,Cap
+C01592,Alemanya,Oci,Silver
+C01593,França,Oci,Cap
+C01594,Espanya,Negocis,Cap
+C01595,Espanya,Oci,Cap
+C01596,Espanya,Oci,Cap
+C01597,Espanya,Oci,Cap
+C01598,França,Negocis,Cap
+C01599,Portugal,Negocis,Cap
+C01600,França,Oci,Cap
+C01601,Estats Units,Oci,Cap
+C01602,França,Oci,Cap
+C01603,Espanya,Oci,Silver
+C01604,Espanya,Negocis,Cap
+C01605,Estats Units,Negocis,Gold
+C01606,Espanya,Oci,Cap
+C01607,França,Oci,Cap
+C01608,Espanya,Oci,Cap
+C01609,Espanya,Oci,Cap
+C01610,Espanya,Negocis,Cap
+C01611,Espanya,Oci,Cap
+C01612,Alemanya,Oci,Cap
+C01613,Regne Unit,Oci,Cap
+C01614,Espanya,Oci,Cap
+C01615,Alemanya,Oci,Cap
+C01616,Regne Unit,Oci,Cap
+C01617,Països Baixos,Oci,Cap
+C01618,Portugal,Oci,Silver
+C01619,Països Baixos,Negocis,Cap
+C01620,Espanya,Oci,Silver
+C01621,Espanya,Oci,Cap
+C01622,Itàlia,Oci,Cap
+C01623,Espanya,Oci,Silver
+C01624,Portugal,Oci,Cap
+C01625,Estats Units,Oci,Cap
+C01626,Espanya,Negocis,Cap
+C01627,Espanya,Oci,Cap
+C01628,Espanya,Oci,Cap
+C01629,Espanya,Oci,Silver
+C01630,Regne Unit,Negocis,Silver
+C01631,França,Oci,Gold
+C01632,Regne Unit,Negocis,Cap
+C01633,Regne Unit,Oci,Cap
+C01634,Alemanya,Negocis,Cap
+C01635,Itàlia,Oci,Cap
+C01636,Alemanya,Oci,Silver
+C01637,Itàlia,Negocis,Cap
+C01638,Estats Units,Negocis,Silver
+C01639,Regne Unit,Oci,Cap
+C01640,Regne Unit,Oci,Silver
+C01641,Espanya,Oci,Cap
+C01642,França,Oci,Cap
+C01643,Espanya,Oci,Cap
+C01644,Portugal,Oci,Gold
+C01645,Portugal,Negocis,Cap
+C01646,Regne Unit,Oci,Cap
+C01647,Espanya,Negocis,Silver
+C01648,Portugal,Negocis,Cap
+C01649,Espanya,Negocis,Cap
+C01650,Alemanya,Negocis,Cap
+C01651,Espanya,Oci,Cap
+C01652,Espanya,Negocis,Gold
+C01653,França,Negocis,Gold
+C01654,Alemanya,Negocis,Silver
+C01655,Alemanya,Oci,Cap
+C01656,Itàlia,Oci,Cap
+C01657,Estats Units,Oci,Cap
+C01658,Itàlia,Negocis,Cap
+C01659,Estats Units,Negocis,Cap
+C01660,Itàlia,Negocis,Gold
+C01661,França,Oci,Cap
+C01662,Portugal,Oci,Cap
+C01663,Alemanya,Oci,Cap
+C01664,Portugal,Oci,Silver
+C01665,Països Baixos,Negocis,Cap
+C01666,Espanya,Negocis,Silver
+C01667,Espanya,Negocis,Cap
+C01668,Països Baixos,Oci,Cap
+C01669,Alemanya,Oci,Gold
+C01670,Portugal,Oci,Cap
+C01671,Espanya,Negocis,Silver
+C01672,França,Negocis,Silver
+C01673,Espanya,Negocis,Cap
+C01674,Països Baixos,Negocis,Cap
+C01675,Països Baixos,Oci,Silver
+C01676,Espanya,Oci,Cap
+C01677,Alemanya,Oci,Silver
+C01678,Alemanya,Oci,Silver
+C01679,Espanya,Negocis,Silver
+C01680,Itàlia,Negocis,Gold
+C01681,Espanya,Negocis,Cap
+C01682,Espanya,Negocis,Gold
+C01683,Països Baixos,Oci,Cap
+C01684,Països Baixos,Oci,Cap
+C01685,França,Oci,Silver
+C01686,Alemanya,Oci,Cap
+C01687,Espanya,Oci,Cap
+C01688,França,Negocis,Silver
+C01689,Regne Unit,Oci,Gold
+C01690,Portugal,Oci,Cap
+C01691,Espanya,Oci,Gold
+C01692,França,Negocis,Silver
+C01693,França,Oci,Cap
+C01694,Alemanya,Oci,Gold
+C01695,Portugal,Oci,Cap
+C01696,França,Oci,Silver
+C01697,Espanya,Negocis,Gold
+C01698,Espanya,Oci,Cap
+C01699,Espanya,Oci,Cap
+C01700,Espanya,Negocis,Silver
+C01701,Espanya,Oci,Cap
+C01702,Alemanya,Oci,Silver
+C01703,Portugal,Negocis,Cap
+C01704,Portugal,Negocis,Gold
+C01705,Regne Unit,Oci,Cap
+C01706,França,Oci,Cap
+C01707,Alemanya,Oci,Silver
+C01708,Espanya,Negocis,Gold
+C01709,Regne Unit,Oci,Gold
+C01710,Espanya,Negocis,Gold
+C01711,Espanya,Negocis,Cap
+C01712,Regne Unit,Oci,Cap
+C01713,Alemanya,Negocis,Silver
+C01714,Països Baixos,Oci,Silver
+C01715,Itàlia,Negocis,Silver
+C01716,Espanya,Oci,Cap
+C01717,Espanya,Negocis,Gold
+C01718,Països Baixos,Oci,Silver
+C01719,Espanya,Oci,Silver
+C01720,Espanya,Negocis,Cap
+C01721,Espanya,Oci,Cap
+C01722,Alemanya,Oci,Gold
+C01723,França,Oci,Cap
+C01724,Espanya,Negocis,Cap
+C01725,Espanya,Oci,Cap
+C01726,Espanya,Oci,Cap
+C01727,Espanya,Oci,Cap
+C01728,Alemanya,Oci,Silver
+C01729,Països Baixos,Oci,Cap
+C01730,Alemanya,Oci,Silver
+C01731,Espanya,Oci,Silver
+C01732,Espanya,Negocis,Gold
+C01733,França,Negocis,Cap
+C01734,Regne Unit,Negocis,Cap
+C01735,Estats Units,Negocis,Cap
+C01736,Alemanya,Negocis,Silver
+C01737,Alemanya,Negocis,Silver
+C01738,Països Baixos,Oci,Cap
+C01739,Itàlia,Oci,Cap
+C01740,Alemanya,Negocis,Cap
+C01741,Alemanya,Oci,Cap
+C01742,Regne Unit,Oci,Cap
+C01743,Alemanya,Negocis,Cap
+C01744,França,Negocis,Cap
+C01745,Espanya,Oci,Cap
+C01746,Espanya,Oci,Gold
+C01747,Espanya,Oci,Silver
+C01748,Portugal,Oci,Cap
+C01749,Espanya,Oci,Cap
+C01750,Portugal,Oci,Silver
+C01751,Espanya,Negocis,Cap
+C01752,França,Negocis,Cap
+C01753,Espanya,Negocis,Silver
+C01754,França,Negocis,Gold
+C01755,Portugal,Oci,Cap
+C01756,Espanya,Oci,Gold
+C01757,Espanya,Oci,Cap
+C01758,França,Negocis,Cap
+C01759,Alemanya,Negocis,Gold
+C01760,Regne Unit,Negocis,Silver
+C01761,Espanya,Oci,Silver
+C01762,Països Baixos,Negocis,Cap
+C01763,Regne Unit,Oci,Cap
+C01764,Espanya,Oci,Cap
+C01765,Espanya,Oci,Cap
+C01766,Espanya,Negocis,Gold
+C01767,Regne Unit,Negocis,Gold
+C01768,Estats Units,Negocis,Silver
+C01769,Itàlia,Oci,Cap
+C01770,Regne Unit,Oci,Cap
+C01771,Espanya,Oci,Cap
+C01772,Itàlia,Oci,Cap
+C01773,Alemanya,Oci,Cap
+C01774,Regne Unit,Oci,Cap
+C01775,Espanya,Oci,Cap
+C01776,Espanya,Oci,Cap
+C01777,Espanya,Negocis,Silver
+C01778,França,Negocis,Cap
+C01779,Espanya,Oci,Cap
+C01780,Portugal,Oci,Cap
+C01781,Espanya,Negocis,Cap
+C01782,Itàlia,Negocis,Cap
+C01783,Portugal,Negocis,Cap
+C01784,Itàlia,Oci,Cap
+C01785,Espanya,Negocis,Silver
+C01786,Països Baixos,Oci,Cap
+C01787,Regne Unit,Oci,Gold
+C01788,França,Oci,Cap
+C01789,Alemanya,Oci,Cap
+C01790,Estats Units,Oci,Silver
+C01791,França,Negocis,Gold
+C01792,França,Negocis,Cap
+C01793,Espanya,Negocis,Cap
+C01794,Espanya,Oci,Silver
+C01795,Portugal,Oci,Cap
+C01796,Itàlia,Oci,Cap
+C01797,Alemanya,Oci,Cap
+C01798,França,Negocis,Gold
+C01799,França,Oci,Gold
+C01800,Països Baixos,Oci,Silver
+C01801,Espanya,Oci,Cap
+C01802,Espanya,Oci,Cap
+C01803,Regne Unit,Oci,Cap
+C01804,Espanya,Oci,Silver
+C01805,França,Oci,Silver
+C01806,França,Oci,Cap
+C01807,Regne Unit,Negocis,Silver
+C01808,Alemanya,Oci,Cap
+C01809,França,Oci,Silver
+C01810,Alemanya,Oci,Cap
+C01811,Alemanya,Oci,Silver
+C01812,Regne Unit,Oci,Silver
+C01813,Espanya,Oci,Silver
+C01814,Regne Unit,Oci,Cap
+C01815,Països Baixos,Negocis,Cap
+C01816,Països Baixos,Negocis,Silver
+C01817,Espanya,Negocis,Cap
+C01818,Espanya,Oci,Silver
+C01819,Regne Unit,Negocis,Gold
+C01820,Espanya,Oci,Cap
+C01821,Espanya,Negocis,Cap
+C01822,Alemanya,Oci,Gold
+C01823,Països Baixos,Negocis,Silver
+C01824,Països Baixos,Negocis,Cap
+C01825,França,Oci,Cap
+C01826,Països Baixos,Oci,Cap
+C01827,Espanya,Oci,Cap
+C01828,Espanya,Oci,Silver
+C01829,Portugal,Oci,Silver
+C01830,Països Baixos,Negocis,Silver
+C01831,Regne Unit,Negocis,Cap
+C01832,Alemanya,Negocis,Cap
+C01833,França,Oci,Cap
+C01834,Espanya,Oci,Cap
+C01835,Espanya,Negocis,Silver
+C01836,Estats Units,Oci,Cap
+C01837,Portugal,Negocis,Gold
+C01838,Espanya,Oci,Cap
+C01839,Estats Units,Negocis,Gold
+C01840,Regne Unit,Oci,Cap
+C01841,Alemanya,Oci,Cap
+C01842,Països Baixos,Oci,Cap
+C01843,Espanya,Oci,Cap
+C01844,Regne Unit,Oci,Silver
+C01845,Espanya,Negocis,Silver
+C01846,Alemanya,Oci,Cap
+C01847,Portugal,Negocis,Cap
+C01848,França,Oci,Cap
+C01849,Itàlia,Oci,Cap
+C01850,França,Negocis,Gold
+C01851,França,Negocis,Cap
+C01852,Espanya,Oci,Cap
+C01853,Alemanya,Oci,Silver
+C01854,Estats Units,Oci,Silver
+C01855,França,Negocis,Cap
+C01856,Espanya,Oci,Silver
+C01857,Portugal,Negocis,Cap
+C01858,Itàlia,Oci,Cap
+C01859,Espanya,Oci,Cap
+C01860,Espanya,Negocis,Gold
+C01861,Regne Unit,Negocis,Cap
+C01862,Espanya,Oci,Cap
+C01863,França,Oci,Silver
+C01864,Països Baixos,Oci,Cap
+C01865,Alemanya,Negocis,Gold
+C01866,França,Oci,Gold
+C01867,Alemanya,Oci,Cap
+C01868,França,Oci,Silver
+C01869,Estats Units,Oci,Silver
+C01870,Estats Units,Negocis,Cap
+C01871,Països Baixos,Negocis,Cap
+C01872,Alemanya,Oci,Cap
+C01873,Espanya,Negocis,Gold
+C01874,Espanya,Negocis,Silver
+C01875,Països Baixos,Oci,Cap
+C01876,Espanya,Negocis,Silver
+C01877,Itàlia,Oci,Silver
+C01878,Espanya,Oci,Silver
+C01879,Espanya,Oci,Cap
+C01880,França,Oci,Cap
+C01881,Espanya,Oci,Silver
+C01882,Espanya,Oci,Cap
+C01883,Espanya,Oci,Silver
+C01884,Països Baixos,Oci,Cap
+C01885,Països Baixos,Oci,Cap
+C01886,Espanya,Negocis,Gold
+C01887,Països Baixos,Oci,Cap
+C01888,Regne Unit,Oci,Cap
+C01889,Espanya,Negocis,Silver
+C01890,Estats Units,Oci,Silver
+C01891,Espanya,Oci,Cap
+C01892,Espanya,negocis,Cap
+C01893,Espanya,Oci,Cap
+C01894,Alemanya,Oci,Cap
+C01895,Alemanya,Negocis,Gold
+C01896,Espanya,Oci,Cap
+C01897,França,Negocis,Silver
+C01898,Espanya,Oci,Cap
+C01899,Espanya,Negocis,Gold
+C01900,Espanya,Oci,Cap
+C01901,Estats Units,Oci,Gold
+C01902,Espanya,Oci,Cap
+C01903,França,Oci,Cap
+C01904,França,Negocis,Gold
+C01905,Espanya,Oci,Cap
+C01906,Espanya,Negocis,Silver
+C01907,Espanya,Negocis,Cap
+C01908,Espanya,Oci,Silver
+C01909,Estats Units,Oci,Cap
+C01910,Espanya,Negocis,Cap
+C01911,Espanya,Oci,Cap
+C01912,França,Oci,Cap
+C01913,Països Baixos,Negocis,Silver
+C01914,Espanya,Oci,Cap
+C01915,Portugal,Negocis,Silver
+C01916,Espanya,Oci,Cap
+C01917,Espanya,Oci,Cap
+C01918,Països Baixos,Oci,Silver
+C01919,França,Oci,Cap
+C01920,Espanya,Negocis,Cap
+C01921,Espanya,Oci,Silver
+C01922,França,Negocis,Silver
+C01923,Alemanya,Negocis,Cap
+C01924,Regne Unit,Oci,Cap
+C01925,Itàlia,Oci,Cap
+C01926,Espanya,Oci,Silver
+C01927,Portugal,Oci,Cap
+C01928,França,Oci,Gold
+C01929,Regne Unit,Negocis,Cap
+C01930,Regne Unit,Oci,Silver
+C01931,França,Oci,Cap
+C01932,Espanya,Negocis,Silver
+C01933,Espanya,Oci,Gold
+C01934,França,Oci,Cap
+C01935,Itàlia,Oci,Silver
+C01936,França,Oci,Cap
+C01937,Itàlia,Oci,Cap
+C01938,França,Oci,Cap
+C01939,Espanya,Oci,Gold
+C01940,Estats Units,Negocis,Gold
+C01941,Espanya,Negocis,Silver
+C01942,Espanya,Oci,Cap
+C01943,Espanya,Oci,Cap
+C01944,Espanya,Oci,Cap
+C01945,Espanya,Oci,Cap
+C01946,Espanya,Oci,Silver
+C01947,Regne Unit,Oci,Cap
+C01948,França,Oci,Cap
+C01949,Espanya,Oci,Cap
+C01950,Espanya,Oci,Cap
+C01951,França,Oci,Cap
+C01952,Alemanya,Oci,Cap
+C01953,Portugal,Negocis,Cap
+C01954,Espanya,Negocis,Silver
+C01955,Espanya,Oci,Cap
+C01956,Regne Unit,Oci,Cap
+C01957,França,Negocis,Cap
+C01958,Espanya,Oci,Cap
+C01959,Espanya,Oci,Cap
+C01960,Espanya,Oci,Cap
+C01961,Espanya,Negocis,Cap
+C01962,Espanya,Negocis,Cap
+C01963,Regne Unit,Negocis,Cap
+C01964,Espanya,Negocis,Silver
+C01965,Alemanya,Oci,Cap
+C01966,Regne Unit,Oci,Cap
+C01967,Espanya,Oci,Silver
+C01968,Itàlia,Oci,Cap
+C01969,Espanya,Oci,Cap
+C01970,França,Oci,Cap
+C01971,Itàlia,Oci,Cap
+C01972,Regne Unit,Oci,Cap
+C01973,Itàlia,Negocis,Cap
+C01974,Espanya,Oci,Cap
+C01975,Espanya,Oci,Cap
+C01976,Alemanya,Oci,Cap
+C01977,Espanya,Negocis,Cap
+C01978,Itàlia,Oci,Silver
+C01979,Espanya,Oci,Cap
+C01980,Portugal,Oci,Cap
+C01981,França,Oci,Cap
+C01982,Espanya,Oci,Silver
+C01983,Itàlia,Negocis,Silver
+C01984,Espanya,Negocis,Cap
+C01985,Itàlia,Oci,Silver
+C01986,Espanya,Negocis,Cap
+C01987,Espanya,Oci,Silver
+C01988,Itàlia,Negocis,Silver
+C01989,França,Oci,Cap
+C01990,Espanya,Oci,Cap
+C01991,Portugal,Oci,Cap
+C01992,Espanya,Oci,Cap
+C01993,Espanya,Oci,Silver
+C01994,Espanya,Negocis,Cap
+C01995,França,Negocis,Silver
+C01996,Espanya,Oci,Gold
+C01997,Regne Unit,Oci,Silver
+C01998,Alemanya,Negocis,Cap
+C01999,Països Baixos,Oci,Cap
+C02000,França,Negocis,Silver
+C02001,Espanya,Negocis,Gold
+C02002,Estats Units,Negocis,Silver
+C02003,Portugal,Oci,Cap
+C02004,Itàlia,Oci,Cap
+C02005,Espanya,Oci ,Silver
+C02006,Alemanya,Oci,Cap
+C02007,França,Oci,Silver
+C02008,Itàlia,Negocis,Cap
+C02009,França,Oci,Silver
+C02010,Alemanya,Oci,Cap
+C02011,Espanya,Negocis,Cap
+C02012,Alemanya,Negocis,Cap
+C02013,Regne Unit,Negocis,Cap
+C02014,França,Oci,Silver
+C02015,França,Negocis,Cap
+C02016,França,Negocis,Cap
+C02017,Itàlia,Oci,Silver
+C02018,Espanya,Oci,Cap
+C02019,França,Oci,Cap
+C02020,Espanya,Oci,Cap
+C02021,Itàlia,Oci,Cap
+C02022,Itàlia,Oci,Cap
+C02023,França,Oci,Gold
+C02024,Espanya,Negocis,Silver
+C02025,Alemanya,Oci,Cap
+C02026,França,Negocis,Silver
+C02027,Espanya,Oci,Cap
+C02028,Regne Unit,Negocis,Cap
+C02029,Itàlia,Oci,Cap
+C02030,Regne Unit,Oci,Cap
+C02031,Portugal,Oci,Silver
+C02032,França,Oci,Cap
+C02033,Alemanya,Oci,Cap
+C02034,França,Oci,Silver
+C02035,Països Baixos,Oci,Cap
+C02036,Alemanya,Oci,Silver
+C02037,Espanya,Negocis,Cap
+C02038,Espanya,Oci,Cap
+C02039,Alemanya,Oci,Cap
+C02040,Regne Unit,Oci,Cap
+C02041,Països Baixos,Negocis,Gold
+C02042,Portugal,Negocis,Cap
+C02043,Alemanya,Negocis,Silver
+C02044,Espanya,Oci,Cap
+C02045,França,Oci,Gold
+C02046,Espanya,Oci,Cap
+C02047,França,Oci,Cap
+C02048,Espanya,Oci,Cap
+C02049,Estats Units,Oci,Cap
+C02050,Estats Units,Negocis,Cap
+C02051,Itàlia,Oci,Cap
+C02052,Regne Unit,Oci,Cap
+C02053,Portugal,Negocis,Cap
+C02054,Espanya,Oci,Cap
+C02055,Regne Unit,Negocis,Gold
+C02056,França,Oci,Silver
+C02057,França,Oci,Cap
+C02058,Alemanya,Oci,Cap
+C02059,Estats Units,Oci,Cap
+C02060,Espanya,Negocis,Cap
+C02061,Alemanya,Negocis,Cap
+C02062,Regne Unit,Oci,Silver
+C02063,Regne Unit,oci,Cap
+C02064,França,Negocis,Gold
+C02065,Països Baixos,Oci,Cap
+C02066,Espanya,Oci,Cap
+C02067,Espanya,Negocis,Silver
+C02068,Espanya,Oci,Gold
+C02069,Itàlia,Oci,Cap
+C02070,Espanya,Oci,Gold
+C02071,França,Oci,Cap
+C02072,Alemanya,Negocis,Cap
+C02073,Països Baixos,Oci,Cap
+C02074,Espanya,Oci,Cap
+C02075,França,Oci,Cap
+C02076,França,Negocis,Gold
+C02077,França,Oci,Cap
+C02078,Alemanya,Oci,Silver
+C02079,Regne Unit,Negocis,Silver
+C02080,Espanya,Oci,Cap
+C02081,França,Oci,Cap
+C02082,Espanya,Oci,Silver
+C02083,Països Baixos,Negocis,Cap
+C02084,Regne Unit,Oci,Cap
+C02085,França,Negocis,Cap
+C02086,Espanya,Oci,Cap
+C02087,Espanya,Oci,Cap
+C02088,Regne Unit,Oci,Silver
+C02089,Itàlia,Oci,Cap
+C02090,Espanya,Oci,Cap
+C02091,Regne Unit,Oci,Silver
+C02092,Països Baixos,Oci,Cap
+C02093,Països Baixos,Oci,Silver
+C02094,França,Oci,Gold
+C02095,Països Baixos,Oci,Cap
+C02096,Espanya,Oci,Cap
+C02097,França,Oci,Cap
+C02098,França,Oci,Cap
+C02099,Alemanya,Negocis,Cap
+C02100,Portugal,Oci,Cap
+C02101,Portugal,Oci,Cap
+C02102,Espanya,Negocis,Silver
+C02103,Països Baixos,Oci,Silver
+C02104,Portugal,Oci,Cap
+C02105,Espanya,Oci,Cap
+C02106,Alemanya,Oci,Cap
+C02107,Regne Unit,Oci,Cap
+C02108,Espanya,Oci,Cap
+C02109,França,Negocis,Silver
+C02110,Espanya,Oci,Cap
+C02111,Espanya,Oci,Silver
+C02112,França,Negocis,Cap
+C02113,Regne Unit,Negocis,Silver
+C02114,Itàlia,Oci,Cap
+C02115,Espanya,Oci,Cap
+C02116,Espanya,Negocis,Gold
+C02117,Regne Unit,Negocis,Cap
+C02118,Regne Unit,Oci,Cap
+C02119,Alemanya,Oci,Gold
+C02120,Espanya,Negocis,Silver
+C02121,Espanya,Oci,Cap
+C02122,Espanya,Oci,Silver
+C02123,Regne Unit,Oci,Cap
+C02124,Espanya,Oci,Cap
+C02125,França,Negocis,Cap
+C02126,França,Oci,Cap
+C02127,Espanya,Negocis,Cap
+C02128,Regne Unit,Oci,Silver
+C02129,Espanya,Oci,Cap
+C02130,Alemanya,Oci,Cap
+C02131,Itàlia,Oci,Gold
+C02132,Espanya,Oci,Cap
+C02133,Estats Units,Oci,Cap
+C02134,Espanya,Negocis,Gold
+C02135,Regne Unit,Oci,Cap
+C02136,Alemanya,Oci,Silver
+C02137,Itàlia,Oci,Cap
+C02138,Portugal,Oci,Cap
+C02139,Espanya,Negocis,Cap
+C02140,Països Baixos,Oci,Silver
+C02141,Països Baixos,Oci,Cap
+C02142,França,Oci,Silver
+C02143,Alemanya,Oci,Cap
+C02144,França,Oci,Cap
+C02145,Espanya,Oci,Cap
+C02146,Espanya,Oci,Cap
+C02147,França,Oci,Cap
+C02148,Espanya,Oci,Cap
+C02149,Portugal,Oci,Cap
+C02150,Portugal,Negocis,Cap
+C02151,Espanya,Oci,Cap
+C02152,Espanya,Oci,Cap
+C02153,Regne Unit,Negocis,Cap
+C02154,Regne Unit,Oci,Cap
+C02155,Espanya,Negocis,Gold
+C02156,Espanya,Oci,Silver
+C02157,Regne Unit,Negocis,Silver
+C02158,Itàlia,Oci,Cap
+C02159,Espanya,Oci,Cap
+C02160,Alemanya,Oci,Cap
+C02161,Espanya,Oci,Cap
+C02162,Itàlia,Oci,Cap
+C02163,Estats Units,Oci,Cap
+C02164,Estats Units,Negocis,Cap
+C02165,Alemanya,Oci,Cap
+C02166,Estats Units,Negocis,Silver
+C02167,Països Baixos,Oci,Cap
+C02168,França,Oci,Cap
+C02169,França,Negocis,Cap
+C02170,Alemanya,Oci,Silver
+C02171,França,Negocis,Cap
+C02172,Espanya,Oci,Cap
+C02173,França,Oci,Silver
+C02174,Espanya,Oci,Cap
+C02175,Països Baixos,Negocis,Gold
+C02176,França,Oci,Silver
+C02177,Espanya,Oci,Cap
+C02178,Alemanya,Negocis,Silver
+C02179,Alemanya,Oci,Cap
+C02180,Espanya,Oci,Silver
+C02181,França,Oci,Gold
+C02182,Espanya,Oci,Silver
+C02183,Espanya,Negocis,Cap
+C02184,França,Oci,Cap
+C02185,Espanya,Negocis,Cap
+C02186,Itàlia,Oci,Cap
+C02187,Alemanya,Oci,Cap
+C02188,Regne Unit,Oci,Cap
+C02189,França,Negocis,Gold
+C02190,Espanya,Negocis,Cap
+C02191,Espanya,Oci,Cap
+C02192,Estats Units,Oci,Cap
+C02193,Espanya,Oci,Silver
+C02194,Alemanya,Oci,Cap
+C02195,Alemanya,Oci,Cap
+C02196,Espanya,Oci,Cap
+C02197,Itàlia,Oci,Silver
+C02198,França,Negocis,Cap
+C02199,Regne Unit,Oci,Silver
+C02200,Espanya,Negocis,Silver
+C02201,Espanya,Oci,Cap
+C02202,Espanya,Negocis,Cap
+C02203,Estats Units,Oci,Silver
+C02204,Espanya,Oci,Cap
+C02205,Portugal,Oci,Cap
+C02206,Espanya,Oci,Cap
+C02207,Portugal,Oci,Cap
+C02208,Itàlia,Oci,Cap
+C02209,Alemanya,Negocis,Cap
+C02210,Regne Unit,Negocis,Gold
+C02211,Portugal,Negocis,Silver
+C02212,Regne Unit,Oci,Cap
+C02213,França,Negocis,Cap
+C02214,França,Oci,Cap
+C02215,Itàlia,Oci,Silver
+C02216,Estats Units,Oci,Gold
+C02217,Portugal,Oci,Cap
+C02218,Regne Unit,Oci,Cap
+C02219,Regne Unit,Negocis,Silver
+C02220,Itàlia,Negocis,Silver
+C02221,Regne Unit,Oci,Gold
+C02222,Espanya,Oci,Silver
+C02223,Estats Units,Oci,Cap
+C02224,França,Oci,Silver
+C02225,Itàlia,Oci,Cap
+C02226,Països Baixos,Negocis,Cap
+C02227,França,Oci,Gold
+C02228,Espanya,Oci,Silver
+C02229,Espanya,Oci,Cap
+C02230,Espanya,Oci,Cap
+C02231,Espanya,oci,Cap
+C02232,Alemanya,Negocis,Silver
+C02233,Espanya,Oci,Cap
+C02234,Alemanya,Oci,Cap
+C02235,Regne Unit,Oci,Cap
+C02236,Espanya,Oci,Cap
+C02237,França,Oci,Silver
+C02238,França,Negocis,Cap
+C02239,Portugal,Negocis,Cap
+C02240,Regne Unit,Oci,Cap
+C02241,Regne Unit,Oci,Cap
+C02242,Països Baixos,Negocis,Cap
+C02243,Alemanya,Oci,Cap
+C02244,Portugal,Negocis,Cap
+C02245,Alemanya,Negocis,Cap
+C02246,Espanya,Negocis,Cap
+C02247,Espanya,Negocis,Cap
+C02248,Estats Units,Oci,Cap
+C02249,Espanya,Oci,Silver
+C02250,França,Oci,Cap
+C02251,Espanya,Oci,Cap
+C02252,Països Baixos,Oci,Cap
+C02253,Espanya,Negocis,Silver
+C02254,Espanya,Oci,Cap
+C02255,Regne Unit,Oci,Cap
+C02256,Alemanya,Negocis,Silver
+C02257,Regne Unit,Oci,Cap
+C02258,Alemanya,Negocis,Cap
+C02259,Portugal,Oci,Cap
+C02260,França,Oci,Cap
+C02261,Itàlia,Negocis,Cap
+C02262,Espanya,Negocis,Gold
+C02263,França,Oci,Cap
+C02264,Països Baixos,Oci,Cap
+C02265,Espanya,Oci,Cap
+C02266,França,Oci,Gold
+C02267,Espanya,Oci,Gold
+C02268,Itàlia,Negocis,Silver
+C02269,Portugal,Negocis,Silver
+C02270,Països Baixos,Oci,Cap
+C02271,Espanya,Oci,Cap
+C02272,Estats Units,Negocis,Cap
+C02273,Espanya,Negocis,Cap
+C02274,Espanya,Oci,Cap
+C02275,Alemanya,Oci,Silver
+C02276,Itàlia,Oci,Cap
+C02277,Espanya,Negocis,Gold
+C02278,Alemanya,Oci,Cap
+C02279,Espanya,Negocis,Silver
+C02280,Alemanya,Negocis,Cap
+C02281,Espanya,Oci,Silver
+C02282,França,Oci,Cap
+C02283,Alemanya,Oci,Silver
+C02284,Itàlia,Oci,Cap
+C02285,Alemanya,Oci,Cap
+C02286,Espanya,Oci,Cap
+C02287,Alemanya,Oci,Cap
+C02288,Espanya,Negocis,Gold
+C02289,Itàlia,Negocis,Cap
+C02290,Espanya,Oci,Silver
+C02291,Espanya,Oci,Silver
+C02292,Espanya,Oci,Cap
+C02293,Alemanya,Oci,Cap
+C02294,Espanya,Oci,Gold
+C02295,França,Oci,Silver
+C02296,Espanya,Oci,Gold
+C02297,Estats Units,Oci,Cap
+C02298,Itàlia,Negocis,Silver
+C02299,Espanya,Oci,Cap
+C02300,Itàlia,Negocis,Silver
+C02301,Portugal,Oci,Gold
+C02302,Països Baixos,Negocis,Cap
+C02303,Espanya,Negocis,Gold
+C02304,Itàlia,Oci,Silver
+C02305,Espanya,Oci,Cap
+C02306,Espanya,Negocis,Cap
+C02307,Espanya,Oci,Cap
+C02308,Espanya,Oci,Silver
+C02309,Espanya,Oci,Silver
+C02310,Espanya,Oci,Gold
+C02311,Portugal,Oci,Cap
+C02312,Espanya,Oci,Silver
+C02313,Portugal,Negocis,Cap
+C02314,Països Baixos,Oci,Silver
+C02315,Espanya,Oci,Cap
+C02316,Espanya,Oci,Silver
+C02317,Alemanya,Oci,Cap
+C02318,Portugal,Oci,Cap
+C02319,França,Negocis,Gold
+C02320,Espanya,Oci,Silver
+C02321,Espanya,Negocis,Cap
+C02322,Estats Units,Oci,Silver
+C02323,Regne Unit,Oci,Cap
+C02324,Regne Unit,Negocis,Cap
+C02325,Espanya,Oci,Gold
+C02326,França,Negocis,Cap
+C02327,Regne Unit,Negocis,Gold
+C02328,Espanya,Negocis,Cap
+C02329,Espanya,Oci,Cap
+C02330,Regne Unit,Negocis,Cap
+C02331,França,Oci,Cap
+C02332,Itàlia,Negocis,Silver
+C02333,França,Negocis,Cap
+C02334,Estats Units,Oci,Cap
+C02335,Estats Units,Oci,Silver
+C02336,Alemanya,Oci,Silver
+C02337,Alemanya,Negocis,Cap
+C02338,Estats Units,Oci,Cap
+C02339,França,Negocis,Silver
+C02340,Portugal,Negocis,Gold
+C02341,Països Baixos,Negocis,Silver
+C02342,França,Oci,Cap
+C02343,Regne Unit,Oci,Cap
+C02344,França,Negocis,Silver
+C02345,Espanya,Negocis,Cap
+C02346,Espanya,Negocis,Gold
+C02347,Espanya,Oci,Silver
+C02348,Espanya,Oci,Cap
+C02349,Estats Units,Negocis,Silver
+C02350,Regne Unit,Oci,Cap
+C02351,Espanya,Oci,Cap
+C02352,Estats Units,Oci,Cap
+C02353,França,Oci,Cap
+C02354,França,Oci,Gold
+C02355,Estats Units,Oci,Cap
+C02356,Espanya,Negocis,Cap
+C02357,Espanya,Oci,Cap
+C02358,Alemanya,Oci,Silver
+C02359,Regne Unit,Negocis,Gold
+C02360,Espanya,Oci,Cap
+C02361,Espanya,Oci,Cap
+C02362,Espanya,Negocis,Gold
+C02363,Alemanya,Negocis,Cap
+C02364,Alemanya,Oci,Cap
+C02365,Països Baixos,Oci,Cap
+C02366,Alemanya,Oci,Cap
+C02367,Estats Units,Oci,Silver
+C02368,Itàlia,Oci,Cap
+C02369,Espanya,Oci,Gold
+C02370,Itàlia,Negocis,Cap
+C02371,Itàlia,Oci,Cap
+C02372,França,Negocis,Gold
+C02373,Alemanya,Oci,Cap
+C02374,Espanya,Oci,Silver
+C02375,França,Oci,Silver
+C02376,Itàlia,Oci,Silver
+C02377,França,Oci,Cap
+C02378,Itàlia,Oci,Cap
+C02379,Alemanya,Oci,Cap
+C02380,Espanya,Oci,Cap
+C02381,Països Baixos,Oci,Cap
+C02382,Regne Unit,Negocis,Cap
+C02383,Alemanya,Oci,Silver
+C02384,Espanya,Negocis,Cap
+C02385,Alemanya,Negocis,Cap
+C02386,Alemanya,Oci,Cap
+C02387,Itàlia,Oci,Gold
+C02388,Espanya,Negocis,Cap
+C02389,Itàlia,Oci,Cap
+C02390,Espanya,Negocis,Cap
+C02391,Portugal,Oci,Silver
+C02392,Regne Unit,Negocis,Cap
+C02393,Portugal,Negocis,Cap
+C02394,França,Oci,Cap
+C02395,Espanya,Oci,Cap
+C02396,Espanya,Oci,Cap
+C02397,Espanya,Oci,Cap
+C02398,Espanya,Negocis,Cap
+C02399,Espanya,Oci,Cap
+C02400,Espanya,Oci,Silver
+C02401,França,Oci,Silver
+C02402,Regne Unit,Oci,Gold
+C02403,Espanya,Oci,Cap
+C02404,Espanya,Oci,Cap
+C02405,Alemanya,Oci,Cap
+C02406,Alemanya,Oci,Cap
+C02407,Regne Unit,Oci,Cap
+C02408,Regne Unit,Oci,Cap
+C02409,Països Baixos,Oci,Cap
+C02410,Estats Units,Oci,Cap
+C02411,França,Oci,Cap
+C02412,Itàlia,Oci,Cap
+C02413,Regne Unit,Oci,Cap
+C02414,Alemanya,Oci,Cap
+C02415,Alemanya,Oci,Cap
+C02416,Alemanya,Negocis,Cap
+C02417,Espanya,Negocis,Cap
+C02418,Alemanya,Oci,Cap
+C02419,França,Oci,Cap
+C02420,Espanya,Oci,Gold
+C02421,Estats Units,Oci,Silver
+C02422,Portugal,Oci,Cap
+C02423,Espanya,Oci,Cap
+C02424,Alemanya,Oci,Cap
+C02425,França,Oci,Cap
+C02426,Espanya,Negocis,Cap
+C02427,Espanya,Negocis,Silver
+C02428,Portugal,Negocis,Cap
+C02429,Països Baixos,Oci,Silver
+C02430,Portugal,Oci,Cap
+C02431,Espanya,Negocis,Silver
+C02432,Espanya,Oci,Gold
+C02433,Alemanya,Oci,Gold
+C02434,Països Baixos,Oci,Cap
+C02435,Portugal,Oci,Cap
+C02436,Espanya,Negocis,Cap
+C02437,França,Negocis,Silver
+C02438,Espanya,Negocis,Silver
+C02439,Espanya,Oci,Cap
+C02440,Alemanya,Oci,Cap
+C02441,Espanya,Oci,Cap
+C02442,Alemanya,Oci,Cap
+C02443,Itàlia,Oci,Cap
+C02444,Alemanya,Negocis,Silver
+C02445,Espanya,Negocis,Cap
+C02446,Espanya,Oci,Silver
+C02447,Espanya,Oci,Cap
+C02448,Espanya,Oci,Silver
+C02449,Regne Unit,Oci,Silver
+C02450,Espanya,Oci,Cap
+C02451,Itàlia,Oci,Cap
+C02452,Espanya,Oci,Cap
+C02453,França,Oci,Gold
+C02454,França,Negocis,Cap
+C02455,Alemanya,Negocis,Gold
+C02456,Regne Unit,Negocis,Cap
+C02457,Espanya,Oci,Silver
+C02458,Alemanya,Negocis,Silver
+C02459,Espanya,Oci,Gold
+C02460,Itàlia,Negocis,Cap
+C02461,Alemanya,Negocis,Cap
+C02462,Espanya,Oci,Cap
+C02463,Països Baixos,Negocis,Cap
+C02464,Espanya,Oci,Gold
+C02465,França,Oci,Gold
+C02466,Estats Units,Oci,Cap
+C02467,Regne Unit,Negocis,Cap
+C02468,Regne Unit,Oci,Cap
+C02469,Espanya,Oci,Cap
+C02470,Alemanya,Oci,Gold
+C02471,Espanya,Negocis,Cap
+C02472,Països Baixos,Oci,Cap
+C02473,França,Oci,Cap
+C02474,Espanya,Oci,Cap
+C02475,Espanya,Oci,Gold
+C02476,Espanya,Negocis,Cap
+C02477,Països Baixos,Oci,Cap
+C02478,Espanya,Oci,Cap
+C02479,França,Oci,Cap
+C02480,Portugal,Oci,Cap
+C02481,Espanya,Oci,Gold
+C02482,Espanya,Oci,Gold
+C02483,Portugal,Negocis,Cap
+C02484,Espanya,Oci,Silver
+C02485,França,Negocis,Cap
+C02486,Espanya,Oci,Cap
+C02487,Regne Unit,Oci,Cap
+C02488,França,Negocis,Silver
+C02489,Espanya,Negocis,Silver
+C02490,Espanya,Oci,Cap
+C02491,Portugal,Oci,Cap
+C02492,Espanya,Oci,Cap
+C02493,Espanya,Oci,Silver
+C02494,Països Baixos,Negocis,Cap
+C02495,Països Baixos,Oci,Cap
+C02496,Espanya,Negocis,Gold
+C02497,Portugal,Oci,Cap
+C02498,Espanya,Oci,Cap
+C02499,Itàlia,Oci,Silver
+C02500,França,Oci,Silver
+C02501,Portugal,Oci,Cap
+C02502,Espanya,Oci,Silver
+C02503,Regne Unit,Oci,Silver
+C02504,Regne Unit,Negocis,Cap
+C02505,Estats Units,Oci,Cap
+C02506,Estats Units,Oci,Cap
+C02507,Espanya,Oci,Cap
+C02508,França,Oci,Silver
+C02509,Espanya,Oci,Silver
+C02510,Alemanya,Oci,Cap
+C02511,Alemanya,Negocis,Gold
+C02512,Espanya,Oci,Gold
+C02513,Itàlia,Oci,Cap
+C02514,Regne Unit,Negocis,Silver
+C02515,Espanya,Negocis,Gold
+C02516,Alemanya,Oci,Gold
+C02517,Portugal,Oci,Cap
+C02518,Alemanya,Oci,Cap
+C02519,Portugal,Oci,Cap
+C02520,Regne Unit,Oci,Gold
+C02521,Portugal,Oci,Cap
+C02522,Espanya,Negocis,Silver
+C02523,Alemanya,Oci,Cap
+C02524,França,Oci,Cap
+C02525,Espanya,Oci,Cap
+C02526,França,Negocis,Cap
+C02527,Espanya,Negocis,Cap
+C02528,Països Baixos,Negocis,Gold
+C02529,Alemanya,Oci,Gold
+C02530,Espanya,Oci,Cap
+C02531,Regne Unit,Negocis ,Cap
+C02532,Espanya,Oci,Cap
+C02533,Espanya,Negocis,Cap
+C02534,Portugal,Oci,Cap
+C02535,Espanya,Negocis,Silver
+C02536,Espanya,Negocis,Cap
+C02537,Espanya,Oci,Cap
+C02538,Estats Units,Oci,Cap
+C02539,Espanya,Oci,Cap
+C02540,Espanya,Negocis,Cap
+C02541,Estats Units,Oci,Cap
+C02542,Portugal,Oci,Cap
+C02543,Espanya,Negocis,Cap
+C02544,Espanya,Negocis,Silver
+C02545,Països Baixos,Negocis,Gold
+C02546,Regne Unit,Negocis,Cap
+C02547,França,Oci,Gold
+C02548,Regne Unit,Oci,Silver
+C02549,Espanya,Oci,Cap
+C02550,França,Oci,Cap
+C02551,Espanya,Oci,Cap
+C02552,Regne Unit,Oci,Gold
+C02553,Itàlia,Oci,Cap
+C02554,Espanya,Negocis,Silver
+C02555,Regne Unit,Oci,Cap
+C02556,Itàlia,Negocis,Gold
+C02557,Regne Unit,Oci,Cap
+C02558,Espanya,Negocis,Cap
+C02559,Espanya,Oci,Cap
+C02560,Portugal,Oci,Gold
+C02561,Itàlia,Negocis,Cap
+C02562,Espanya,Oci,Silver
+C02563,Espanya,Negocis,Gold
+C02564,Espanya,Negocis,Cap
+C02565,França,Negocis,Gold
+C02566,Estats Units,Negocis,Cap
+C02567,Alemanya,Negocis,Silver
+C02568,Espanya,Oci,Cap
+C02569,Espanya,Negocis,Gold
+C02570,Alemanya,Negocis,Cap
+C02571,Regne Unit,Oci,Cap
+C02572,Alemanya,Oci,Silver
+C02573,Itàlia,Oci,Cap
+C02574,Estats Units,Oci,Silver
+C02575,França,Oci,Silver
+C02576,França,Oci,Cap
+C02577,Itàlia,Negocis,Gold
+C02578,Països Baixos,Negocis,Cap
+C02579,Espanya,Oci,Cap
+C02580,Espanya,Oci,Cap
+C02581,França,Negocis,Gold
+C02582,Espanya,Oci,Cap
+C02583,Alemanya,Negocis,Silver
+C02584,Espanya,Oci,Gold
+C02585,Països Baixos,Oci,Cap
+C02586,França,Oci,Cap
+C02587,Espanya,Oci,Silver
+C02588,Estats Units,Oci,Cap
+C02589,Països Baixos,Negocis,Cap
+C02590,França,Oci,Silver
+C02591,Espanya,Oci,Cap
+C02592,Països Baixos,Negocis,Cap
+C02593,Regne Unit,Negocis,Silver
+C02594,Regne Unit,Oci,Silver
+C02595,Estats Units,Oci,Cap
+C02596,Regne Unit,Oci,Cap
+C02597,Itàlia,Oci,Cap
+C02598,Itàlia,Negocis,Silver
+C02599,Alemanya,Oci,Cap
+C02600,Espanya,Oci,Cap
+C02601,Espanya,Oci,Silver
+C02602,França,Oci,Cap
+C02603,Regne Unit,Oci,Cap
+C02604,Regne Unit,Oci,Cap
+C02605,Itàlia,Negocis,Cap
+C02606,Portugal,Negocis,Cap
+C02607,Espanya,Oci,Cap
+C02608,Portugal,Oci,Cap
+C02609,Regne Unit,Oci,Silver
+C02610,Països Baixos,Oci,Silver
+C02611,Espanya,Oci,Cap
+C02612,Espanya,Oci,Cap
+C02613,Itàlia,Negocis,Gold
+C02614,Itàlia,Oci,Cap
+C02615,Espanya,Oci,Cap
+C02616,França,Oci,Cap
+C02617,Espanya,Oci,Cap
+C02618,Regne Unit,Negocis,Cap
+C02619,Espanya,Oci,Cap
+C02620,França,Oci,Cap
+C02621,Alemanya,Oci,Cap
+C02622,Espanya,Negocis,Silver
+C02623,Espanya,Oci,Cap
+C02624,Països Baixos,Oci,Cap
+C02625,Alemanya,Oci,Silver
+C02626,Itàlia,Negocis,Gold
+C02627,França,Negocis,Gold
+C02628,Estats Units,Oci,Cap
+C02629,Espanya,Oci,Cap
+C02630,Espanya,Oci,Gold
+C02631,Portugal,Oci,Gold
+C02632,Països Baixos,Negocis,Gold
+C02633,Espanya,Oci,Cap
+C02634,Regne Unit,Oci,Cap
+C02635,Espanya,Oci,Cap
+C02636,Espanya,Negocis,Cap
+C02637,Regne Unit,Oci,Cap
+C02638,Itàlia,Oci,Cap
+C02639,Espanya,Oci,Cap
+C02640,Estats Units,Oci,Silver
+C02641,França,Oci,Cap
+C02642,Espanya,Negocis,Cap
+C02643,Espanya,Oci,Silver
+C02644,Espanya,Oci,Cap
+C02645,Països Baixos,Negocis,Cap
+C02646,França,Negocis,Cap
+C02647,Regne Unit,Negocis,Silver
+C02648,Espanya,Negocis,Silver
+C02649,Itàlia,Negocis,Silver
+C02650,Itàlia,Oci,Cap
+C02651,Portugal,Oci,Gold
+C02652,Espanya,Oci,Cap
+C02653,Espanya,Negocis,Cap
+C02654,Portugal,Negocis,Cap
+C02655,Alemanya,Oci,Cap
+C02656,Regne Unit,Oci,Cap
+C02657,Espanya,Oci,Cap
+C02658,Regne Unit,Oci,Cap
+C02659,Espanya,Oci,Cap
+C02660,Estats Units,Oci,Silver
+C02661,Alemanya,Negocis,Cap
+C02662,Espanya,Negocis,Cap
+C02663,Itàlia,Oci,Cap
+C02664,Espanya,Oci,Cap
+C02665,Alemanya,Oci,Cap
+C02666,Portugal,Oci,Cap
+C02667,Portugal,Negocis,Cap
+C02668,Itàlia,oci,Cap
+C02669,Alemanya,Oci,Silver
+C02670,Països Baixos,Oci,Silver
+C02671,Espanya,Negocis,Silver
+C02672,Països Baixos,Negocis,Gold
+C02673,Portugal,Oci,Cap
+C02674,Països Baixos,Negocis,Cap
+C02675,Estats Units,Negocis,Cap
+C02676,Portugal,Oci,Cap
+C02677,Països Baixos,Oci,Cap
+C02678,Espanya,Negocis,Silver
+C02679,Països Baixos,Oci,Silver
+C02680,Regne Unit,Oci,Silver
+C02681,Itàlia,Negocis,Silver
+C02682,França,Oci,Cap
+C02683,Espanya,Oci,Gold
+C02684,Espanya,Oci,Cap
+C02685,Alemanya,Oci,Silver
+C02686,Alemanya,Negocis,Cap
+C02687,França,Negocis,Silver
+C02688,Espanya,Oci,Cap
+C02689,Itàlia,Oci,Cap
+C02690,Itàlia,Negocis,Cap
+C02691,Espanya,Oci,Cap
+C02692,França,Oci,Cap
+C02693,França,Negocis,Cap
+C02694,Alemanya,Negocis,Gold
+C02695,Espanya,Oci,Cap
+C02696,Portugal,Oci,Cap
+C02697,Alemanya,Oci,Cap
+C02698,Itàlia,Oci,Cap
+C02699,França,Oci,Cap
+C02700,Alemanya,Oci,Cap
+C02701,França,Oci,Cap
+C02702,França,Negocis,Cap
+C02703,Regne Unit,Oci,Cap
+C02704,Regne Unit,Oci,Cap
+C02705,França,Oci,Cap
+C02706,França,Negocis,Gold
+C02707,França,Oci,Cap
+C02708,Itàlia,Oci,Silver
+C02709,Espanya,Negocis,Cap
+C02710,Regne Unit,Oci,Cap
+C02711,Espanya,Oci,Gold
+C02712,França,Oci,Silver
+C02713,Espanya,Oci,Cap
+C02714,França,Oci,Cap
+C02715,Espanya,Oci,Cap
+C02716,França,Oci,Silver
+C02717,Itàlia,negocis,Silver
+C02718,Itàlia,Oci,Silver
+C02719,Alemanya,Oci,Silver
+C02720,Itàlia,Oci,Silver
+C02721,Regne Unit,Negocis,Cap
+C02722,Espanya,Oci,Silver
+C02723,Alemanya,Oci,Cap
+C02724,Regne Unit,Oci,Silver
+C02725,Espanya,Oci,Cap
+C02726,Itàlia,Oci,Cap
+C02727,Països Baixos,Oci,Cap
+C02728,Portugal,Negocis,Silver
+C02729,Espanya,Negocis,Silver
+C02730,Països Baixos,Oci,Cap
+C02731,Portugal,Oci,Silver
+C02732,Països Baixos,Oci,Silver
+C02733,Espanya,Oci,Cap
+C02734,Itàlia,Negocis,Silver
+C02735,Espanya,Negocis,Gold
+C02736,Itàlia,Negocis,Gold
+C02737,Espanya,Oci,Gold
+C02738,Alemanya,Oci,Cap
+C02739,Regne Unit,Oci,Cap
+C02740,Espanya,Oci,Gold
+C02741,Espanya,Oci,Gold
+C02742,França,Negocis,Cap
+C02743,Espanya,Oci,Cap
+C02744,França,Oci,Cap
+C02745,Espanya,Oci,Cap
+C02746,Espanya,Negocis,Silver
+C02747,Alemanya,Oci,Cap
+C02748,Espanya,Negocis,Cap
+C02749,Espanya,Negocis,Cap
+C02750,França,Negocis,Cap
+C02751,Itàlia,Oci,Gold
+C02752,Països Baixos,Oci,Cap
+C02753,França,Oci,Silver
+C02754,Estats Units,Negocis,Cap
+C02755,Alemanya,Negocis,Cap
+C02756,Estats Units,Oci,Silver
+C02757,Itàlia,Negocis,Cap
+C02758,Portugal,Oci,Cap
+C02759,França,Negocis,Cap
+C02760,Espanya,Oci ,Cap
+C02761,Estats Units,Negocis,Gold
+C02762,Espanya,Oci,Cap
+C02763,Regne Unit,Oci,Cap
+C02764,Estats Units,Oci,Gold
+C02765,Espanya,Negocis,Cap
+C02766,Espanya,Negocis,Gold
+C02767,Itàlia,Oci,Cap
+C02768,Països Baixos,Negocis,Cap
+C02769,França,Oci,Cap
+C02770,Espanya,Negocis,Cap
+C02771,França,Negocis,Gold
+C02772,Estats Units,Negocis,Cap
+C02773,Espanya,Oci,Cap
+C02774,Espanya,Oci,Gold
+C02775,Països Baixos,Negocis,Cap
+C02776,França,Oci,Cap
+C02777,Espanya,Oci,Silver
+C02778,França,Oci,Cap
+C02779,Espanya,Oci,Cap
+C02780,Regne Unit,Negocis,Cap
+C02781,Alemanya,Oci,Cap
+C02782,Espanya,Oci,Gold
+C02783,Espanya,Negocis,Cap
+C02784,Espanya,Negocis,Cap
+C02785,Espanya,Oci,Cap
+C02786,Alemanya,Oci,Cap
+C02787,Espanya,Oci,Cap
+C02788,Regne Unit,Oci,Silver
+C02789,Regne Unit,Oci,Cap
+C02790,Alemanya,Negocis,Cap
+C02791,Alemanya,Negocis,Cap
+C02792,Espanya,Oci,Silver
+C02793,França,Oci,Cap
+C02794,Estats Units,Oci,Cap
+C02795,Alemanya,Oci,Cap
+C02796,Països Baixos,Oci,Silver
+C02797,Espanya,Negocis,Cap
+C02798,Estats Units,Oci,Cap
+C02799,Alemanya,Oci,Cap
+C02800,Regne Unit,Oci,Cap
+C02801,França,Negocis,Cap
+C02802,Espanya,Oci,Cap
+C02803,Espanya,Negocis,Silver
+C02804,Països Baixos,Oci,Cap
+C02805,Països Baixos,Oci,Cap
+C02806,França,Oci,Cap
+C02807,Regne Unit,Oci,Gold
+C02808,Espanya,Oci,Cap
+C02809,Portugal,Negocis,Silver
+C02810,Espanya,Oci,Silver
+C02811,Portugal,Oci,Silver
+C02812,França,Oci,Silver
+C02813,Espanya,Oci,Silver
+C02814,Regne Unit,Negocis,Cap
+C02815,Alemanya,Negocis,Gold
+C02816,Espanya,Oci,Silver
+C02817,Regne Unit,Oci,Silver
+C02818,Regne Unit,Negocis,Silver
+C02819,Espanya,Oci,Cap
+C02820,Regne Unit,Negocis,Silver
+C02821,Estats Units,Oci,Silver
+C02822,França,Oci,Cap
+C02823,Alemanya,Negocis,Cap
+C02824,Espanya,Negocis,Silver
+C02825,França,Negocis,Cap
+C02826,Regne Unit,Oci,Cap
+C02827,Alemanya,Oci,Cap
+C02828,Regne Unit,Oci,Cap
+C02829,Espanya,Oci,Cap
+C02830,Espanya,Oci,Gold
+C02831,Alemanya,Oci,Cap
+C02832,Portugal,Oci,Cap
+C02833,Espanya,Negocis,Cap
+C02834,Portugal,Negocis,Silver
+C02835,Països Baixos,Negocis,Cap
+C02836,Espanya,Oci,Cap
+C02837,Espanya,Oci,Silver
+C02838,Portugal,Oci,Cap
+C02839,Regne Unit,Oci,Cap
+C02840,Alemanya,Oci,Silver
+C02841,Itàlia,Oci,Cap
+C02842,Espanya,Oci,Cap
+C02843,Alemanya,Negocis,Cap
+C02844,Espanya,Oci,Cap
+C02845,Regne Unit,Negocis,Silver
+C02846,Països Baixos,Oci,Silver
+C02847,França,Negocis,Cap
+C02848,Espanya,Negocis,Silver
+C02849,Alemanya,Oci,Cap
+C02850,Espanya,Oci,Silver
+C02851,Alemanya,Oci,Gold
+C02852,Itàlia,Oci,Cap
+C02853,Regne Unit,Negocis,Cap
+C02854,Alemanya,Negocis,Silver
+C02855,Regne Unit,Oci,Silver
+C02856,Espanya,Oci,Cap
+C02857,Itàlia,Oci,Silver
+C02858,Alemanya,Oci,Gold
+C02859,Espanya,Negocis,Gold
+C02860,Regne Unit,Oci,Cap
+C02861,França,Negocis,Cap
+C02862,Itàlia,Negocis,Cap
+C02863,Espanya,Oci,Cap
+C02864,Espanya,Oci,Cap
+C02865,Espanya,Negocis,Silver
+C02866,Portugal,Negocis,Silver
+C02867,Regne Unit,Oci,Cap
+C02868,Portugal,Negocis,Gold
+C02869,França,Negocis,Silver
+C02870,Països Baixos,Oci,Cap
+C02871,Espanya,Oci,Cap
+C02872,França,Oci,Cap
+C02873,França,Negocis,Silver
+C02874,Portugal,Oci,Silver
+C02875,Portugal,Oci,Cap
+C02876,Itàlia,Oci,Cap
+C02877,França,Oci,Cap
+C02878,Portugal,Negocis,Gold
+C02879,Itàlia,Oci,Silver
+C02880,Itàlia,Oci,Silver
+C02881,Espanya,Negocis,Cap
+C02882,Països Baixos,Oci,Cap
+C02883,Alemanya,Negocis,Cap
+C02884,Espanya,Oci,Cap
+C02885,França,Oci,Cap
+C02886,Espanya,Oci,Silver
+C02887,Espanya,Oci,Cap
+C02888,Portugal,Oci,Silver
+C02889,Estats Units,Negocis,Gold
+C02890,França,Oci,Cap
+C02891,Espanya,Oci,Silver
+C02892,Itàlia,Oci,Silver
+C02893,Alemanya,oci,Cap
+C02894,Espanya,Oci,Cap
+C02895,Espanya,Negocis,Silver
+C02896,Espanya,Oci,Silver
+C02897,Espanya,Oci,Cap
+C02898,Alemanya,Negocis,Gold
+C02899,Regne Unit,Oci,Silver
+C02900,França,Oci,Cap
+C02901,Països Baixos,Oci,Silver
+C02902,Espanya,Negocis,Cap
+C02903,Espanya,Oci,Cap
+C02904,França,Oci,Cap
+C02905,França,Oci,Cap
+C02906,Alemanya,Oci,Cap
+C02907,Espanya,Oci,Silver
+C02908,Regne Unit,Oci,Silver
+C02909,França,Negocis,Silver
+C02910,Regne Unit,Negocis,Silver
+C02911,Alemanya,Oci,Gold
+C02912,França,Oci,Cap
+C02913,Espanya,Oci,Silver
+C02914,Espanya,Oci,Cap
+C02915,Itàlia,oci,Silver
+C02916,Països Baixos,Oci,Cap
+C02917,Alemanya,Oci,Silver
+C02918,Alemanya,Negocis,Silver
+C02919,Itàlia,Oci,Gold
+C02920,Alemanya,Oci,Silver
+C02921,Portugal,Negocis,Gold
+C02922,Espanya,Negocis,Cap
+C02923,Espanya,Oci,Silver
+C02924,Espanya,Oci,Cap
+C02925,Països Baixos,Oci,Gold
+C02926,França,Oci,Gold
+C02927,Estats Units,Oci,Cap
+C02928,França,Oci,Cap
+C02929,Espanya,Oci,Cap
+C02930,França,Oci,Cap
+C02931,Espanya,Oci,Silver
+C02932,França,Oci,Cap
+C02933,Portugal,Oci,Cap
+C02934,Espanya,Negocis,Cap
+C02935,Alemanya,Oci,Cap
+C02936,Espanya,Oci,Cap
+C02937,França,Negocis,Cap
+C02938,França,Negocis,Cap
+C02939,Espanya,Oci,Silver
+C02940,Espanya,Oci,Cap
+C02941,Espanya,Oci,Cap
+C02942,Portugal,Negocis,Cap
+C02943,Espanya,Oci,Cap
+C02944,França,Oci,Cap
+C02945,Espanya,Oci,Cap
+C02946,Regne Unit,Oci,Cap
+C02947,Espanya,Oci,Cap
+C02948,Espanya,Negocis,Silver
+C02949,Espanya,Oci,Silver
+C02950,Alemanya,Oci,Silver
+C02951,Alemanya,Oci,Cap
+C02952,Espanya,Negocis,Cap
+C02953,Portugal,Oci,Cap
+C02954,Espanya,Oci,Cap
+C02955,Espanya,Oci,Cap
+C02956,Països Baixos,Oci,Cap
+C02957,Espanya,Negocis,Cap
+C02958,Itàlia,Oci,Cap
+C02959,Itàlia,Oci,Cap
+C02960,Països Baixos,Negocis,Silver
+C02961,Portugal,Negocis,Silver
+C02962,Espanya,Negocis,Cap
+C02963,Portugal,Oci,Gold
+C02964,Espanya,Oci,Cap
+C02965,França,Negocis,Gold
+C02966,Itàlia,Oci,Cap
+C02967,Portugal,Oci,Cap
+C02968,Itàlia,Oci,Silver
+C02969,Itàlia,Oci,Cap
+C02970,França,Oci,Gold
+C02971,Espanya,Negocis,Silver
+C02972,França,Negocis,Cap
+C02973,Espanya,Oci,Silver
+C02974,Regne Unit,Negocis,Cap
+C02975,Alemanya,Negocis,Cap
+C02976,Portugal,Negocis,Cap
+C02977,França,Oci,Gold
+C02978,França,Oci,Cap
+C02979,Alemanya,Negocis,Silver
+C02980,Espanya,Negocis,Gold
+C02981,França,Oci,Cap
+C02982,França,Negocis,Cap
+C02983,Portugal,Negocis,Silver
+C02984,Espanya,Oci,Cap
+C02985,Espanya,Oci,Cap
+C02986,Espanya,Oci,Silver
+C02987,Regne Unit,Oci,Gold
+C02988,Alemanya,Oci,Cap
+C02989,Alemanya,Oci,Cap
+C02990,Espanya,Negocis,Cap
+C02991,Itàlia,Oci,Silver
+C02992,Espanya,Negocis,Silver
+C02993,Regne Unit,Oci,Cap
+C02994,Regne Unit,Oci,Cap
+C02995,Països Baixos,Oci,Cap
+C02996,Espanya,Oci,Cap
+C02997,Espanya,Negocis,Cap
+C02998,Espanya,Negocis,Silver
+C02999,Portugal,Oci,Silver
+C03000,Itàlia,Oci,Silver
+C03001,Regne Unit,Oci,Cap
+C03002,Espanya,Oci,Cap
+C03003,Alemanya,Oci,Gold
+C03004,França,Oci,Cap
+C03005,Itàlia,Oci,Cap
+C03006,Portugal,Oci,Gold
+C03007,Alemanya,Oci,Cap
+C03008,Països Baixos,Negocis,Silver
+C03009,França,Oci,Cap
+C03010,Itàlia,Oci,Cap
+C03011,França,Oci,Cap
+C03012,Espanya,Oci,Cap
+C03013,Països Baixos,Oci,Cap
+C03014,Regne Unit,oci,Cap
+C03015,França,Negocis,Cap
+C03016,Portugal,Oci,Cap
+C03017,Espanya,Oci,Silver
+C03018,Itàlia,Oci,Cap
+C03019,Itàlia,Negocis,Silver
+C03020,Portugal,Oci,Cap
+C03021,Portugal,Oci,Cap
+C03022,Espanya,Negocis,Silver
+C03023,Espanya,Oci,Cap
+C03024,Països Baixos,Negocis,Gold
+C03025,Alemanya,Negocis,Cap
+C03026,Regne Unit,Negocis,Gold
+C03027,França,Oci,Cap
+C03028,França,Oci,Cap
+C03029,Espanya,Negocis,Gold
+C03030,França,Oci,Cap
+C03031,Portugal,Negocis,Silver
+C03032,Països Baixos,Negocis,Silver
+C03033,Països Baixos,Oci,Cap
+C03034,Espanya,Oci,Cap
+C03035,Regne Unit,Oci,Cap
+C03036,Estats Units,Negocis,Silver
+C03037,Estats Units,Negocis,Cap
+C03038,França,Oci,Cap
+C03039,Espanya,Oci,Silver
+C03040,Regne Unit,Oci,Cap
+C03041,Espanya,Negocis,Silver
+C03042,Alemanya,Oci,Cap
+C03043,Espanya,Oci,Cap
+C03044,Espanya,Oci,Silver
+C03045,França,Oci,Silver
+C03046,Itàlia,Oci,Cap
+C03047,França,Oci,Cap
+C03048,Espanya,Negocis,Silver
+C03049,Espanya,Oci ,Silver
+C03050,Espanya,Oci,Cap
+C03051,Regne Unit,Oci,Cap
+C03052,Alemanya,Oci,Cap
+C03053,Països Baixos,Negocis,Cap
+C03054,Espanya,Oci,Cap
+C03055,Regne Unit,Negocis,Gold
+C03056,Espanya,Negocis,Gold
+C03057,França,Oci,Cap
+C03058,França,Oci,Cap
+C03059,Regne Unit,Oci,Silver
+C03060,Portugal,Negocis,Silver
+C03061,Espanya,Oci,Gold
+C03062,Espanya,Oci,Cap
+C03063,Itàlia,Oci,Cap
+C03064,Països Baixos,Oci,Gold
+C03065,Portugal,Oci,Silver
+C03066,França,Oci,Silver
+C03067,Espanya,Oci,Silver
+C03068,Regne Unit,Oci,Silver
+C03069,Espanya,Oci,Gold
+C03070,Espanya,Negocis,Cap
+C03071,Espanya,oci,Silver
+C03072,Estats Units,Oci,Silver
+C03073,Espanya,Oci,Cap
+C03074,Portugal,Oci,Cap
+C03075,Espanya,Oci,Cap
+C03076,Regne Unit,Oci,Cap
+C03077,Espanya,Negocis,Silver
+C03078,Portugal,Oci,Cap
+C03079,Països Baixos,Oci,Silver
+C03080,Espanya,Oci,Cap
+C03081,Itàlia,Oci,Silver
+C03082,França,Negocis,Cap
+C03083,Alemanya,Oci,Silver
+C03084,Itàlia,Oci,Cap
+C03085,Regne Unit,Negocis,Silver
+C03086,Espanya,Oci,Cap
+C03087,Regne Unit,Negocis,Cap
+C03088,Espanya,Oci,Cap
+C03089,Espanya,Oci,Cap
+C03090,Regne Unit,Negocis,Cap
+C03091,Estats Units,Oci,Cap
+C03092,Espanya,Oci,Gold
+C03093,França,Oci,Cap
+C03094,Portugal,Oci,Cap
+C03095,Itàlia,Oci,Cap
+C03096,Alemanya,Oci,Cap
+C03097,Alemanya,Oci,Cap
+C03098,França,Oci,Cap
+C03099,Portugal,Oci,Cap
+C03100,França,Negocis,Silver
+C03101,França,Oci,Cap
+C03102,Espanya,Oci,Cap
+C03103,Alemanya,Oci,Silver
+C03104,Itàlia,Oci,Cap
+C03105,França,Negocis,Cap
+C03106,Alemanya,Oci,Cap
+C03107,Portugal,Negocis,Silver
+C03108,Espanya,Oci,Gold
+C03109,Alemanya,Negocis,Cap
+C03110,Espanya,Oci,Cap
+C03111,Estats Units,Oci,Cap
+C03112,Itàlia,Oci,Cap
+C03113,Països Baixos,Oci,Cap
+C03114,Alemanya,Oci,Silver
+C03115,França,Oci,Cap
+C03116,Espanya,Negocis,Cap
+C03117,Països Baixos,Negocis,Cap
+C03118,Portugal,Oci,Cap
+C03119,Alemanya,Oci,Cap
+C03120,Espanya,Oci,Cap
+C03121,Regne Unit,Negocis,Gold
+C03122,França,Oci,Cap
+C03123,Itàlia,Oci,Silver
+C03124,Espanya,Oci,Gold
+C03125,Espanya,Oci,Silver
+C03126,Portugal,Negocis,Silver
+C03127,Alemanya,Oci,Cap
+C03128,Itàlia,Negocis,Cap
+C03129,França,Oci,Silver
+C03130,Espanya,Oci,Silver
+C03131,Itàlia,Negocis,Cap
+C03132,França,Negocis,Silver
+C03133,Espanya,Oci,Cap
+C03134,Espanya,Negocis,Silver
+C03135,Espanya,Negocis,Silver
+C03136,Espanya,negocis,Gold
+C03137,Espanya,Negocis,Cap
+C03138,Espanya,Oci,Cap
+C03139,Regne Unit,Oci,Cap
+C03140,Portugal,Oci,Cap
+C03141,Espanya,Oci,Cap
+C03142,Alemanya,Negocis,Cap
+C03143,França,Oci,Cap
+C03144,Espanya,Oci,Gold
+C03145,Espanya,Negocis,Cap
+C03146,Espanya,Negocis,Gold
+C03147,França,Oci,Cap
+C03148,Alemanya,Negocis,Cap
+C03149,Regne Unit,Negocis,Silver
+C03150,Regne Unit,Oci,Cap
+C03151,França,Oci,Silver
+C03152,Països Baixos,Negocis,Cap
+C03153,Alemanya,Oci,Silver
+C03154,Espanya,Negocis,Silver
+C03155,Espanya,Negocis,Gold
+C03156,França,Oci,Cap
+C03157,Alemanya,Oci,Cap
+C03158,Regne Unit,Oci,Cap
+C03159,Espanya,Oci,Cap
+C03160,Estats Units,Negocis,Silver
+C03161,Espanya,Oci,Silver
+C03162,Espanya,Oci,Cap
+C03163,França,Oci,Cap
+C03164,Portugal,Negocis,Cap
+C03165,Espanya,Oci,Cap
+C03166,Alemanya,Oci,Silver
+C03167,Espanya,Negocis,Cap
+C03168,Regne Unit,Oci,Silver
+C03169,Espanya,Oci,Silver
+C03170,Espanya,Oci,Cap
+C03171,Alemanya,Negocis,Cap
+C03172,Regne Unit,Oci,Cap
+C03173,França,Oci,Cap
+C03174,Portugal,Negocis,Cap
+C03175,Alemanya,Oci,Cap
+C03176,Portugal,Oci,Cap
+C03177,França,Oci,Silver
+C03178,Regne Unit,Oci,Cap
+C03179,França,Negocis,Cap
+C03180,Espanya,Oci,Cap
+C03181,Espanya,Oci,Cap
+C03182,Espanya,Oci,Cap
+C03183,Itàlia,Oci,Cap
+C03184,Espanya,Oci,Cap
+C03185,Espanya,Oci,Cap
+C03186,Espanya,Oci,Cap
+C03187,França,Oci,Silver
+C03188,Alemanya,Oci,Cap
+C03189,Regne Unit,Oci,Cap
+C03190,França,Oci,Cap
+C03191,Alemanya,Oci,Cap
+C03192,Regne Unit,Oci,Cap
+C03193,França,Oci,Cap
+C03194,França,Oci,Silver
+C03195,França,Oci,Gold
+C03196,Regne Unit,Oci,Gold
+C03197,Alemanya,Oci,Cap
+C03198,Espanya,Negocis,Cap
+C03199,Estats Units,Negocis,Silver
+C03200,Espanya,Oci,Silver
+C03201,Espanya,Oci,Cap
+C03202,Portugal,Oci,Cap
+C03203,França,Negocis,Cap
+C03204,Espanya,Oci,Silver
+C03205,Espanya,Oci,Cap
+C03206,França,Oci,Cap
+C03207,Estats Units,Negocis,Cap
+C03208,França,Oci,Gold
+C03209,França,Oci,Cap
+C03210,França,Oci,Silver
+C03211,Espanya,Oci,Gold
+C03212,Regne Unit,Oci,Cap
+C03213,Espanya,Oci,Cap
+C03214,Regne Unit,Oci,Cap
+C03215,França,Negocis,Cap
+C03216,Espanya,Negocis,Cap
+C03217,Espanya,Negocis,Gold
+C03218,Alemanya,Oci,Cap
+C03219,Espanya,Oci,Cap
+C03220,Espanya,Oci,Cap
+C03221,Espanya,Negocis,Gold
+C03222,Regne Unit,Oci,Cap
+C03223,Itàlia,Oci,Cap
+C03224,Alemanya,Negocis,Gold
+C03225,Itàlia,Oci,Gold
+C03226,Països Baixos,Oci,Cap
+C03227,Països Baixos,Oci,Silver
+C03228,Alemanya,Negocis,Silver
+C03229,Espanya,Oci,Cap
+C03230,Països Baixos,Negocis,Silver
+C03231,Espanya,Oci,Cap
+C03232,Portugal,Oci,Cap
+C03233,Portugal,Oci,Cap
+C03234,França,Oci,Cap
+C03235,Alemanya,Negocis,Gold
+C03236,Espanya,Oci,Silver
+C03237,França,Oci,Silver
+C03238,Regne Unit,Oci,Gold
+C03239,Espanya,Negocis,Gold
+C03240,Alemanya,Oci,Gold
+C03241,Estats Units,Oci,Cap
+C03242,Països Baixos,Oci,Cap
+C03243,França,Oci,Cap
+C03244,Alemanya,Negocis,Cap
+C03245,Alemanya,Negocis,Silver
+C03246,Espanya,Oci,Cap
+C03247,Països Baixos,Negocis,Silver
+C03248,Espanya,Oci,Cap
+C03249,Espanya,Oci,Silver
+C03250,Espanya,Oci,Cap
+C03251,Regne Unit,Oci,Cap
+C03252,Alemanya,Oci,Cap
+C03253,Espanya,Oci,Cap
+C03254,Espanya,Oci,Cap
+C03255,Espanya,Oci,Cap
+C03256,Espanya,Oci,Cap
+C03257,Espanya,Oci,Silver
+C03258,Portugal,Oci,Cap
+C03259,Portugal,Oci,Cap
+C03260,Espanya,Oci,Cap
+C03261,Països Baixos,Negocis,Silver
+C03262,Espanya,Oci,Cap
+C03263,Espanya,Oci,Cap
+C03264,Espanya,Oci,Silver
+C03265,Espanya,Negocis,Gold
+C03266,França,Negocis,Cap
+C03267,Portugal,Oci,Silver
+C03268,Espanya,Oci,Silver
+C03269,Espanya,Oci,Cap
+C03270,Itàlia,Oci,Cap
+C03271,Espanya,Oci,Cap
+C03272,Espanya,Negocis,Cap
+C03273,França,Oci,Silver
+C03274,Regne Unit,Negocis,Gold
+C03275,Portugal,Negocis,Cap
+C03276,Regne Unit,Negocis,Silver
+C03277,Espanya,Oci,Cap
+C03278,Estats Units,Oci,Silver
+C03279,Espanya,Oci,Cap
+C03280,França,Negocis,Silver
+C03281,França,Oci,Cap
+C03282,Estats Units,Oci,Cap
+C03283,Alemanya,Oci,Cap
+C03284,Països Baixos,Negocis,Silver
+C03285,Espanya,Oci,Gold
+C03286,Regne Unit,Negocis,Cap
+C03287,França,Oci,Cap
+C03288,Espanya,Negocis,Silver
+C03289,França,Negocis,Silver
+C03290,Alemanya,Negocis,Silver
+C03291,Espanya,Negocis,Cap
+C03292,Estats Units,Oci,Cap
+C03293,Espanya,Negocis,Cap
+C03294,Espanya,Oci,Silver
+C03295,Itàlia,Oci,Cap
+C03296,Espanya,Oci,Gold
+C03297,Portugal,Oci,Cap
+C03298,França,Negocis,Cap
+C03299,Alemanya,Negocis,Cap
+C03300,Estats Units,Oci,Cap
+C03301,França,Negocis,Silver
+C03302,Portugal,Negocis,Cap
+C03303,Itàlia,Oci,Cap
+C03304,Espanya,Oci,Silver
+C03305,Espanya,Oci,Cap
+C03306,Espanya,Oci,Cap
+C03307,França,Oci,Silver
+C03308,França,Oci,Cap
+C03309,Espanya,Oci,Cap
+C03310,Alemanya,Oci,Cap
+C03311,Països Baixos,Negocis,Cap
+C03312,França,Oci,Cap
+C03313,Regne Unit,Oci,Cap
+C03314,Regne Unit,Oci,Silver
+C03315,Itàlia,Negocis,Gold
+C03316,Espanya,Oci,Cap
+C03317,Portugal,Negocis,Cap
+C03318,Espanya,Oci,Silver
+C03319,Portugal,Oci,Silver
+C03320,Països Baixos,Negocis,Silver
+C03321,Espanya,Oci,Cap
+C03322,Portugal,Oci,Silver
+C03323,Espanya,Oci,Cap
+C03324,Espanya,Negocis,Gold
+C03325,Itàlia,Negocis,Cap
+C03326,França,Oci,Cap
+C03327,Espanya,Oci,Cap
+C03328,Espanya,Oci,Cap
+C03329,Espanya,Oci,Silver
+C03330,Països Baixos,oci,Cap
+C03331,Regne Unit,Negocis,Cap
+C03332,Espanya,Oci,Cap
+C03333,França,Oci,Cap
+C03334,Espanya,Oci,Cap
+C03335,Alemanya,Oci,Cap
+C03336,Portugal,Oci,Cap
+C03337,França,Oci,Silver
+C03338,Portugal,Oci,Cap
+C03339,Regne Unit,Oci,Cap
+C03340,Alemanya,Oci,Cap
+C03341,Espanya,Oci,Cap
+C03342,Portugal,Negocis,Cap
+C03343,Portugal,Negocis,Cap
+C03344,Espanya,Negocis,Cap
+C03345,Espanya,Negocis,Cap
+C03346,Portugal,Oci,Cap
+C03347,Portugal,Oci,Cap
+C03348,Portugal,Oci,Cap
+C03349,França,Negocis,Cap
+C03350,Espanya,Negocis,Cap
+C03351,Espanya,Negocis,Cap
+C03352,Espanya,Oci,Gold
+C03353,Països Baixos,Oci,Cap
+C03354,Itàlia,Oci,Cap
+C03355,Espanya,Negocis,Cap
+C03356,Espanya,Oci,Cap
+C03357,Espanya,Oci,Cap
+C03358,Espanya,Negocis,Cap
+C03359,Regne Unit,Oci,Silver
+C03360,Espanya,Negocis,Gold
+C03361,Països Baixos,Oci,Cap
+C03362,Espanya,Oci,Cap
+C03363,Espanya,Negocis,Cap
+C03364,Espanya,Oci,Cap
+C03365,Espanya,Negocis,Cap
+C03366,Itàlia,Negocis,Cap
+C03367,Portugal,Oci,Silver
+C03368,Estats Units,Negocis,Gold
+C03369,Espanya,Oci,Cap
+C03370,Espanya,Oci,Silver
+C03371,Espanya,Oci,Cap
+C03372,França,Oci,Cap
+C03373,Alemanya,Oci,Cap
+C03374,Països Baixos,Negocis,Gold
+C03375,Espanya,Oci,Gold
+C03376,França,Negocis,Cap
+C03377,Regne Unit,Oci,Cap
+C03378,Itàlia,Oci,Cap
+C03379,Portugal,Oci,Silver
+C03380,França,Oci,Cap
+C03381,Països Baixos,Oci,Cap
+C03382,Espanya,Negocis ,Silver
+C03383,Portugal,Oci,Cap
+C03384,Alemanya,Oci,Cap
+C03385,França,Oci,Silver
+C03386,Espanya,Negocis,Silver
+C03387,Espanya,Negocis,Cap
+C03388,Espanya,Negocis,Gold
+C03389,Alemanya,Oci,Cap
+C03390,Regne Unit,Oci ,Cap
+C03391,Portugal,Oci,Cap
+C03392,França,Negocis,Silver
+C03393,Estats Units,Oci,Silver
+C03394,Estats Units,Oci,Cap
+C03395,Països Baixos,Oci,Cap
+C03396,Països Baixos,Negocis,Cap
+C03397,Espanya,Oci,Cap
+C03398,Portugal,Oci,Cap
+C03399,Portugal,Oci,Cap
+C03400,Espanya,Negocis,Gold
+C03401,França,Negocis,Gold
+C03402,França,Oci,Cap
+C03403,Espanya,Oci ,Silver
+C03404,Portugal,Oci,Silver
+C03405,Espanya,oci,Cap
+C03406,Estats Units,Negocis,Silver
+C03407,Països Baixos,Negocis,Cap
+C03408,Espanya,Negocis,Cap
+C03409,França,Negocis,Gold
+C03410,Espanya,Negocis,Silver
+C03411,Països Baixos,Oci,Cap
+C03412,Espanya,Oci,Cap
+C03413,Espanya,Oci,Cap
+C03414,Portugal,Oci,Cap
+C03415,Itàlia,Negocis,Cap
+C03416,França,Oci,Gold
+C03417,Itàlia,Oci,Cap
+C03418,Espanya,Oci,Silver
+C03419,Regne Unit,Oci,Cap
+C03420,Itàlia,Oci,Cap
+C03421,Espanya,Oci,Cap
+C03422,Itàlia,Negocis,Silver
+C03423,Espanya,Negocis,Silver
+C03424,França,Negocis,Silver
+C03425,Espanya,Oci,Cap
+C03426,Espanya,Oci,Silver
+C03427,Portugal,Negocis,Cap
+C03428,Alemanya,Negocis,Cap
+C03429,Espanya,Oci,Silver
+C03430,Espanya,Negocis,Cap
+C03431,Espanya,Oci,Silver
+C03432,Espanya,Negocis,Cap
+C03433,França,Oci,Gold
+C03434,Espanya,Oci,Cap
+C03435,Regne Unit,Oci,Silver
+C03436,Itàlia,Oci,Silver
+C03437,Països Baixos,Oci,Cap
+C03438,Alemanya,Negocis,Cap
+C03439,Itàlia,Oci,Cap
+C03440,Espanya,Oci,Cap
+C03441,Espanya,Negocis,Cap
+C03442,Països Baixos,Oci,Cap
+C03443,França,Oci,Silver
+C03444,Alemanya,Negocis,Gold
+C03445,Estats Units,Oci,Cap
+C03446,Portugal,Negocis,Gold
+C03447,Alemanya,Oci,Cap
+C03448,Espanya,Negocis,Gold
+C03449,Regne Unit,Oci,Cap
+C03450,Estats Units,Oci,Cap
+C03451,Itàlia,Negocis,Silver
+C03452,França,Oci,Gold
+C03453,Estats Units,Oci,Cap
+C03454,França,Oci,Cap
+C03455,Espanya,Negocis,Cap
+C03456,Alemanya,Oci,Cap
+C03457,França,Negocis,Silver
+C03458,Espanya,Oci,Silver
+C03459,Alemanya,Oci,Silver
+C03460,Espanya,Oci,Cap
+C03461,Regne Unit,Negocis,Cap
+C03462,França,Negocis,Gold
+C03463,Estats Units,Negocis,Silver
+C03464,Espanya,Oci,Cap
+C03465,Regne Unit,Negocis,Gold
+C03466,Regne Unit,Oci,Cap
+C03467,Alemanya,Negocis,Cap
+C03468,Estats Units,Negocis,Cap
+C03469,Estats Units,Oci,Cap
+C03470,Itàlia,Oci,Cap
+C03471,França,Oci,Cap
+C03472,Espanya,Oci,Gold
+C03473,Portugal,Negocis,Gold
+C03474,Portugal,Oci,Cap
+C03475,França,Oci,Cap
+C03476,Espanya,Negocis,Gold
+C03477,Itàlia,Oci,Cap
+C03478,Espanya,Oci,Cap
+C03479,Alemanya,Negocis,Cap
+C03480,Itàlia,Oci,Cap
+C03481,Països Baixos,Oci,Cap
+C03482,Països Baixos,Oci,Cap
+C03483,Espanya,Negocis,Cap
+C03484,Portugal,Oci,Cap
+C03485,Itàlia,Negocis,Cap
+C03486,França,Oci,Cap
+C03487,Regne Unit,Oci,Cap
+C03488,Alemanya,Oci,Cap
+C03489,Portugal,Negocis,Silver
+C03490,Espanya,Negocis,Cap
+C03491,Espanya,Negocis,Silver
+C03492,Espanya,Negocis,Cap
+C03493,Països Baixos,Negocis,Cap
+C03494,Països Baixos,Oci,Cap
+C03495,Regne Unit,Oci,Cap
+C03496,Estats Units,Oci,Cap
+C03497,Alemanya,Oci,Cap
+C03498,Espanya,Oci,Cap
+C03499,Espanya,Oci,Cap
+C03500,Espanya,Oci,Silver
+C03501,Espanya,Oci,Cap
+C03502,França,Negocis,Cap
+C03503,Espanya,Oci,Silver
+C03504,Espanya,Oci,Gold
+C03505,Portugal,Negocis,Cap
+C03506,Estats Units,Oci,Cap
+C03507,Espanya,Oci,Cap
+C03508,Regne Unit,Oci,Cap
+C03509,Espanya,Oci,Cap
+C03510,Espanya,Oci,Cap
+C03511,Països Baixos,Oci,Silver
+C03512,Espanya,Negocis,Silver
+C03513,Portugal,Negocis,Silver
+C03514,França,Negocis,Silver
+C03515,Itàlia,Oci,Silver
+C03516,França,Negocis,Gold
+C03517,França,Negocis,Gold
+C03518,França,Negocis,Cap
+C03519,Portugal,Negocis,Cap
+C03520,Estats Units,Oci,Silver
+C03521,Regne Unit,Oci,Cap
+C03522,Portugal,Oci,Cap
+C03523,Regne Unit,Oci,Gold
+C03524,Països Baixos,Negocis,Gold
+C03525,Països Baixos,Negocis,Cap
+C03526,Alemanya,Negocis,Cap
+C03527,Estats Units,Oci,Cap
+C03528,Portugal,Negocis,Silver
+C03529,Espanya,Oci,Cap
+C03530,Espanya,Oci,Cap
+C03531,Alemanya,Negocis,Cap
+C03532,Alemanya,Oci,Cap
+C03533,França,Negocis,Silver
+C03534,Països Baixos,Oci,Silver
+C03535,Itàlia,Oci,Cap
+C03536,Espanya,Negocis,Cap
+C03537,Espanya,Oci,Cap
+C03538,Països Baixos,Negocis,Cap
+C03539,Itàlia,Negocis,Cap
+C03540,Regne Unit,Oci,Silver
+C03541,Alemanya,Oci,Cap
+C03542,Espanya,Oci,Cap
+C03543,Portugal,Oci,Cap
+C03544,Itàlia,Oci,Cap
+C03545,França,Oci,Cap
+C03546,Espanya,Oci,Cap
+C03547,França,Oci,Cap
+C03548,Regne Unit,Oci,Cap
+C03549,França,Oci,Cap
+C03550,Espanya,Oci,Cap
+C03551,Alemanya,Oci,Gold
+C03552,Espanya,Negocis,Cap
+C03553,Espanya,Oci,Cap
+C03554,Alemanya,Negocis,Silver
+C03555,Països Baixos,Oci,Cap
+C03556,Espanya,Oci,Cap
+C03557,Espanya,Oci,Cap
+C03558,França,Oci,Gold
+C03559,Regne Unit,Oci,Silver
+C03560,Alemanya,Oci,Silver
+C03561,Espanya,Oci,Gold
+C03562,Estats Units,Oci,Cap
+C03563,França,Oci,Cap
+C03564,França,Oci,Silver
+C03565,Espanya,Negocis,Cap
+C03566,Alemanya,Oci,Cap
+C03567,Espanya,Oci,Cap
+C03568,Regne Unit,Negocis,Cap
+C03569,Espanya,Oci,Cap
+C03570,Itàlia,Oci,Silver
+C03571,Espanya,Oci,Cap
+C03572,Espanya,Negocis,Cap
+C03573,Itàlia,Oci,Cap
+C03574,Espanya,Negocis,Cap
+C03575,Itàlia,Negocis,Gold
+C03576,Espanya,Oci,Gold
+C03577,França,Negocis,Silver
+C03578,Alemanya,Oci,Cap
+C03579,Espanya,Negocis,Cap
+C03580,Països Baixos,Oci,Silver
+C03581,Portugal,Oci,Cap
+C03582,Itàlia,Oci,Silver
+C03583,Espanya,Oci ,Cap
+C03584,Regne Unit,Oci,Cap
+C03585,Espanya,Oci,Gold
+C03586,Regne Unit,Oci,Silver
+C03587,Itàlia,Oci,Cap
+C03588,Espanya,Oci,Silver
+C03589,Països Baixos,Oci,Gold
+C03590,França,Negocis,Silver
+C03591,Itàlia,Oci,Cap
+C03592,Espanya,Negocis,Cap
+C03593,França,Negocis,Cap
+C03594,Itàlia,Oci,Cap
+C03595,Estats Units,Oci,Cap
+C03596,Regne Unit,Oci,Silver
+C03597,Portugal,Oci,Cap
+C03598,Regne Unit,Oci,Cap
+C03599,Regne Unit,Oci,Silver
+C03600,França,Oci,Cap
+C03601,Portugal,Oci,Cap
+C03602,Espanya,Oci,Cap
+C03603,Espanya,Oci,Cap
+C03604,Regne Unit,Oci,Cap
+C03605,Estats Units,Oci,Cap
+C03606,Espanya,Negocis,Cap
+C03607,Regne Unit,Negocis,Silver
+C03608,Estats Units,Negocis,Gold
+C03609,França,Oci,Cap
+C03610,Regne Unit,Oci,Cap
+C03611,Alemanya,Negocis,Gold
+C03612,Espanya,negocis,Cap
+C03613,Espanya,Oci,Cap
+C03614,Espanya,Oci,Silver
+C03615,França,Negocis,Gold
+C03616,Espanya,Negocis,Gold
+C03617,Regne Unit,Oci,Cap
+C03618,Estats Units,Negocis,Cap
+C03619,Espanya,Negocis,Silver
+C03620,França,Oci,Cap
+C03621,Alemanya,Oci,Cap
+C03622,Alemanya,Negocis,Gold
+C03623,Alemanya,Negocis,Silver
+C03624,Estats Units,Oci,Silver
+C03625,Espanya,Oci,Cap
+C03626,Espanya,Negocis,Cap
+C03627,Regne Unit,Oci,Cap
+C03628,Espanya,Oci,Cap
+C03629,Itàlia,Negocis,Silver
+C03630,Països Baixos,Negocis,Cap
+C03631,Regne Unit,Oci,Cap
+C03632,Portugal,Negocis,Cap
+C03633,Regne Unit,Oci,Cap
+C03634,Estats Units,Oci,Cap
+C03635,Alemanya,Negocis,Silver
+C03636,Espanya,Oci,Gold
+C03637,Països Baixos,Oci,Cap
+C03638,Estats Units,Oci,Cap
+C03639,Portugal,Oci,Cap
+C03640,Espanya,Oci,Cap
+C03641,Regne Unit,Oci,Silver
+C03642,Alemanya,negocis,Gold
+C03643,Regne Unit,Oci,Silver
+C03644,Itàlia,Oci,Cap
+C03645,Espanya,Negocis,Cap
+C03646,Espanya,Oci,Cap
+C03647,Espanya,Negocis,Cap
+C03648,Itàlia,Oci,Cap
+C03649,Espanya,Oci,Cap
+C03650,Espanya,Oci,Cap
+C03651,Espanya,Oci,Silver
+C03652,Portugal,Oci,Silver
+C03653,Espanya,Oci,Cap
+C03654,França,Negocis,Cap
+C03655,Espanya,Oci,Silver
+C03656,Espanya,Oci,Gold
+C03657,Regne Unit,Oci,Cap
+C03658,Espanya,Oci,Cap
+C03659,Alemanya,Oci,Cap
+C03660,Espanya,Oci,Cap
+C03661,Espanya,Negocis,Cap
+C03662,Alemanya,Negocis,Gold
+C03663,França,Negocis,Silver
+C03664,Espanya,Oci,Cap
+C03665,Itàlia,Negocis,Gold
+C03666,Portugal,Oci,Gold
+C03667,Espanya,Negocis,Cap
+C03668,Espanya,Oci,Cap
+C03669,Itàlia,Oci,Cap
+C03670,Espanya,Oci,Cap
+C03671,França,Oci,Cap
+C03672,Espanya,Negocis,Silver
+C03673,Itàlia,Negocis,Cap
+C03674,Alemanya,Oci,Cap
+C03675,Regne Unit,Oci,Cap
+C03676,Espanya,Negocis,Cap
+C03677,Espanya,Oci,Cap
+C03678,Regne Unit,Oci,Cap
+C03679,Espanya,Oci,Silver
+C03680,Alemanya,Negocis,Cap
+C03681,Portugal,Negocis,Cap
+C03682,Itàlia,Oci,Cap
+C03683,Espanya,Oci,Cap
+C03684,Espanya,Negocis,Cap
+C03685,Regne Unit,Oci,Cap
+C03686,Portugal,Oci,Silver
+C03687,Itàlia,Oci,Cap
+C03688,Regne Unit,Oci,Cap
+C03689,Espanya,Negocis,Gold
+C03690,Alemanya,Negocis,Cap
+C03691,Alemanya,Oci,Cap
+C03692,Estats Units,Oci,Silver
+C03693,Alemanya,Negocis,Cap
+C03694,Alemanya,Oci,Silver
+C03695,Portugal,Oci,Cap
+C03696,Itàlia,Negocis,Cap
+C03697,Espanya,Oci,Gold
+C03698,Alemanya,Oci,Silver
+C03699,Espanya,Negocis,Cap
+C03700,Espanya,Oci,Silver
+C03701,Itàlia,Oci,Silver
+C03702,Regne Unit,Negocis,Cap
+C03703,Itàlia,Oci,Cap
+C03704,França,Oci,Cap
+C03705,Itàlia,Oci,Silver
+C03706,Alemanya,Negocis,Silver
+C03707,Alemanya,Negocis,Silver
+C03708,Espanya,Oci,Cap
+C03709,Espanya,Oci,Cap
+C03710,Espanya,Negocis,Silver
+C03711,Regne Unit,Oci,Gold
+C03712,Espanya,Oci,Silver
+C03713,Estats Units,Oci,Cap
+C03714,Espanya,Negocis,Cap
+C03715,Regne Unit,Negocis,Cap
+C03716,Portugal,Oci,Cap
+C03717,Espanya,Oci,Silver
+C03718,Regne Unit,Oci,Cap
+C03719,Països Baixos,Oci,Cap
+C03720,Espanya,Negocis,Cap
+C03721,Portugal,Oci,Gold
+C03722,Estats Units,Oci,Cap
+C03723,Espanya,Oci,Silver
+C03724,Alemanya,Negocis,Silver
+C03725,Itàlia,Negocis,Cap
+C03726,Espanya,Negocis,Cap
+C03727,Espanya,Negocis,Cap
+C03728,Itàlia,Oci,Silver
+C03729,Portugal,Oci,Cap
+C03730,Països Baixos,Oci,Cap
+C03731,Espanya,Negocis,Gold
+C03732,Països Baixos,Oci,Cap
+C03733,França,Oci,Cap
+C03734,Itàlia,Negocis,Silver
+C03735,França,Negocis,Cap
+C03736,Espanya,Oci,Cap
+C03737,Regne Unit,Negocis,Cap
+C03738,Portugal,Negocis,Silver
+C03739,Espanya,Oci,Cap
+C03740,Estats Units,Negocis,Cap
+C03741,Itàlia,Oci,Cap
+C03742,Portugal,Oci,Cap
+C03743,França,Oci,Cap
+C03744,Espanya,Oci,Silver
+C03745,Regne Unit,Negocis,Cap
+C03746,Espanya,Negocis,Silver
+C03747,Espanya,Negocis,Cap
+C03748,Països Baixos,Negocis,Gold
+C03749,Itàlia,Negocis,Cap
+C03750,Regne Unit,Oci,Cap
+C03751,França,Negocis,Cap
+C03752,Alemanya,Negocis,Cap
+C03753,Espanya,Oci,Cap
+C03754,Portugal,Oci,Cap
+C03755,Espanya,Oci,Cap
+C03756,França,Oci,Gold
+C03757,Espanya,Negocis,Silver
+C03758,Alemanya,Oci,Cap
+C03759,Espanya,Negocis,Silver
+C03760,Portugal,Negocis,Cap
+C03761,França,Oci,Cap
+C03762,Espanya,Negocis,Silver
+C03763,Alemanya,Negocis,Cap
+C03764,Espanya,Oci,Cap
+C03765,Espanya,Oci,Cap
+C03766,Espanya,Negocis,Silver
+C03767,Itàlia,Oci,Silver
+C03768,França,Negocis,Cap
+C03769,Espanya,Oci,Cap
+C03770,Països Baixos,Negocis,Cap
+C03771,Països Baixos,Oci,Cap
+C03772,Espanya,Negocis,Cap
+C03773,Estats Units,Oci,Cap
+C03774,França,Oci,Cap
+C03775,Espanya,Oci,Cap
+C03776,Alemanya,Oci,Cap
+C03777,Itàlia,Negocis,Cap
+C03778,França,Oci,Cap
+C03779,Regne Unit,Oci,Cap
+C03780,Portugal,Oci,Gold
+C03781,Espanya,Oci,Cap
+C03782,Alemanya,Oci,Silver
+C03783,Espanya,Oci,Cap
+C03784,Espanya,Oci,Cap
+C03785,Portugal,Oci,Gold
+C03786,Espanya,Oci,Cap
+C03787,Portugal,Negocis,Cap
+C03788,Espanya,Oci,Cap
+C03789,Espanya,Negocis,Cap
+C03790,Espanya,Oci,Cap
+C03791,Espanya,Negocis,Cap
+C03792,Portugal,Oci,Silver
+C03793,Espanya,Oci,Cap
+C03794,Estats Units,Oci,Silver
+C03795,Estats Units,Negocis,Gold
+C03796,Alemanya,Oci,Gold
+C03797,Itàlia,Oci,Cap
+C03798,Alemanya,Oci,Cap
+C03799,Espanya,Oci,Gold
+C03800,Espanya,Oci,Cap
+C03801,Regne Unit,Oci,Cap
+C03802,Itàlia,Oci,Cap
+C03803,Espanya,Negocis,Cap
+C03804,Itàlia,Negocis,Gold
+C03805,Alemanya,Oci,Cap
+C03806,Itàlia,Oci,Cap
+C03807,Espanya,Oci,Cap
+C03808,Espanya,Oci,Cap
+C03809,Estats Units,Oci,Cap
+C03810,Alemanya,Negocis,Cap
+C03811,Espanya,Oci,Cap
+C03812,Espanya,Negocis,Silver
+C03813,Alemanya,Negocis,Cap
+C03814,Portugal,Oci,Silver
+C03815,Regne Unit,Oci,Silver
+C03816,Alemanya,Oci,Silver
+C03817,Portugal,Negocis,Silver
+C03818,Regne Unit,Oci,Cap
+C03819,Itàlia,Negocis,Cap
+C03820,Itàlia,Negocis,Silver
+C03821,França,Negocis,Silver
+C03822,Espanya,Oci,Cap
+C03823,Alemanya,Oci,Cap
+C03824,Regne Unit,Negocis,Cap
+C03825,Regne Unit,Negocis,Silver
+C03826,Espanya,Oci,Silver
+C03827,Espanya,Negocis,Cap
+C03828,Espanya,Oci,Silver
+C03829,Espanya,Oci,Cap
+C03830,França,Oci,Cap
+C03831,Espanya,Oci,Cap
+C03832,França,Oci,Cap
+C03833,Espanya,Oci,Gold
+C03834,Espanya,Negocis,Cap
+C03835,Regne Unit,Oci,Cap
+C03836,França,Oci,Cap
+C03837,Regne Unit,Oci,Cap
+C03838,França,Oci,Cap
+C03839,Espanya,Negocis,Cap
+C03840,Alemanya,Negocis,Cap
+C03841,Espanya,Oci,Cap
+C03842,Itàlia,Oci,Cap
+C03843,Espanya,Oci,Cap
+C03844,Espanya,Negocis,Silver
+C03845,Alemanya,Negocis,Silver
+C03846,Espanya,Oci,Cap
+C03847,Espanya,Oci,Cap
+C03848,Espanya,Negocis,Silver
+C03849,Alemanya,Negocis,Cap
+C03850,Regne Unit,Oci,Cap
+C03851,Espanya,Oci,Cap
+C03852,Espanya,Oci,Cap
+C03853,Espanya,Negocis,Gold
+C03854,Espanya,Oci,Silver
+C03855,Espanya,Negocis,Cap
+C03856,Espanya,Oci,Cap
+C03857,Espanya,Oci,Silver
+C03858,França,Oci,Gold
+C03859,Països Baixos,Oci,Cap
+C03860,Espanya,Oci,Cap
+C03861,Espanya,Oci,Silver
+C03862,França,Oci,Gold
+C03863,Itàlia,Oci,Cap
+C03864,Espanya,Oci,Silver
+C03865,Regne Unit,Oci,Gold
+C03866,Espanya,Oci,Cap
+C03867,França,Negocis,Cap
+C03868,Espanya,Negocis,Gold
+C03869,Espanya,Oci,Silver
+C03870,Països Baixos,Oci,Cap
+C03871,Alemanya,Oci,Cap
+C03872,Alemanya,Oci,Cap
+C03873,França,Oci,Cap
+C03874,França,Oci,Cap
+C03875,Espanya,Oci,Cap
+C03876,Alemanya,Negocis,Cap
+C03877,França,Oci,Gold
+C03878,Estats Units,Negocis,Cap
+C03879,Alemanya,Oci,Gold
+C03880,Espanya,Oci,Cap
+C03881,França,Oci,Cap
+C03882,Alemanya,Oci,Cap
+C03883,Regne Unit,Oci,Silver
+C03884,Regne Unit,Oci,Cap
+C03885,Regne Unit,Oci,Silver
+C03886,Alemanya,Negocis,Silver
+C03887,França,Oci,Cap
+C03888,Alemanya,Oci,Cap
+C03889,Països Baixos,Oci,Cap
+C03890,França,Oci,Cap
+C03891,Itàlia,Oci,Cap
+C03892,Estats Units,Negocis,Silver
+C03893,Alemanya,Negocis,Silver
+C03894,Regne Unit,Oci,Cap
+C03895,Espanya,Oci ,Cap
+C03896,Estats Units,Oci,Cap
+C03897,Regne Unit,Oci,Cap
+C03898,Espanya,Negocis,Silver
+C03899,Països Baixos,Negocis,Cap
+C03900,Estats Units,Negocis,Silver
+C03901,Espanya,Oci,Cap
+C03902,Espanya,Oci,Silver
+C03903,Espanya,Oci,Cap
+C03904,Alemanya,Oci,Gold
+C03905,França,Oci,Cap
+C03906,Espanya,Oci,Cap
+C03907,Espanya,Oci,Cap
+C03908,Espanya,Oci,Cap
+C03909,Alemanya,Negocis,Cap
+C03910,Portugal,Oci,Gold
+C03911,Alemanya,Negocis,Gold
+C03912,Itàlia,Negocis,Silver
+C03913,Alemanya,Oci,Silver
+C03914,Alemanya,Oci,Gold
+C03915,Països Baixos,Negocis,Silver
+C03916,Espanya,Oci,Cap
+C03917,Espanya,Oci,Silver
+C03918,Alemanya,Oci,Silver
+C03919,Alemanya,Negocis,Cap
+C03920,Portugal,Oci,Cap
+C03921,Espanya,Oci,Cap
+C03922,Espanya,Oci,Cap
+C03923,Països Baixos,Negocis,Cap
+C03924,Països Baixos,Negocis,Cap
+C03925,Espanya,Oci,Cap
+C03926,Itàlia,Oci,Gold
+C03927,Estats Units,Oci,Cap
+C03928,Itàlia,Oci,Cap
+C03929,Països Baixos,Oci,Cap
+C03930,Espanya,Negocis,Gold
+C03931,Estats Units,Negocis,Silver
+C03932,Espanya,Oci,Cap
+C03933,Alemanya,Negocis,Cap
+C03934,Espanya,Oci,Cap
+C03935,França,Oci,Cap
+C03936,Itàlia,Oci,Cap
+C03937,Espanya,Oci,Cap
+C03938,Estats Units,Oci,Cap
+C03939,França,Oci,Silver
+C03940,França,Oci,Cap
+C03941,Regne Unit,Oci,Cap
+C03942,Itàlia,Negocis,Silver
+C03943,Regne Unit,Oci,Cap
+C03944,Itàlia,Oci,Cap
+C03945,Portugal,Negocis,Silver
+C03946,Espanya,Negocis,Gold
+C03947,Itàlia,Negocis,Silver
+C03948,França,Oci,Cap
+C03949,Espanya,Negocis,Silver
+C03950,Espanya,Oci,Silver
+C03951,Països Baixos,Oci,Cap
+C03952,Països Baixos,Oci,Cap
+C03953,Espanya,Negocis,Cap
+C03954,Itàlia,Oci,Cap
+C03955,Alemanya,Oci,Gold
+C03956,Alemanya,Negocis,Cap
+C03957,Regne Unit,Negocis,Cap
+C03958,Alemanya,Oci,Gold
+C03959,Portugal,Oci,Cap
+C03960,Espanya,Oci,Cap
+C03961,Espanya,Oci,Cap
+C03962,Espanya,Oci,Cap
+C03963,Itàlia,Oci,Cap
+C03964,Itàlia,Oci,Cap
+C03965,França,Oci,Cap
+C03966,Països Baixos,Negocis,Cap
+C03967,Espanya,Oci,Cap
+C03968,Països Baixos,Oci,Silver
+C03969,Portugal,Negocis,Silver
+C03970,Alemanya,Oci,Cap
+C03971,Espanya,Negocis,Gold
+C03972,Alemanya,Oci,Cap
+C03973,Regne Unit,Negocis,Cap
+C03974,Alemanya,Oci,Cap
+C03975,França,Oci,Cap
+C03976,Alemanya,Oci,Silver
+C03977,França,Oci,Cap
+C03978,Espanya,Oci,Cap
+C03979,Portugal,oci,Silver
+C03980,Espanya,Oci,Cap
+C03981,Alemanya,Oci,Cap
+C03982,Espanya,Oci,Cap
+C03983,Espanya,Negocis,Gold
+C03984,Espanya,Oci,Cap
+C03985,Països Baixos,Oci,Cap
+C03986,Portugal,Negocis,Silver
+C03987,Itàlia,Oci,Cap
+C03988,Alemanya,Negocis,Silver
+C03989,Espanya,Oci,Silver
+C03990,Estats Units,Oci,Cap
+C03991,Portugal,Oci,Cap
+C03992,Portugal,Oci,Cap
+C03993,França,Oci,Silver
+C03994,Espanya,Oci,Cap
+C03995,Espanya,Negocis,Silver
+C03996,Espanya,Negocis,Silver
+C03997,Espanya,Oci,Cap
+C03998,Espanya,Negocis,Cap
+C03999,Espanya,Oci,Cap
+C04000,Regne Unit,Oci,Silver
+C04001,Alemanya,Oci,Silver
+C04002,Regne Unit,Negocis,Gold
+C04003,Països Baixos,Oci,Cap
+C04004,Itàlia,Oci,Cap
+C04005,Espanya,Oci,Cap
+C04006,Estats Units,Negocis,Cap
+C04007,Espanya,Negocis,Gold
+C04008,Espanya,Oci,Cap
+C04009,Alemanya,Oci,Cap
+C04010,Països Baixos,Oci,Cap
+C04011,Espanya,Negocis,Cap
+C04012,Alemanya,Oci,Cap
+C04013,Espanya,Oci,Cap
+C04014,Alemanya,Negocis,Cap
+C04015,Alemanya,Oci,Cap
+C04016,Espanya,Negocis,Gold
+C04017,Espanya,Oci,Cap
+C04018,Espanya,Negocis,Cap
+C04019,Espanya,Oci,Cap
+C04020,Espanya,Oci,Cap
+C04021,Països Baixos,Oci,Cap
+C04022,França,Oci,Cap
+C04023,Espanya,Negocis,Cap
+C04024,França,Negocis,Cap
+C04025,Regne Unit,Oci,Cap
+C04026,Espanya,Negocis,Cap
+C04027,França,Negocis,Gold
+C04028,Estats Units,Oci,Cap
+C04029,Alemanya,Oci,Gold
+C04030,Alemanya,Oci,Silver
+C04031,Espanya,Negocis,Silver
+C04032,Alemanya,Oci,Cap
+C04033,Portugal,Oci,Silver
+C04034,Països Baixos,Oci,Cap
+C04035,Espanya,Oci,Cap
+C04036,Espanya,Negocis,Cap
+C04037,Regne Unit,Negocis,Cap
+C04038,Espanya,Oci,Cap
+C04039,Espanya,Negocis,Silver
+C04040,Països Baixos,Oci,Cap
+C04041,França,Oci,Silver
+C04042,Països Baixos,Oci,Cap
+C04043,Països Baixos,Oci,Silver
+C04044,França,Oci,Silver
+C04045,França,Oci,Cap
+C04046,França,Negocis,Silver
+C04047,França,Oci,Silver
+C04048,França,Negocis,Cap
+C04049,França,Oci,Cap
+C04050,França,Negocis,Cap
+C04051,Itàlia,Oci,Silver
+C04052,Portugal,Oci,Cap
+C04053,Espanya,Negocis,Cap
+C04054,Espanya,Negocis,Silver
+C04055,Espanya,Negocis,Cap
+C04056,Espanya,Oci,Cap
+C04057,Alemanya,Negocis,Gold
+C04058,Alemanya,Oci,Cap
+C04059,França,Negocis,Silver
+C04060,Alemanya,Oci,Silver
+C04061,Espanya,Negocis,Cap
+C04062,Espanya,Negocis,Cap
+C04063,França,Oci,Cap
+C04064,Regne Unit,Oci,Cap
+C04065,Espanya,Negocis,Silver
+C04066,Espanya,Oci,Silver
+C04067,Regne Unit,Negocis,Cap
+C04068,França,Oci,Cap
+C04069,Alemanya,Oci,Cap
+C04070,Estats Units,Oci,Cap
+C04071,Alemanya,Oci,Cap
+C04072,Estats Units,Oci,Cap
+C04073,Espanya,Oci,Silver
+C04074,Espanya,Oci,Silver
+C04075,Espanya,Oci,Gold
+C04076,Itàlia,Negocis,Silver
+C04077,Regne Unit,Oci,Cap
+C04078,Espanya,Oci,Silver
+C04079,França,Oci,Cap
+C04080,França,Oci,Silver
+C04081,Espanya,Negocis,Silver
+C04082,Portugal,Oci,Cap
+C04083,Països Baixos,Oci,Cap
+C04084,Portugal,Negocis,Cap
+C04085,Espanya,Oci,Cap
+C04086,Espanya,Oci,Cap
+C04087,Espanya,Oci,Cap
+C04088,Espanya,Negocis,Cap
+C04089,Espanya,Negocis,Gold
+C04090,Alemanya,Oci,Cap
+C04091,França,Oci,Cap
+C04092,Regne Unit,Negocis,Cap
+C04093,Portugal,Negocis,Gold
+C04094,Espanya,Negocis,Silver
+C04095,Regne Unit,Oci,Silver
+C04096,França,Oci,Silver
+C04097,Espanya,Oci,Cap
+C04098,Espanya,Oci,Cap
+C04099,Espanya,Oci,Cap
+C04100,Portugal,Oci,Cap
+C04101,Espanya,Oci,Gold
+C04102,França,Negocis,Cap
+C04103,Països Baixos,Oci,Gold
+C04104,Espanya,Oci,Cap
+C04105,Regne Unit,Negocis,Silver
+C04106,Espanya,Negocis,Silver
+C04107,Espanya,Oci,Silver
+C04108,Regne Unit,Oci,Silver
+C04109,Espanya,Negocis,Cap
+C04110,Espanya,Oci,Gold
+C04111,Itàlia,Negocis,Gold
+C04112,Regne Unit,Negocis,Cap
+C04113,Portugal,Oci,Cap
+C04114,Espanya,Oci,Silver
+C04115,França,Negocis,Gold
+C04116,França,Negocis,Gold
+C04117,Espanya,Oci,Cap
+C04118,Alemanya,Oci,Silver
+C04119,Alemanya,Negocis,Gold
+C04120,Regne Unit,Oci,Gold
+C04121,Espanya,Oci,Silver
+C04122,Espanya,Oci,Silver
+C04123,Itàlia,Negocis,Gold
+C04124,Itàlia,Oci,Gold
+C04125,Portugal,Oci,Cap
+C04126,Alemanya,Negocis,Cap
+C04127,Regne Unit,oci,Cap
+C04128,Països Baixos,Oci,Cap
+C04129,Espanya,Oci,Cap
+C04130,Espanya,Negocis,Cap
+C04131,Espanya,Oci,Cap
+C04132,Espanya,Oci,Cap
+C04133,Regne Unit,Oci,Cap
+C04134,Espanya,Negocis,Gold
+C04135,Portugal,Oci,Cap
+C04136,França,Oci,Gold
+C04137,Alemanya,Oci,Silver
+C04138,Alemanya,Oci,Cap
+C04139,Alemanya,Oci,Cap
+C04140,Alemanya,Oci,Silver
+C04141,Espanya,Oci,Cap
+C04142,Espanya,Oci,Cap
+C04143,França,Negocis,Silver
+C04144,Estats Units,Oci,Silver
+C04145,Estats Units,Oci,Cap
+C04146,Espanya,Oci,Cap
+C04147,Espanya,Oci,Cap
+C04148,Portugal,Oci,Gold
+C04149,Espanya,Negocis,Silver
+C04150,Espanya,Negocis,Silver
+C04151,Espanya,Negocis,Cap
+C04152,Estats Units,Oci,Silver
+C04153,Regne Unit,Oci,Cap
+C04154,França,Oci,Cap
+C04155,Alemanya,Oci,Cap
+C04156,Espanya,Oci,Silver
+C04157,Regne Unit,Oci,Silver
+C04158,Països Baixos,Oci,Silver
+C04159,Espanya,Oci,Silver
+C04160,Espanya,Oci,Cap
+C04161,Alemanya,Oci,Cap
+C04162,Regne Unit,Oci,Silver
+C04163,Alemanya,Oci,Cap
+C04164,França,Negocis,Cap
+C04165,Països Baixos,Negocis,Silver
+C04166,Espanya,Oci,Gold
+C04167,Itàlia,Negocis,Silver
+C04168,Països Baixos,Oci,Cap
+C04169,Portugal,Negocis,Silver
+C04170,Alemanya,Oci,Cap
+C04171,Espanya,Negocis,Gold
+C04172,Estats Units,Oci,Cap
+C04173,Espanya,Oci,Silver
+C04174,Espanya,Oci,Cap
+C04175,Itàlia,Oci,Cap
+C04176,Espanya,Oci,Silver
+C04177,França,Oci,Silver
+C04178,Espanya,Negocis,Cap
+C04179,França,Negocis,Silver
+C04180,Espanya,Oci,Gold
+C04181,Alemanya,Oci,Silver
+C04182,Alemanya,Oci,Cap
+C04183,França,Negocis,Gold
+C04184,Espanya,Negocis,Cap
+C04185,Portugal,Negocis,Cap
+C04186,Espanya,Oci,Silver
+C04187,Espanya,Oci,Cap
+C04188,Països Baixos,Oci,Cap
+C04189,Regne Unit,Oci,Cap
+C04190,Portugal,Oci,Cap
+C04191,Regne Unit,Oci,Silver
+C04192,Espanya,Oci,Cap
+C04193,Països Baixos,Oci,Cap
+C04194,Espanya,Negocis,Cap
+C04195,Espanya,Oci,Cap
+C04196,Espanya,Negocis,Cap
+C04197,França,Oci,Cap
+C04198,Regne Unit,Negocis,Gold
+C04199,Itàlia,Oci,Gold
+C04200,Espanya,Negocis,Cap
+C04201,Espanya,Oci,Cap
+C04202,Espanya,Oci,Gold
+C04203,Espanya,Oci,Cap
+C04204,Espanya,Oci,Silver
+C04205,Portugal,Oci,Cap
+C04206,Regne Unit,Oci,Cap
+C04207,Espanya,Oci,Silver
+C04208,França,Oci,Cap
+C04209,Països Baixos,Negocis,Cap
+C04210,Itàlia,Oci,Cap
+C04211,França,Oci,Cap
+C04212,Alemanya,Oci,Cap
+C04213,Espanya,Oci,Cap
+C04214,Portugal,Oci,Silver
+C04215,Estats Units,Oci,Cap
+C04216,França,Oci,Silver
+C04217,Espanya,Oci,Cap
+C04218,Itàlia,Oci,Cap
+C04219,Espanya,Negocis,Gold
+C04220,Itàlia,Oci,Cap
+C04221,Espanya,Oci,Cap
+C04222,Alemanya,Oci,Cap
+C04223,Espanya,Oci,Cap
+C04224,Regne Unit,Oci,Cap
+C04225,Espanya,Negocis,Silver
+C04226,Itàlia,Negocis,Silver
+C04227,Espanya,Oci,Silver
+C04228,Espanya,Oci,Silver
+C04229,Espanya,Negocis,Cap
+C04230,Espanya,negocis,Silver
+C04231,Alemanya,Negocis,Gold
+C04232,Països Baixos,Oci,Cap
+C04233,Estats Units,Oci,Silver
+C04234,Països Baixos,Oci,Cap
+C04235,Països Baixos,Oci,Cap
+C04236,França,Oci,Cap
+C04237,Països Baixos,Oci,Cap
+C04238,Països Baixos,Oci,Cap
+C04239,Espanya,Oci,Cap
+C04240,Països Baixos,Negocis ,Silver
+C04241,Espanya,Negocis,Silver
+C04242,Regne Unit,Negocis,Silver
+C04243,Estats Units,Oci,Silver
+C04244,Alemanya,Oci,Cap
+C04245,Països Baixos,Negocis,Cap
+C04246,Espanya,Oci,Cap
+C04247,Regne Unit,Oci,Silver
+C04248,Espanya,Oci,Cap
+C04249,Itàlia,Oci,Cap
+C04250,Itàlia,Oci,Cap
+C04251,França,Negocis,Cap
+C04252,Regne Unit,Negocis,Gold
+C04253,Itàlia,Oci,Cap
+C04254,Espanya,Oci,Cap
+C04255,França,Oci,Cap
+C04256,Espanya,Oci,Cap
+C04257,Espanya,Oci,Cap
+C04258,França,Negocis,Silver
+C04259,França,Oci,Cap
+C04260,Itàlia,Oci,Cap
+C04261,Alemanya,Oci,Cap
+C04262,Alemanya,Negocis,Cap
+C04263,Alemanya,Oci,Cap
+C04264,Regne Unit,Oci,Gold
+C04265,Regne Unit,Oci,Silver
+C04266,Regne Unit,Negocis,Cap
+C04267,Espanya,Oci,Cap
+C04268,Països Baixos,Oci,Cap
+C04269,Espanya,Negocis,Cap
+C04270,Països Baixos,Negocis,Gold
+C04271,França,Oci,Cap
+C04272,França,Negocis,Cap
+C04273,Regne Unit,Negocis,Cap
+C04274,Portugal,Oci,Cap
+C04275,Països Baixos,Negocis,Cap
+C04276,Itàlia,Negocis,Silver
+C04277,Portugal,Oci,Cap
+C04278,Espanya,Oci,Cap
+C04279,França,Negocis,Cap
+C04280,França,Oci,Gold
+C04281,França,Oci,Cap
+C04282,França,Oci,Gold
+C04283,Portugal,Oci,Cap
+C04284,Espanya,Oci,Cap
+C04285,Espanya,Negocis,Cap
+C04286,Alemanya,Oci,Cap
+C04287,Espanya,Oci,Cap
+C04288,Països Baixos,Oci,Silver
+C04289,Regne Unit,Oci,Cap
+C04290,França,Oci,Silver
+C04291,França,Oci,Silver
+C04292,Espanya,Oci,Cap
+C04293,Països Baixos,Negocis,Cap
+C04294,Portugal,Negocis,Cap
+C04295,Portugal,Negocis,Silver
+C04296,Alemanya,Negocis,Gold
+C04297,Alemanya,Oci,Cap
+C04298,Espanya,Negocis,Cap
+C04299,Espanya,Oci,Cap
+C04300,Alemanya,Negocis,Cap
+C04301,França,Oci,Cap
+C04302,Espanya,Negocis,Cap
+C04303,Regne Unit,Oci,Cap
+C04304,Espanya,Negocis,Gold
+C04305,Regne Unit,Negocis,Cap
+C04306,Regne Unit,Negocis,Cap
+C04307,Espanya,Negocis,Gold
+C04308,Espanya,Negocis,Cap
+C04309,Itàlia,Oci,Cap
+C04310,Alemanya,Negocis,Cap
+C04311,Espanya,Oci,Silver
+C04312,França,Oci,Cap
+C04313,Regne Unit,Negocis,Cap
+C04314,Regne Unit,Negocis,Silver
+C04315,França,Negocis,Cap
+C04316,Estats Units,Oci,Cap
+C04317,Espanya,Oci,Silver
+C04318,Espanya,Oci,Cap
+C04319,Espanya,Oci,Cap
+C04320,França,Oci,Gold
+C04321,Portugal,Oci,Silver
+C04322,Regne Unit,Oci,Cap
+C04323,Alemanya,Negocis,Cap
+C04324,Espanya,Oci,Cap
+C04325,Espanya,Oci,Silver
+C04326,Itàlia,Oci,Silver
+C04327,Itàlia,Oci,Cap
+C04328,Estats Units,Negocis,Cap
+C04329,Espanya,Negocis,Silver
+C04330,Alemanya,Oci,Silver
+C04331,Espanya,Oci,Silver
+C04332,França,Oci,Silver
+C04333,França,Oci,Cap
+C04334,Regne Unit,Negocis,Gold
+C04335,Espanya,Oci,Gold
+C04336,Espanya,Oci,Cap
+C04337,Països Baixos,Negocis,Cap
+C04338,Alemanya,Oci,Cap
+C04339,Espanya,Oci,Cap
+C04340,França,Oci,Cap
+C04341,Espanya,Oci,Cap
+C04342,Espanya,Oci,Silver
+C04343,França,Oci,Cap
+C04344,Alemanya,Oci,Cap
+C04345,França,Oci,Cap
+C04346,Països Baixos,Oci,Cap
+C04347,Estats Units,Oci,Cap
+C04348,Portugal,Negocis,Cap
+C04349,Espanya,Oci,Cap
+C04350,Regne Unit,Oci,Cap
+C04351,Països Baixos,Oci,Silver
+C04352,França,Oci,Cap
+C04353,Espanya,Oci,Cap
+C04354,Espanya,Oci,Cap
+C04355,Itàlia,Oci,Silver
+C04356,Espanya,Oci,Cap
+C04357,Portugal,Oci,Cap
+C04358,Espanya,Oci,Cap
+C04359,Itàlia,Oci,Silver
+C04360,Estats Units,Oci,Cap
+C04361,Espanya,Negocis,Cap
+C04362,França,Oci,Cap
+C04363,Itàlia,Oci,Silver
+C04364,Estats Units,Oci,Cap
+C04365,Països Baixos,Oci,Cap
+C04366,Espanya,Oci,Cap
+C04367,Alemanya,Oci,Cap
+C04368,Països Baixos,Negocis,Silver
+C04369,Països Baixos,Negocis,Cap
+C04370,Països Baixos,Negocis,Cap
+C04371,Espanya,Negocis,Silver
+C04372,Països Baixos,Oci,Silver
+C04373,Portugal,Negocis,Silver
+C04374,Portugal,Oci,Gold
+C04375,Itàlia,Negocis,Silver
+C04376,Regne Unit,Oci,Cap
+C04377,Portugal,Oci,Cap
+C04378,Espanya,Negocis,Gold
+C04379,Espanya,Oci,Silver
+C04380,França,Oci,Cap
+C04381,Espanya,Negocis,Cap
+C04382,França,Oci,Silver
+C04383,Espanya,Oci,Cap
+C04384,Espanya,Oci,Cap
+C04385,Alemanya,Oci,Cap
+C04386,Països Baixos,Negocis,Cap
+C04387,Espanya,Oci,Cap
+C04388,Regne Unit,Oci,Cap
+C04389,Alemanya,Oci,Cap
+C04390,Espanya,Negocis,Cap
+C04391,Itàlia,Oci,Silver
+C04392,Portugal,Oci,Cap
+C04393,Espanya,Oci,Cap
+C04394,França,Oci,Gold
+C04395,Portugal,Oci,Gold
+C04396,Països Baixos,Negocis,Gold
+C04397,Alemanya,Oci,Cap
+C04398,Espanya,Oci,Cap
+C04399,Països Baixos,Negocis,Silver
+C04400,Espanya,Oci,Cap
+C04401,Espanya,Oci,Silver
+C04402,Itàlia,Oci,Silver
+C04403,Regne Unit,Oci,Cap
+C04404,Estats Units,Oci,Gold
+C04405,França,Oci,Cap
+C04406,Països Baixos,Oci,Cap
+C04407,Espanya,Oci,Cap
+C04408,Espanya,Oci,Cap
+C04409,Espanya,Oci,Cap
+C04410,Alemanya,Negocis,Cap
+C04411,Espanya,Negocis,Cap
+C04412,Regne Unit,Oci,Gold
+C04413,Països Baixos,Negocis,Gold
+C04414,Regne Unit,Oci,Cap
+C04415,Regne Unit,Negocis,Cap
+C04416,Itàlia,Oci,Cap
+C04417,Itàlia,Negocis,Gold
+C04418,Estats Units,Negocis,Cap
+C04419,Espanya,Oci,Gold
+C04420,França,Oci,Cap
+C04421,Itàlia,Negocis,Cap
+C04422,Regne Unit,Oci,Silver
+C04423,França,Oci,Silver
+C04424,Estats Units,Oci,Cap
+C04425,Estats Units,Negocis,Silver
+C04426,Itàlia,Negocis,Gold
+C04427,Espanya,Oci,Cap
+C04428,Itàlia,Oci,Gold
+C04429,Portugal,Oci,Cap
+C04430,Espanya,Oci,Cap
+C04431,Espanya,Oci,Cap
+C04432,Països Baixos,Negocis,Gold
+C04433,Regne Unit,Oci,Silver
+C04434,Regne Unit,Oci,Gold
+C04435,Portugal,Oci,Silver
+C04436,Portugal,Oci,Silver
+C04437,Itàlia,Negocis,Cap
+C04438,Portugal,Negocis,Silver
+C04439,Portugal,Negocis,Cap
+C04440,Estats Units,Oci,Cap
+C04441,Espanya,Oci,Silver
+C04442,Regne Unit,Oci,Cap
+C04443,Espanya,Oci,Cap
+C04444,Estats Units,Negocis,Cap
+C04445,Països Baixos,Oci,Cap
+C04446,Espanya,Oci,Cap
+C04447,Espanya,Oci,Silver
+C04448,Espanya,Oci,Cap
+C04449,Espanya,Negocis,Gold
+C04450,Itàlia,Negocis,Cap
+C04451,Països Baixos,Oci,Silver
+C04452,Itàlia,Oci,Silver
+C04453,Països Baixos,Oci,Silver
+C04454,Espanya,Negocis,Cap
+C04455,Regne Unit,Oci,Cap
+C04456,França,Negocis,Cap
+C04457,França,Oci,Cap
+C04458,França,Oci,Cap
+C04459,Països Baixos,Negocis,Cap
+C04460,Espanya,Oci,Cap
+C04461,Alemanya,Oci,Cap
+C04462,Itàlia,Oci,Cap
+C04463,Regne Unit,Oci,Cap
+C04464,Països Baixos,Oci,Cap
+C04465,Espanya,Negocis,Silver
+C04466,Alemanya,Negocis,Silver
+C04467,Portugal,Negocis,Gold
+C04468,Espanya,Oci,Cap
+C04469,Regne Unit,Negocis,Cap
+C04470,Espanya,Negocis,Cap
+C04471,França,Negocis,Cap
+C04472,França,Oci,Gold
+C04473,França,Negocis,Cap
+C04474,Països Baixos,Oci,Cap
+C04475,França,Oci,Cap
+C04476,Alemanya,Oci,Cap
+C04477,Espanya,Negocis,Cap
+C04478,Regne Unit,Negocis,Cap
+C04479,França,Oci,Silver
+C04480,França,Oci,Cap
+C04481,Espanya,Oci,Cap
+C04482,França,Negocis,Cap
+C04483,Espanya,Oci,Cap
+C04484,França,Oci,Cap
+C04485,Regne Unit,Negocis,Gold
+C04486,Espanya,Oci,Cap
+C04487,Països Baixos,Oci,Gold
+C04488,Estats Units,Oci,Cap
+C04489,Espanya,Oci,Cap
+C04490,Espanya,Negocis,Silver
+C04491,Espanya,Oci,Cap
+C04492,Espanya,Oci,Cap
+C04493,Itàlia,Oci,Cap
+C04494,Alemanya,Negocis,Silver
+C04495,França,Negocis,Silver
+C04496,Estats Units,Oci,Silver
+C04497,Espanya,Oci,Cap
+C04498,Alemanya,Oci,Cap
+C04499,Espanya,Negocis,Silver
+C04500,Espanya,Oci,Cap
+C04501,Regne Unit,Oci,Cap
+C04502,Espanya,Negocis,Cap
+C04503,França,Oci,Cap
+C04504,Espanya,Oci,Cap
+C04505,Regne Unit,Oci,Cap
+C04506,Regne Unit,Oci,Cap
+C04507,Regne Unit,Oci,Cap
+C04508,Portugal,Oci,Cap
+C04509,França,Negocis ,Cap
+C04510,Portugal,Negocis,Cap
+C04511,Espanya,Negocis,Cap
+C04512,Itàlia,Negocis,Cap
+C04513,Itàlia,Oci,Cap
+C04514,Portugal,Negocis,Cap
+C04515,França,Oci,Gold
+C04516,Espanya,Negocis,Silver
+C04517,Espanya,Oci,Cap
+C04518,Espanya,Oci,Cap
+C04519,Espanya,Oci,Silver
+C04520,Regne Unit,Oci,Gold
+C04521,Regne Unit,Negocis,Gold
+C04522,Espanya,Negocis,Cap
+C04523,Alemanya,Oci,Cap
+C04524,Regne Unit,Oci,Silver
+C04525,Espanya,Negocis,Gold
+C04526,França,Negocis,Cap
+C04527,Itàlia,Negocis,Silver
+C04528,França,Oci,Cap
+C04529,Regne Unit,Negocis,Cap
+C04530,Alemanya,Oci,Cap
+C04531,Regne Unit,Negocis,Silver
+C04532,França,Oci,Silver
+C04533,França,oci,Cap
+C04534,Països Baixos,Negocis,Gold
+C04535,França,Oci,Cap
+C04536,Regne Unit,Negocis,Gold
+C04537,Regne Unit,Oci,Cap
+C04538,Alemanya,Oci,Silver
+C04539,França,Oci,Cap
+C04540,Països Baixos,Oci,Silver
+C04541,Espanya,Negocis,Cap
+C04542,Portugal,Oci,Silver
+C04543,Itàlia,Oci,Silver
+C04544,Espanya,Negocis,Silver
+C04545,Països Baixos,Negocis,Silver
+C04546,Regne Unit,Oci,Cap
+C04547,França,Oci,Silver
+C04548,Regne Unit,Negocis,Silver
+C04549,Espanya,Oci,Cap
+C04550,Itàlia,Negocis,Silver
+C04551,Espanya,Oci,Cap
+C04552,Regne Unit,Oci,Cap
+C04553,Regne Unit,Oci,Gold
+C04554,Itàlia,Negocis,Cap
+C04555,Itàlia,Oci,Silver
+C04556,Espanya,Oci,Cap
+C04557,Itàlia,Negocis,Silver
+C04558,Espanya,Negocis,Gold
+C04559,Espanya,Oci,Silver
+C04560,França,Negocis,Cap
+C04561,Itàlia,Negocis,Cap
+C04562,Espanya,Oci,Cap
+C04563,Espanya,Oci,Silver
+C04564,Espanya,Negocis,Cap
+C04565,França,Oci,Cap
+C04566,Alemanya,Oci,Cap
+C04567,Alemanya,Oci,Silver
+C04568,Països Baixos,Oci,Cap
+C04569,Espanya,Negocis,Gold
+C04570,Alemanya,Oci,Silver
+C04571,Itàlia,Negocis,Silver
+C04572,Espanya,Oci,Cap
+C04573,Espanya,Negocis,Silver
+C04574,Alemanya,Oci,Cap
+C04575,Espanya,Oci,Cap
+C04576,Itàlia,Oci,Cap
+C04577,Espanya,Oci,Cap
+C04578,Alemanya,Negocis,Cap
+C04579,Alemanya,Oci,Cap
+C04580,Espanya,Negocis,Silver
+C04581,Regne Unit,Negocis,Cap
+C04582,Països Baixos,Oci,Cap
+C04583,França,Oci,Silver
+C04584,França,Oci,Cap
+C04585,Alemanya,Oci,Silver
+C04586,Espanya,Oci,Cap
+C04587,Espanya,Oci,Cap
+C04588,Alemanya,Negocis,Cap
+C04589,Alemanya,Oci,Silver
+C04590,Portugal,Oci,Cap
+C04591,França,Negocis,Silver
+C04592,Alemanya,Oci,Gold
+C04593,Espanya,Oci,Cap
+C04594,Alemanya,Negocis,Silver
+C04595,Regne Unit,Negocis,Silver
+C04596,Espanya,Oci,Cap
+C04597,Itàlia,Oci,Cap
+C04598,Espanya,Oci,Cap
+C04599,Espanya,Oci,Gold
+C04600,França,Negocis,Cap
+C04601,Regne Unit,Oci,Cap
+C04602,Alemanya,Oci,Cap
+C04603,Regne Unit,Negocis,Silver
+C04604,Espanya,Negocis,Cap
+C04605,Espanya,Oci,Gold
+C04606,Espanya,Oci,Cap
+C04607,Espanya,Negocis,Cap
+C04608,Alemanya,Oci,Cap
+C04609,Espanya,Oci,Cap
+C04610,França,Oci,Silver
+C04611,Espanya,Negocis,Cap
+C04612,Espanya,Negocis,Silver
+C04613,Regne Unit,Negocis,Cap
+C04614,Itàlia,Oci,Cap
+C04615,Portugal,Oci,Silver
+C04616,Països Baixos,Oci,Cap
+C04617,Espanya,Oci,Cap
+C04618,Regne Unit,Negocis,Cap
+C04619,Alemanya,Oci,Cap
+C04620,Espanya,Oci,Cap
+C04621,Espanya,Oci,Cap
+C04622,Regne Unit,Oci,Cap
+C04623,Espanya,Oci,Silver
+C04624,Espanya,Negocis,Cap
+C04625,Països Baixos,Oci,Cap
+C04626,Portugal,Oci,Cap
+C04627,Regne Unit,Negocis,Silver
+C04628,Espanya,Oci,Cap
+C04629,Regne Unit,Oci,Cap
+C04630,Regne Unit,Oci,Cap
+C04631,França,Negocis,Silver
+C04632,Espanya,Oci,Silver
+C04633,Països Baixos,Oci,Cap
+C04634,Espanya,Negocis,Silver
+C04635,Alemanya,Negocis,Cap
+C04636,Portugal,Oci,Cap
+C04637,Espanya,Negocis,Cap
+C04638,França,Negocis,Cap
+C04639,Alemanya,Oci,Silver
+C04640,Espanya,Oci,Silver
+C04641,Alemanya,Negocis,Silver
+C04642,Portugal,Negocis,Cap
+C04643,França,Oci,Cap
+C04644,França,Oci,Cap
+C04645,França,Negocis,Cap
+C04646,França,Negocis,Cap
+C04647,Espanya,Oci,Cap
+C04648,Alemanya,Oci,Silver
+C04649,Estats Units,Oci,Cap
+C04650,Països Baixos,Oci,Cap
+C04651,Itàlia,Oci,Gold
+C04652,Alemanya,Negocis,Silver
+C04653,Països Baixos,Negocis,Cap
+C04654,Estats Units,Negocis,Cap
+C04655,Itàlia,Oci,Cap
+C04656,Espanya,Oci,Cap
+C04657,Itàlia,Oci,Silver
+C04658,Espanya,Oci,Cap
+C04659,Països Baixos,Oci,Cap
+C04660,Itàlia,Oci,Cap
+C04661,Regne Unit,Negocis,Gold
+C04662,Itàlia,Negocis,Cap
+C04663,Espanya,Negocis,Gold
+C04664,Espanya,Negocis,Cap
+C04665,Estats Units,Oci,Cap
+C04666,Espanya,Negocis,Cap
+C04667,Espanya,Oci,Cap
+C04668,Alemanya,Negocis,Silver
+C04669,Espanya,Oci,Silver
+C04670,França,Negocis,Silver
+C04671,França,Negocis,Cap
+C04672,Espanya,Negocis,Silver
+C04673,França,Oci,Cap
+C04674,Estats Units,Negocis,Gold
+C04675,Alemanya,Oci,Cap
+C04676,Alemanya,Oci,Cap
+C04677,França,Oci,Cap
+C04678,Itàlia,Oci,Cap
+C04679,Estats Units,Oci,Gold
+C04680,Regne Unit,Negocis,Silver
+C04681,Espanya,Oci,Gold
+C04682,Alemanya,Oci,Cap
+C04683,Alemanya,Oci,Cap
+C04684,Espanya,Oci,Cap
+C04685,Portugal,Oci,Cap
+C04686,Estats Units,Oci,Silver
+C04687,Espanya,Oci,Cap
+C04688,Regne Unit,Oci,Cap
+C04689,Espanya,Oci,Cap
+C04690,Regne Unit,Oci,Silver
+C04691,Regne Unit,Oci,Cap
+C04692,Alemanya,Negocis,Cap
+C04693,Estats Units,Negocis,Cap
+C04694,França,Oci,Cap
+C04695,Estats Units,Oci,Cap
+C04696,Espanya,Negocis,Cap
+C04697,Regne Unit,Oci,Gold
+C04698,Alemanya,Oci,Cap
+C04699,Espanya,Negocis,Gold
+C04700,Espanya,Negocis,Cap
+C04701,Espanya,Oci,Cap
+C04702,Espanya,Oci,Cap
+C04703,Regne Unit,Negocis,Silver
+C04704,Espanya,Oci,Cap
+C04705,Regne Unit,Oci,Cap
+C04706,Països Baixos,Oci,Cap
+C04707,Espanya,Oci,Cap
+C04708,Alemanya,Oci,Cap
+C04709,Espanya,Oci,Cap
+C04710,França,Negocis,Cap
+C04711,Espanya,Oci,Cap
+C04712,França,Oci,Cap
+C04713,Espanya,Negocis,Gold
+C04714,Espanya,Oci,Cap
+C04715,Regne Unit,Negocis,Cap
+C04716,Espanya,Oci,Cap
+C04717,Itàlia,Negocis,Cap
+C04718,Països Baixos,Oci,Cap
+C04719,Alemanya,Oci,Silver
+C04720,Països Baixos,Negocis,Gold
+C04721,Portugal,Oci,Cap
+C04722,Espanya,Oci,Silver
+C04723,Itàlia,Oci,Gold
+C04724,França,Negocis,Cap
+C04725,Espanya,Negocis,Cap
+C04726,Espanya,Negocis,Cap
+C04727,França,Oci,Cap
+C04728,Portugal,oci,Cap
+C04729,Alemanya,Negocis,Silver
+C04730,Itàlia,Negocis,Silver
+C04731,Portugal,Oci,Cap
+C04732,Espanya,Oci,Cap
+C04733,Espanya,Oci,Silver
+C04734,Portugal,Oci,Cap
+C04735,Alemanya,Oci,Gold
+C04736,Espanya,Oci,Cap
+C04737,Alemanya,Oci,Cap
+C04738,Espanya,Oci,Cap
+C04739,Regne Unit,Oci,Cap
+C04740,Alemanya,Oci,Cap
+C04741,Alemanya,Oci,Cap
+C04742,Itàlia,Negocis,Silver
+C04743,Espanya,Oci,Cap
+C04744,Regne Unit,Oci,Cap
+C04745,Espanya,Oci,Gold
+C04746,Regne Unit,Oci,Cap
+C04747,Països Baixos,Oci,Cap
+C04748,Regne Unit,Oci,Silver
+C04749,Espanya,Oci,Cap
+C04750,França,Oci,Cap
+C04751,Espanya,Oci,Cap
+C04752,Espanya,Oci,Cap
+C04753,Espanya,Oci,Cap
+C04754,Països Baixos,Oci,Silver
+C04755,Itàlia,Negocis,Cap
+C04756,Portugal,Oci,Silver
+C04757,Espanya,Oci,Cap
+C04758,Espanya,Oci,Cap
+C04759,Regne Unit,Negocis,Cap
+C04760,França,Negocis,Cap
+C04761,Regne Unit,Oci,Cap
+C04762,Alemanya,Oci,Cap
+C04763,Estats Units,Oci,Cap
+C04764,Països Baixos,Oci,Cap
+C04765,Alemanya,Oci,Gold
+C04766,Itàlia,Oci,Cap
+C04767,Alemanya,Negocis,Cap
+C04768,Alemanya,Oci,Cap
+C04769,Regne Unit,Oci,Silver
+C04770,Espanya,Oci,Silver
+C04771,França,Oci,Silver
+C04772,Espanya,Oci,Cap
+C04773,Espanya,Negocis,Cap
+C04774,Espanya,Oci,Cap
+C04775,Itàlia,oci,Cap
+C04776,Espanya,Oci,Silver
+C04777,França,Oci,Cap
+C04778,França,Oci,Silver
+C04779,Itàlia,Negocis,Cap
+C04780,Regne Unit,Oci,Cap
+C04781,França,Negocis,Silver
+C04782,Espanya,Oci,Silver
+C04783,Itàlia,Oci,Gold
+C04784,Països Baixos,Negocis,Cap
+C04785,Alemanya,Negocis,Cap
+C04786,Alemanya,Oci,Silver
+C04787,Espanya,Negocis,Silver
+C04788,Alemanya,Negocis,Gold
+C04789,França,Oci,Cap
+C04790,Regne Unit,Oci,Cap
+C04791,França,Oci,Cap
+C04792,Espanya,Negocis,Cap
+C04793,Alemanya,Oci,Cap
+C04794,Espanya,Negocis,Cap
+C04795,Països Baixos,Oci,Cap
+C04796,Itàlia,Oci,Cap
+C04797,Itàlia,Oci,Silver
+C04798,Espanya,Oci,Gold
+C04799,Espanya,Oci,Cap
+C04800,Països Baixos,Negocis,Silver
+C04801,Espanya,Oci,Cap
+C04802,Espanya,Oci,Cap
+C04803,Regne Unit,Oci,Cap
+C04804,Estats Units,Oci,Silver
+C04805,Espanya,Negocis,Cap
+C04806,Regne Unit,Oci,Gold
+C04807,Itàlia,Oci,Cap
+C04808,Regne Unit,Negocis,Gold
+C04809,Alemanya,Oci,Cap
+C04810,Regne Unit,Oci,Silver
+C04811,Espanya,Oci,Cap
+C04812,Itàlia,Oci,Cap
+C04813,Itàlia,Negocis,Silver
+C04814,Regne Unit,Negocis,Cap
+C04815,Regne Unit,Oci,Cap
+C04816,Itàlia,Oci,Gold
+C04817,Espanya,Oci,Cap
+C04818,Espanya,Negocis,Gold
+C04819,Alemanya,Oci,Cap
+C04820,Itàlia,Negocis,Gold
+C04821,Itàlia,Negocis,Silver
+C04822,França,Oci,Cap
+C04823,França,Oci,Cap
+C04824,Portugal,Negocis,Cap
+C04825,Espanya,Oci,Cap
+C04826,Espanya,Oci,Cap
+C04827,Països Baixos,Oci,Cap
+C04828,Espanya,Oci,Cap
+C04829,Itàlia,Oci,Cap
+C04830,Alemanya,Negocis,Silver
+C04831,Espanya,Oci,Silver
+C04832,Espanya,Negocis,Cap
+C04833,Espanya,Negocis,Cap
+C04834,Espanya,Oci,Cap
+C04835,Espanya,Negocis,Silver
+C04836,França,Oci,Cap
+C04837,Portugal,Oci,Silver
+C04838,Espanya,Negocis,Cap
+C04839,Alemanya,Oci,Gold
+C04840,Estats Units,Negocis,Silver
+C04841,Regne Unit,Oci,Cap
+C04842,Regne Unit,Negocis,Cap
+C04843,Itàlia,Oci,Silver
+C04844,Itàlia,Oci,Silver
+C04845,Espanya,Oci,Silver
+C04846,Espanya,Oci,Cap
+C04847,Espanya,Oci,Cap
+C04848,Espanya,Oci,Cap
+C04849,Països Baixos,Oci,Silver
+C04850,Regne Unit,Oci,Cap
+C04851,Espanya,Oci,Cap
+C04852,Espanya,Oci,Cap
+C04853,Portugal,Oci,Cap
+C04854,França,Oci,Cap
+C04855,Itàlia,Negocis,Cap
+C04856,Països Baixos,Negocis,Cap
+C04857,Alemanya,Oci,Cap
+C04858,Espanya,Oci,Cap
+C04859,Espanya,Oci,Cap
+C04860,Itàlia,Oci,Cap
+C04861,Alemanya,Oci,Cap
+C04862,Alemanya,Negocis,Gold
+C04863,Espanya,Oci,Cap
+C04864,Espanya,Oci,Cap
+C04865,Estats Units,Negocis,Gold
+C04866,Itàlia,Oci,Cap
+C04867,Espanya,Oci,Gold
+C04868,Espanya,Oci,Cap
+C04869,Itàlia,Oci,Silver
+C04870,França,Negocis,Silver
+C04871,Regne Unit,Negocis,Gold
+C04872,Països Baixos,Oci,Cap
+C04873,Espanya,Oci,Cap
+C04874,Portugal,Oci,Cap
+C04875,Portugal,Oci,Cap
+C04876,Espanya,Oci,Cap
+C04877,Regne Unit,Oci,Silver
+C04878,Espanya,Oci,Cap
+C04879,Espanya,Oci,Cap
+C04880,Espanya,Negocis,Silver
+C04881,Itàlia,Oci,Cap
+C04882,Països Baixos,Oci,Cap
+C04883,Alemanya,Oci,Cap
+C04884,Estats Units,Negocis,Silver
+C04885,Espanya,Oci,Cap
+C04886,França,Oci,Silver
+C04887,Espanya,Oci,Silver
+C04888,Espanya,Negocis,Cap
+C04889,França,Negocis,Gold
+C04890,Països Baixos,Negocis,Cap
+C04891,Regne Unit,Negocis,Cap
+C04892,Alemanya,Negocis,Gold
+C04893,Estats Units,Oci,Cap
+C04894,Espanya,Oci,Cap
+C04895,França,Negocis,Cap
+C04896,Espanya,Oci,Gold
+C04897,Estats Units,Negocis,Gold
+C04898,Espanya,Oci,Cap
+C04899,Espanya,Oci,Cap
+C04900,Espanya,Oci,Silver
+C04901,Itàlia,Oci,Cap
+C04902,Espanya,Oci,Cap
+C04903,Espanya,Oci,Cap
+C04904,Alemanya,Oci,Cap
+C04905,Espanya,Negocis,Silver
+C04906,Espanya,Oci,Cap
+C04907,Espanya,Oci,Cap
+C04908,Portugal,Negocis,Cap
+C04909,Països Baixos,Oci,Cap
+C04910,Espanya,Oci,Cap
+C04911,Alemanya,Oci,Gold
+C04912,Espanya,Negocis,Cap
+C04913,Espanya,Oci,Silver
+C04914,Espanya,Negocis,Gold
+C04915,Estats Units,Negocis,Cap
+C04916,Alemanya,Oci,Cap
+C04917,Alemanya,Oci,Cap
+C04918,Alemanya,Oci,Cap
+C04919,Espanya,Oci,Gold
+C04920,Espanya,Oci,Cap
+C04921,Regne Unit,Negocis,Silver
+C04922,Portugal,Oci,Cap
+C04923,Portugal,Negocis,Silver
+C04924,Portugal,Oci,Cap
+C04925,França,Oci,Cap
+C04926,Regne Unit,Oci,Silver
+C04927,França,Oci,Cap
+C04928,França,Oci,Silver
+C04929,Regne Unit,Oci,Cap
+C04930,Estats Units,Oci,Silver
+C04931,Alemanya,Oci,Silver
+C04932,Espanya,Oci,Cap
+C04933,Alemanya,Negocis,Silver
+C04934,Alemanya,Oci,Cap
+C04935,Espanya,Negocis,Silver
+C04936,Espanya,Oci,Cap
+C04937,Alemanya,Oci,Cap
+C04938,Portugal,Oci,Cap
+C04939,Portugal,Oci,Cap
+C04940,Portugal,Oci,Cap
+C04941,Alemanya,Oci,Silver
+C04942,Espanya,Oci,Cap
+C04943,Alemanya,Negocis,Silver
+C04944,Països Baixos,Oci,Cap
+C04945,Regne Unit,Oci,Silver
+C04946,Països Baixos,Negocis,Silver
+C04947,Alemanya,Oci,Cap
+C04948,França,Oci,Silver
+C04949,Itàlia,Oci,Cap
+C04950,Espanya,Negocis,Gold
+C04951,Regne Unit,Negocis,Gold
+C04952,Alemanya,Oci,Silver
+C04953,Espanya,Oci,Cap
+C04954,Regne Unit,Oci,Gold
+C04955,Regne Unit,Oci,Silver
+C04956,França,Negocis,Cap
+C04957,Espanya,Negocis,Silver
+C04958,Regne Unit,Oci,Silver
+C04959,Portugal,Negocis,Cap
+C04960,Espanya,Oci,Cap
+C04961,Espanya,Negocis,Gold
+C04962,Espanya,Negocis,Silver
+C04963,Espanya,Oci,Silver
+C04964,Països Baixos,Negocis,Cap
+C04965,Espanya,Oci,Gold
+C04966,Espanya,Oci,Silver
+C04967,Espanya,Oci,Cap
+C04968,Itàlia,Oci,Cap
+C04969,Espanya,Negocis,Cap
+C04970,Espanya,Negocis,Gold
+C04971,Regne Unit,Negocis,Cap
+C04972,França,Oci,Silver
+C04973,Espanya,Negocis,Gold
+C04974,Itàlia,Oci,Silver
+C04975,Espanya,Negocis,Cap
+C04976,Espanya,Negocis,Silver
+C04977,Regne Unit,Oci,Cap
+C04978,Espanya,Negocis,Gold
+C04979,Itàlia,Oci,Gold
+C04980,Estats Units,Negocis,Cap
+C04981,França,Negocis,Silver
+C04982,Països Baixos,Oci,Cap
+C04983,Alemanya,Oci,Cap
+C04984,Itàlia,Oci,Cap
+C04985,Espanya,Oci,Silver
+C04986,Portugal,Negocis,Silver
+C04987,Itàlia,Oci,Silver
+C04988,Itàlia,Negocis,Silver
+C04989,Espanya,Negocis,Cap
+C04990,Regne Unit,Negocis,Cap
+C04991,França,Negocis ,Silver
+C04992,Itàlia,Oci,Cap
+C04993,Regne Unit,Oci,Cap
+C04994,Espanya,Negocis,Cap
+C04995,Alemanya,Oci,Cap
+C04996,Espanya,Negocis,Cap
+C04997,Itàlia,Oci,Cap
+C04998,Espanya,Negocis,Silver
+C04999,Estats Units,Oci,Cap
+C05000,França,Negocis,Cap
+C05001,Espanya,negocis,Cap
+C05002,Espanya,Oci,Silver
+C05003,Regne Unit,Oci,Cap
+C05004,Espanya,Oci,Cap
+C05005,Regne Unit,Negocis,Cap
+C05006,Espanya,Oci,Cap
+C05007,Espanya,Oci,Cap
+C05008,Regne Unit,Oci,Silver
+C05009,Espanya,Oci,Cap
+C05010,Espanya,Negocis,Cap
+C05011,França,Oci,Cap
+C05012,Espanya,Oci,Silver
+C05013,Espanya,Negocis,Cap
+C05014,Espanya,Oci,Cap
+C05015,Alemanya,Oci,Cap
+C05016,França,Negocis,Cap
+C05017,Espanya,Oci,Cap
+C05018,Espanya,Oci,Silver
+C05019,Espanya,Oci,Cap
+C05020,Espanya,Negocis,Gold
+C05021,França,Negocis,Gold
+C05022,França,Oci,Cap
+C05023,Alemanya,Oci,Cap
+C05024,Portugal,Negocis,Cap
+C05025,Espanya,Oci,Cap
+C05026,Itàlia,Negocis,Gold
+C05027,França,Oci,Cap
+C05028,Estats Units,Oci,Cap
+C05029,Alemanya,Oci,Cap
+C05030,Espanya,Negocis,Cap
+C05031,Espanya,Oci,Cap
+C05032,Espanya,Oci,Cap
+C05033,Regne Unit,Negocis,Gold
+C05034,Espanya,Oci,Cap
+C05035,Països Baixos,Oci,Cap
+C05036,França,Oci,Cap
+C05037,Espanya,Negocis,Silver
+C05038,Països Baixos,Negocis,Silver
+C05039,Espanya,Oci,Cap
+C05040,Espanya,Negocis,Silver
+C05041,Estats Units,Negocis,Cap
+C05042,Regne Unit,Negocis,Gold
+C05043,França,Oci,Cap
+C05044,Regne Unit,Oci,Cap
+C05045,Regne Unit,Oci,Cap
+C05046,Alemanya,Oci,Cap
+C05047,Espanya,Oci,Cap
+C05048,Itàlia,Oci,Cap
+C05049,Regne Unit,Oci,Cap
+C05050,Alemanya,Oci,Cap
+C05051,Espanya,Oci,Silver
+C05052,Espanya,Oci,Cap
+C05053,Espanya,Oci,Cap
+C05054,Espanya,oci,Cap
+C05055,Espanya,Oci,Cap
+C05056,Espanya,Oci,Cap
+C05057,Espanya,Oci,Silver
+C05058,Espanya,Oci,Cap
+C05059,Espanya,Oci,Cap
+C05060,França,Negocis,Gold
+C05061,Itàlia,Negocis,Cap
+C05062,Alemanya,Oci,Cap
+C05063,Regne Unit,Oci,Silver
+C05064,Alemanya,Oci,Cap
+C05065,Regne Unit,Oci,Cap
+C05066,Alemanya,Oci,Cap
+C05067,Itàlia,Oci,Cap
+C05068,Alemanya,Oci,Cap
+C05069,Regne Unit,Negocis,Gold
+C05070,França,Oci,Cap
+C05071,Països Baixos,Oci,Silver
+C05072,Itàlia,Negocis,Gold
+C05073,Espanya,Oci,Silver
+C05074,Portugal,Oci,Cap
+C05075,Portugal,Negocis,Silver
+C05076,Espanya,Negocis,Silver
+C05077,Països Baixos,Negocis,Silver
+C05078,Itàlia,Oci,Cap
+C05079,Alemanya,Oci,Cap
+C05080,Alemanya,Negocis,Gold
+C05081,Espanya,Oci,Cap
+C05082,França,Negocis,Gold
+C05083,Espanya,Oci,Gold
+C05084,Espanya,Oci,Cap
+C05085,Portugal,Oci,Silver
+C05086,Espanya,Negocis,Cap
+C05087,Regne Unit,Negocis,Cap
+C05088,Regne Unit,Oci,Cap
+C05089,Alemanya,Oci,Gold
+C05090,Espanya,Oci,Silver
+C05091,Espanya,Oci,Cap
+C05092,Espanya,Oci,Cap
+C05093,Espanya,Negocis,Silver
+C05094,Espanya,Oci,Cap
+C05095,Regne Unit,Negocis,Cap
+C05096,Espanya,Oci,Cap
+C05097,Itàlia,Oci,Silver
+C05098,França,Oci,Silver
+C05099,França,Oci,Cap
+C05100,Espanya,Negocis,Cap
+C05101,Regne Unit,Oci,Cap
+C05102,Espanya,Negocis,Cap
+C05103,França,Oci,Cap
+C05104,Alemanya,Oci,Cap
+C05105,Espanya,Oci,Cap
+C05106,França,Negocis,Cap
+C05107,França,Negocis,Cap
+C05108,França,Oci,Cap
+C05109,Alemanya,Oci,Cap
+C05110,Estats Units,Oci,Silver
+C05111,Itàlia,Oci,Cap
+C05112,Regne Unit,Negocis,Silver
+C05113,Itàlia,Oci,Cap
+C05114,Alemanya,Negocis ,Cap
+C05115,Regne Unit,Negocis,Cap
+C05116,Alemanya,Negocis,Gold
+C05117,Regne Unit,Oci,Cap
+C05118,Espanya,Oci,Cap
+C05119,Alemanya,Negocis,Cap
+C05120,Alemanya,Oci,Cap
+C05121,Espanya,Negocis,Silver
+C05122,Itàlia,Oci,Silver
+C05123,Espanya,Negocis,Silver
+C05124,França,Oci,Cap
+C05125,Estats Units,Negocis,Cap
+C05126,Països Baixos,Oci,Cap
+C05127,Espanya,Oci,Silver
+C05128,Regne Unit,Oci,Cap
+C05129,Espanya,Oci,Cap
+C05130,Itàlia,Oci,Silver
+C05131,Alemanya,Oci,Silver
+C05132,Regne Unit,Negocis,Cap
+C05133,Itàlia,Negocis,Cap
+C05134,Espanya,Oci,Cap
+C05135,França,Negocis,Cap
+C05136,Portugal,Negocis,Cap
+C05137,Espanya,Negocis,Cap
+C05138,Espanya,Oci,Cap
+C05139,Espanya,Oci,Cap
+C05140,Espanya,Oci,Silver
+C05141,Estats Units,Oci,Silver
+C05142,Alemanya,Oci,Cap
+C05143,Espanya,Negocis,Cap
+C05144,França,Oci,Cap
+C05145,Portugal,Oci,Cap
+C05146,Països Baixos,Oci,Gold
+C05147,Itàlia,Oci,Cap
+C05148,Països Baixos,Negocis,Cap
+C05149,Portugal,Negocis,Silver
+C05150,Espanya,Negocis,Gold
+C05151,França,Oci,Cap
+C05152,Espanya,Oci,Cap
+C05153,Alemanya,Oci,Cap
+C05154,Espanya,Oci,Cap
+C05155,Estats Units,Oci,Gold
+C05156,França,Negocis,Cap
+C05157,Espanya,Oci,Cap
+C05158,Portugal,Negocis,Silver
+C05159,Regne Unit,Oci,Cap
+C05160,Itàlia,Oci,Silver
+C05161,Portugal,Oci,Cap
+C05162,França,Negocis,Silver
+C05163,Espanya,Oci,Cap
+C05164,Alemanya,Oci,Silver
+C05165,Espanya,Oci,Cap
+C05166,Estats Units,Oci,Cap
+C05167,Regne Unit,Oci,Cap
+C05168,Regne Unit,Negocis,Gold
+C05169,Espanya,Oci,Cap
+C05170,Portugal,Oci,Silver
+C05171,Països Baixos,Oci,Cap
+C05172,França,Oci,Silver
+C05173,Espanya,Oci,Cap
+C05174,Espanya,Negocis,Cap
+C05175,Espanya,Negocis,Cap
+C05176,França,Negocis,Silver
+C05177,Espanya,Oci,Cap
+C05178,Espanya,Negocis,Cap
+C05179,Itàlia,Oci,Cap
+C05180,França,Oci,Cap
+C05181,Alemanya,Oci,Cap
+C05182,Itàlia,Negocis,Cap
+C05183,Espanya,Negocis,Silver
+C05184,Espanya,Oci,Gold
+C05185,Estats Units,Oci,Cap
+C05186,Itàlia,Oci,Cap
+C05187,Espanya,Oci,Cap
+C05188,França,Oci,Silver
+C05189,Regne Unit,Oci,Cap
+C05190,Portugal,Negocis,Cap
+C05191,Espanya,Oci,Cap
+C05192,Espanya,Negocis,Cap
+C05193,Regne Unit,Oci,Cap
+C05194,Regne Unit,Oci,Cap
+C05195,Estats Units,Oci,Cap
+C05196,França,Oci,Cap
+C05197,Espanya,Oci,Cap
+C05198,França,Oci,Cap
+C05199,França,Negocis,Cap
+C05200,Regne Unit,Oci,Cap
+C05201,Alemanya,Oci,Cap
+C05202,Espanya,Oci,Silver
+C05203,Espanya,Oci,Cap
+C05204,Espanya,Negocis,Silver
+C05205,Regne Unit,Oci,Cap
+C05206,Itàlia,Oci,Cap
+C05207,Alemanya,Oci,Cap
+C05208,Països Baixos,Oci,Silver
+C05209,Itàlia,Oci,Cap
+C05210,Països Baixos,Oci,Cap
+C05211,Portugal,Oci,Cap
+C05212,Espanya,Negocis,Cap
+C05213,Països Baixos,Oci,Cap
+C05214,Regne Unit,Oci,Silver
+C05215,Espanya,Oci,Cap
+C05216,Regne Unit,Oci,Gold
+C05217,França,Negocis,Silver
+C05218,Estats Units,Negocis,Silver
+C05219,Alemanya,Oci,Cap
+C05220,Alemanya,Oci,Cap
+C05221,Portugal,Oci,Cap
+C05222,Alemanya,Oci,Cap
+C05223,Espanya,Oci,Cap
+C05224,Països Baixos,Oci,Silver
+C05225,Portugal,Oci,Cap
+C05226,Alemanya,Negocis,Silver
+C05227,Itàlia,Oci ,Cap
+C05228,Estats Units,Negocis,Silver
+C05229,Regne Unit,Oci,Cap
+C05230,França,Negocis,Silver
+C05231,Alemanya,Negocis,Cap
+C05232,Espanya,Oci,Cap
+C05233,Espanya,Negocis,Silver
+C05234,Països Baixos,Oci,Cap
+C05235,Espanya,Oci,Silver
+C05236,Alemanya,Oci,Silver
+C05237,Espanya,Oci,Cap
+C05238,Espanya,Oci,Cap
+C05239,Espanya,Oci,Silver
+C05240,Espanya,Oci,Cap
+C05241,Espanya,Oci,Cap
+C05242,Alemanya,Negocis,Silver
+C05243,Espanya,Oci,Silver
+C05244,França,Oci,Cap
+C05245,Alemanya,Negocis,Cap
+C05246,Espanya,Oci,Cap
+C05247,Espanya,Negocis,Cap
+C05248,Espanya,Negocis,Silver
+C05249,França,Oci,Silver
+C05250,Itàlia,Oci,Gold
+C05251,Espanya,Oci,Cap
+C05252,Espanya,Oci,Cap
+C05253,Portugal,Negocis,Silver
+C05254,Portugal,Oci,Cap
+C05255,Alemanya,Oci,Silver
+C05256,França,Negocis,Cap
+C05257,França,Oci,Cap
+C05258,Regne Unit,Oci,Cap
+C05259,Espanya,Oci,Gold
+C05260,França,Oci,Cap
+C05261,Espanya,Oci,Cap
+C05262,Estats Units,Oci,Cap
+C05263,Itàlia,Oci,Cap
+C05264,Espanya,Oci,Cap
+C05265,Portugal,Negocis,Silver
+C05266,Alemanya,Negocis,Cap
+C05267,França,Negocis,Cap
+C05268,Espanya,Oci,Cap
+C05269,Espanya,Oci,Cap
+C05270,Espanya,Oci,Cap
+C05271,Espanya,Negocis,Silver
+C05272,Estats Units,Oci,Cap
+C05273,França,Oci,Cap
+C05274,Països Baixos,Oci,Cap
+C05275,França,Negocis,Cap
+C05276,Alemanya,Negocis,Cap
+C05277,Itàlia,Oci,Cap
+C05278,Espanya,oci,Cap
+C05279,Espanya,Negocis,Silver
+C05280,Itàlia,Oci,Silver
+C05281,Estats Units,Negocis,Cap
+C05282,Alemanya,Oci,Cap
+C05283,Itàlia,Oci,Silver
+C05284,Alemanya,Oci,Silver
+C05285,Espanya,Negocis,Cap
+C05286,Alemanya,Oci,Silver
+C05287,Espanya,Oci,Cap
+C05288,Països Baixos,Negocis,Silver
+C05289,Espanya,Negocis,Cap
+C05290,Regne Unit,Negocis,Silver
+C05291,Itàlia,Negocis,Cap
+C05292,Itàlia,Oci,Silver
+C05293,Espanya,Oci,Cap
+C05294,Alemanya,Oci,Silver
+C05295,Països Baixos,Oci,Cap
+C05296,Regne Unit,Oci,Cap
+C05297,Portugal,Negocis,Silver
+C05298,Regne Unit,Oci,Silver
+C05299,Regne Unit,Oci,Cap
+C05300,França,Oci,Cap
+C05301,Espanya,Oci,Silver
+C05302,Alemanya,Negocis,Cap
+C05303,Espanya,Oci,Silver
+C05304,Itàlia,Negocis,Silver
+C05305,Espanya,Oci,Cap
+C05306,Espanya,Oci,Silver
+C05307,França,Oci,Cap
+C05308,Alemanya,Oci,Cap
+C05309,Itàlia,Oci,Cap
+C05310,Espanya,Oci,Cap
+C05311,Itàlia,Oci,Cap
+C05312,Itàlia,Negocis,Cap
+C05313,Alemanya,Oci,Cap
+C05314,Regne Unit,Negocis,Cap
+C05315,França,Negocis,Silver
+C05316,Alemanya,Oci ,Cap
+C05317,Estats Units,Negocis,Silver
+C05318,Països Baixos,Oci,Cap
+C05319,França,Oci ,Cap
+C05320,França,Oci,Cap
+C05321,Portugal,Oci,Silver
+C05322,Regne Unit,Oci,Cap
+C05323,Espanya,Negocis,Cap
+C05324,Regne Unit,Oci,Cap
+C05325,Regne Unit,Negocis,Silver
+C05326,Espanya,Oci,Cap
+C05327,Itàlia,Negocis,Cap
+C05328,França,Oci,Cap
+C05329,Regne Unit,Oci,Cap
+C05330,Regne Unit,Oci,Gold
+C05331,Regne Unit,Oci,Cap
+C05332,França,Oci,Cap
+C05333,Països Baixos,Oci,Silver
+C05334,Itàlia,Oci,Cap
+C05335,Països Baixos,Negocis ,Silver
+C05336,Espanya,Oci,Cap
+C05337,Alemanya,Oci,Cap
+C05338,França,Oci,Silver
+C05339,Espanya,Oci,Cap
+C05340,Itàlia,Oci,Silver
+C05341,Espanya,Oci,Silver
+C05342,Espanya,Oci,Cap
+C05343,Espanya,Oci,Silver
+C05344,França,Negocis,Cap
+C05345,França,Oci,Cap
+C05346,Alemanya,Oci,Cap
+C05347,França,Oci ,Cap
+C05348,Espanya,Negocis,Silver
+C05349,Portugal,Negocis,Gold
+C05350,Espanya,Oci,Cap
+C05351,França,Oci,Cap
+C05352,Espanya,Oci,Silver
+C05353,Espanya,Negocis,Silver
+C05354,Alemanya,Negocis,Cap
+C05355,Alemanya,Negocis,Silver
+C05356,Espanya,Oci,Cap
+C05357,Espanya,Negocis,Cap
+C05358,Espanya,Oci,Cap
+C05359,França,Negocis,Silver
+C05360,Alemanya,Negocis,Cap
+C05361,Espanya,Oci,Silver
+C05362,Regne Unit,Oci,Cap
+C05363,França,Oci,Silver
+C05364,Portugal,Oci,Cap
+C05365,Espanya,Oci,Gold
+C05366,Itàlia,Oci,Silver
+C05367,França,Oci,Gold
+C05368,Espanya,Negocis,Silver
+C05369,Regne Unit,Oci,Cap
+C05370,França,Negocis,Silver
+C05371,Itàlia,Oci,Cap
+C05372,França,Negocis,Cap
+C05373,Regne Unit,Negocis,Cap
+C05374,Espanya,Oci,Cap
+C05375,França,Oci,Cap
+C05376,Itàlia,Oci,Silver
+C05377,Alemanya,Oci,Silver
+C05378,Espanya,Negocis,Cap
+C05379,Itàlia,Negocis,Silver
+C05380,Països Baixos,Oci,Cap
+C05381,Alemanya,Oci,Silver
+C05382,Espanya,Oci,Cap
+C05383,Espanya,Negocis,Silver
+C05384,Espanya,Oci,Gold
+C05385,Itàlia,Oci,Cap
+C05386,Regne Unit,Negocis,Silver
+C05387,Regne Unit,Oci,Cap
+C05388,Espanya,Oci,Cap
+C05389,Regne Unit,Negocis,Silver
+C05390,Estats Units,Oci,Cap
+C05391,Itàlia,Negocis,Cap
+C05392,França,Negocis,Cap
+C05393,Alemanya,Oci,Cap
+C05394,Espanya,Oci,Silver
+C05395,França,Oci,Cap
+C05396,Alemanya,Oci,Cap
+C05397,Regne Unit,Negocis,Cap
+C05398,Portugal,Oci,Cap
+C05399,França,Oci,Gold
+C05400,Alemanya,Negocis,Silver
+C05401,Regne Unit,Oci,Gold
+C05402,Espanya,Oci,Cap
+C05403,Espanya,Oci,Cap
+C05404,Espanya,Oci,Cap
+C05405,Itàlia,Negocis,Cap
+C05406,Alemanya,Negocis,Cap
+C05407,Regne Unit,Negocis,Silver
+C05408,Espanya,Oci,Cap
+C05409,Estats Units,Oci,Cap
+C05410,Espanya,Negocis,Cap
+C05411,Portugal,Negocis,Silver
+C05412,Alemanya,Negocis,Cap
+C05413,França,Negocis,Cap
+C05414,França,Oci,Cap
+C05415,França,Oci,Silver
+C05416,Espanya,oci,Cap
+C05417,Alemanya,Oci,Cap
+C05418,Itàlia,Negocis,Cap
+C05419,Regne Unit,Oci,Silver
+C05420,Regne Unit,Oci,Cap
+C05421,Espanya,Oci,Silver
+C05422,Alemanya,Oci,Silver
+C05423,Països Baixos,Oci,Cap
+C05424,Espanya,Oci,Cap
+C05425,Regne Unit,Oci,Cap
+C05426,Països Baixos,Oci,Cap
+C05427,Itàlia,Negocis,Silver
+C05428,Regne Unit,Negocis,Silver
+C05429,Estats Units,Oci,Cap
+C05430,Espanya,Negocis,Cap
+C05431,Portugal,Negocis,Gold
+C05432,Espanya,Oci,Cap
+C05433,Països Baixos,Oci,Silver
+C05434,Espanya,Oci,Cap
+C05435,Alemanya,Oci,Silver
+C05436,Espanya,Oci,Cap
+C05437,Països Baixos,Oci,Gold
+C05438,Estats Units,Negocis,Silver
+C05439,Portugal,Oci,Cap
+C05440,Regne Unit,Negocis,Silver
+C05441,Espanya,Oci,Gold
+C05442,Alemanya,Negocis,Cap
+C05443,Itàlia,Oci,Gold
+C05444,Espanya,Oci,Cap
+C05445,França,Oci,Cap
+C05446,França,Negocis,Gold
+C05447,Espanya,Negocis,Cap
+C05448,Itàlia,Negocis,Gold
+C05449,Espanya,Oci,Cap
+C05450,Espanya,Oci,Cap
+C05451,França,Negocis,Cap
+C05452,Espanya,Negocis,Silver
+C05453,Regne Unit,Oci,Cap
+C05454,Alemanya,Oci,Cap
+C05455,Països Baixos,Oci,Cap
+C05456,Portugal,Oci,Cap
+C05457,Països Baixos,Oci,Cap
+C05458,Espanya,Negocis,Cap
+C05459,Alemanya,Oci,Cap
+C05460,Itàlia,Negocis,Silver
+C05461,Alemanya,Oci,Cap
+C05462,Portugal,Oci,Silver
+C05463,Estats Units,Oci,Cap
+C05464,Alemanya,Oci,Cap
+C05465,Itàlia,Negocis,Silver
+C05466,Espanya,Oci,Cap
+C05467,Alemanya,Oci,Cap
+C05468,Itàlia,Negocis,Cap
+C05469,Espanya,Oci,Cap
+C05470,Espanya,Oci,Cap
+C05471,Alemanya,Negocis,Cap
+C05472,Espanya,Negocis,Silver
+C05473,Espanya,Oci,Silver
+C05474,França,Oci,Cap
+C05475,Espanya,Negocis,Cap
+C05476,Països Baixos,Negocis,Silver
+C05477,Països Baixos,Oci,Silver
+C05478,Països Baixos,Negocis,Cap
+C05479,Portugal,Oci,Cap
+C05480,Espanya,Oci,Silver
+C05481,Espanya,Oci,Silver
+C05482,Portugal,Oci,Cap
+C05483,Espanya,Oci,Cap
+C05484,Itàlia,Oci,Cap
+C05485,Itàlia,Oci,Cap
+C05486,Espanya,Oci,Cap
+C05487,Països Baixos,Oci,Cap
+C05488,Alemanya,Oci,Cap
+C05489,Espanya,Oci,Gold
+C05490,Espanya,Oci,Cap
+C05491,Regne Unit,Oci,Cap
+C05492,Països Baixos,Oci,Silver
+C05493,Itàlia,Oci,Cap
+C05494,Espanya,Oci,Cap
+C05495,Itàlia,Oci,Cap
+C05496,França,Negocis,Silver
+C05497,Estats Units,Negocis,Cap
+C05498,França,Oci,Gold
+C05499,França,Oci,Cap
+C05500,França,Oci,Cap
+C05501,Espanya,Oci,Cap
+C05502,Espanya,Negocis,Silver
+C05503,Alemanya,Negocis,Silver
+C05504,Països Baixos,Oci,Cap
+C05505,Espanya,Oci,Cap
+C05506,Espanya,Oci,Cap
+C05507,Regne Unit,Oci,Cap
+C05508,Espanya,Negocis,Cap
+C05509,Espanya,Negocis,Gold
+C05510,França,Oci,Silver
+C05511,Espanya,Oci,Cap
+C05512,Regne Unit,Oci,Cap
+C05513,Espanya,Oci,Cap
+C05514,Espanya,Oci,Silver
+C05515,Espanya,Oci,Cap
+C05516,Espanya,Oci,Cap
+C05517,Espanya,Oci,Cap
+C05518,Alemanya,Negocis,Silver
+C05519,Itàlia,Negocis,Gold
+C05520,Espanya,Oci,Cap
+C05521,Països Baixos,Oci,Cap
+C05522,França,Negocis,Cap
+C05523,França,Negocis,Cap
+C05524,Espanya,Oci,Silver
+C05525,França,Negocis,Cap
+C05526,Itàlia,Oci,Gold
+C05527,Alemanya,Negocis,Cap
+C05528,França,Oci,Cap
+C05529,Espanya,Negocis,Cap
+C05530,Portugal,Oci,Cap
+C05531,Alemanya,Oci,Silver
+C05532,Estats Units,Oci,Cap
+C05533,Alemanya,Oci,Cap
+C05534,Espanya,Oci,Cap
+C05535,Itàlia,Oci,Cap
+C05536,Espanya,Oci,Cap
+C05537,Espanya,Oci,Cap
+C05538,Espanya,Negocis,Gold
+C05539,Espanya,Oci,Silver
+C05540,Regne Unit,Negocis,Gold
+C05541,Alemanya,Oci,Silver
+C05542,Estats Units,Oci,Cap
+C05543,Espanya,Oci,Cap
+C05544,Espanya,Oci,Cap
+C05545,Regne Unit,Oci,Cap
+C05546,Espanya,Negocis,Cap
+C05547,Espanya,Oci,Silver
+C05548,Espanya,Oci,Silver
+C05549,Estats Units,Oci,Silver
+C05550,Alemanya,Negocis,Silver
+C05551,Espanya,Oci,Cap
+C05552,França,Oci,Cap
+C05553,Itàlia,Oci,Silver
+C05554,França,Negocis,Cap
+C05555,Regne Unit,Oci,Silver
+C05556,Itàlia,Negocis,Cap
+C05557,Alemanya,Negocis,Silver
+C05558,Itàlia,Oci,Cap
+C05559,Regne Unit,Oci,Cap
+C05560,Alemanya,Negocis,Silver
+C05561,França,Oci,Cap
+C05562,Espanya,Oci,Cap
+C05563,França,Negocis,Cap
+C05564,Itàlia,Negocis,Silver
+C05565,Regne Unit,Negocis,Silver
+C05566,França,Oci,Gold
+C05567,Espanya,Oci,Cap
+C05568,Regne Unit,Oci,Cap
+C05569,Portugal,Oci,Cap
+C05570,França,Negocis,Cap
+C05571,Espanya,Oci,Cap
+C05572,Països Baixos,Negocis,Cap
+C05573,Regne Unit,Oci,Gold
+C05574,Espanya,Oci,Cap
+C05575,Espanya,Negocis,Silver
+C05576,Estats Units,Oci,Cap
+C05577,França,Oci,Cap
+C05578,Portugal,Oci,Cap
+C05579,Espanya,Oci,Cap
+C05580,Itàlia,Negocis,Cap
+C05581,Espanya,Negocis,Cap
+C05582,Espanya,Negocis,Cap
+C05583,Regne Unit,Oci,Silver
+C05584,França,Oci,Cap
+C05585,Regne Unit,Oci,Cap
+C05586,Espanya,Negocis,Silver
+C05587,Alemanya,Oci,Cap
+C05588,Regne Unit,Oci,Cap
+C05589,Espanya,Oci ,Cap
+C05590,Itàlia,Oci,Cap
+C05591,Regne Unit,Negocis,Silver
+C05592,Regne Unit,Negocis,Silver
+C05593,Espanya,Oci,Cap
+C05594,Itàlia,Oci,Cap
+C05595,França,Oci,Cap
+C05596,Espanya,Negocis,Silver
+C05597,Espanya,Negocis,Silver
+C05598,Portugal,Oci,Cap
+C05599,Espanya,Oci,Cap
+C05600,Països Baixos,Oci,Cap
+C05601,Regne Unit,Negocis,Silver
+C05602,Països Baixos,Oci,Cap
+C05603,Espanya,Oci,Cap
+C05604,Espanya,Negocis,Silver
+C05605,Espanya,Oci,Cap
+C05606,Regne Unit,Oci,Silver
+C05607,Portugal,Negocis,Cap
+C05608,França,Negocis,Cap
+C05609,Portugal,Oci,Cap
+C05610,Espanya,Oci,Cap
+C05611,Alemanya,Negocis,Cap
+C05612,Regne Unit,Oci,Cap
+C05613,Alemanya,Oci,Cap
+C05614,Itàlia,Oci,Gold
+C05615,Espanya,Oci,Gold
+C05616,Estats Units,Oci,Cap
+C05617,Espanya,Oci,Cap
+C05618,Regne Unit,Oci,Cap
+C05619,Espanya,Negocis,Cap
+C05620,Espanya,Oci,Cap
+C05621,França,Negocis,Cap
+C05622,Espanya,Negocis,Cap
+C05623,França,Negocis,Cap
+C05624,Alemanya,Oci,Cap
+C05625,Espanya,Negocis,Cap
+C05626,Espanya,Oci,Cap
+C05627,Espanya,Negocis,Gold
+C05628,Espanya,Oci,Cap
+C05629,Espanya,Oci,Silver
+C05630,Alemanya,Oci,Cap
+C05631,Països Baixos,Oci,Silver
+C05632,França,Negocis,Silver
+C05633,Espanya,Oci,Cap
+C05634,Espanya,Oci,Cap
+C05635,Espanya,Oci,Cap
+C05636,Espanya,Negocis,Cap
+C05637,Alemanya,Oci,Cap
+C05638,Alemanya,Oci,Gold
+C05639,Portugal,Oci,Cap
+C05640,Espanya,Oci,Cap
+C05641,Països Baixos,Negocis,Cap
+C05642,Regne Unit,Oci,Gold
+C05643,Espanya,Oci,Cap
+C05644,Espanya,Oci,Cap
+C05645,Estats Units,Negocis,Gold
+C05646,Països Baixos,Oci,Silver
+C05647,Espanya,Oci,Cap
+C05648,Itàlia,Oci,Cap
+C05649,Espanya,Oci,Gold
+C05650,Espanya,Negocis,Gold
+C05651,Espanya,Oci,Gold
+C05652,Espanya,Oci,Cap
+C05653,Portugal,Negocis,Cap
+C05654,Portugal,Negocis,Silver
+C05655,França,Oci,Cap
+C05656,Estats Units,Negocis,Silver
+C05657,Espanya,Oci,Cap
+C05658,Espanya,Oci,Cap
+C05659,Països Baixos,Oci,Silver
+C05660,Espanya,oci,Cap
+C05661,Alemanya,Negocis,Gold
+C05662,Alemanya,Oci,Silver
+C05663,Espanya,Oci,Cap
+C05664,Alemanya,Oci,Silver
+C05665,Alemanya,Negocis,Cap
+C05666,Espanya,Negocis,Cap
+C05667,Alemanya,Negocis,Cap
+C05668,Espanya,Negocis,Silver
+C05669,Estats Units,Oci,Cap
+C05670,Espanya,Oci,Cap
+C05671,Regne Unit,Negocis,Gold
+C05672,Espanya,Oci,Silver
+C05673,Itàlia,Oci,Cap
+C05674,Espanya,Oci,Cap
+C05675,Espanya,Negocis,Cap
+C05676,França,Oci,Silver
+C05677,Itàlia,Oci,Cap
+C05678,Alemanya,Oci,Cap
+C05679,Regne Unit,Negocis,Gold
+C05680,França,Oci,Cap
+C05681,Espanya,Negocis,Cap
+C05682,Alemanya,Oci,Cap
+C05683,Països Baixos,Oci,Cap
+C05684,Espanya,Oci,Cap
+C05685,Espanya,Oci,Cap
+C05686,Alemanya,Negocis,Silver
+C05687,Itàlia,Oci,Cap
+C05688,Espanya,Oci,Cap
+C05689,Regne Unit,Oci,Cap
+C05690,Espanya,Oci,Cap
+C05691,Itàlia,Negocis,Silver
+C05692,Espanya,Negocis,Cap
+C05693,Espanya,Oci,Cap
+C05694,Espanya,Negocis,Silver
+C05695,Espanya,Oci,Cap
+C05696,Itàlia,Oci,Cap
+C05697,Itàlia,Oci,Cap
+C05698,Països Baixos,Oci,Cap
+C05699,Portugal,Oci,Cap
+C05700,Alemanya,Oci,Cap
+C05701,Alemanya,Oci,Silver
+C05702,Espanya,Oci,Gold
+C05703,Espanya,Negocis,Cap
+C05704,França,Oci,Cap
+C05705,Alemanya,Negocis,Cap
+C05706,Espanya,Oci,Gold
+C05707,Espanya,Negocis,Gold
+C05708,Espanya,Negocis,Cap
+C05709,Espanya,Negocis,Silver
+C05710,França,Negocis,Cap
+C05711,Països Baixos,Oci,Cap
+C05712,Alemanya,Negocis,Cap
+C05713,Països Baixos,Oci,Cap
+C05714,Portugal,Oci,Silver
+C05715,Regne Unit,Oci,Cap
+C05716,Regne Unit,Negocis,Gold
+C05717,França,Oci,Cap
+C05718,Espanya,Negocis,Cap
+C05719,Itàlia,Oci,Silver
+C05720,Espanya,Oci,Cap
+C05721,Estats Units,Negocis,Silver
+C05722,França,Negocis,Cap
+C05723,Regne Unit,Negocis,Cap
+C05724,Estats Units,Oci,Cap
+C05725,Itàlia,Oci,Silver
+C05726,Itàlia,Oci,Cap
+C05727,Espanya,Oci,Gold
+C05728,Països Baixos,Negocis,Gold
+C05729,Estats Units,Oci,Cap
+C05730,Espanya,Oci,Silver
+C05731,Espanya,Oci,Cap
+C05732,Portugal,Negocis,Cap
+C05733,Espanya,Oci,Cap
+C05734,Alemanya,Oci,Cap
+C05735,Alemanya,Oci,Cap
+C05736,França,Oci,Gold
+C05737,França,Oci,Cap
+C05738,Països Baixos,Oci,Cap
+C05739,Regne Unit,Oci,Cap
+C05740,Regne Unit,Negocis,Gold
+C05741,Espanya,Oci,Cap
+C05742,Alemanya,Oci,Cap
+C05743,França,Oci,Silver
+C05744,Espanya,Negocis,Cap
+C05745,Espanya,Oci,Cap
+C05746,Alemanya,Oci,Gold
+C05747,França,Oci,Cap
+C05748,Estats Units,Oci,Cap
+C05749,Portugal,Negocis,Silver
+C05750,Itàlia,Oci,Cap
+C05751,Espanya,Negocis,Gold
+C05752,Espanya,Negocis,Gold
+C05753,Regne Unit,Oci,Cap
+C05754,Alemanya,Negocis,Gold
+C05755,Espanya,Oci,Cap
+C05756,França,Oci,Silver
+C05757,Itàlia,Oci,Cap
+C05758,Estats Units,Oci,Cap
+C05759,Itàlia,Oci,Cap
+C05760,Espanya,Negocis,Silver
+C05761,Regne Unit,Oci,Cap
+C05762,Itàlia,Negocis,Cap
+C05763,Itàlia,Oci,Cap
+C05764,Regne Unit,Oci,Cap
+C05765,Espanya,Negocis,Cap
+C05766,Regne Unit,Negocis,Silver
+C05767,Espanya,Negocis,Cap
+C05768,Regne Unit,Oci,Silver
+C05769,Espanya,Oci,Cap
+C05770,França,Oci,Cap
+C05771,Espanya,Negocis,Cap
+C05772,França,Oci,Cap
+C05773,Alemanya,Oci,Cap
+C05774,Portugal,Oci,Cap
+C05775,Espanya,Oci,Cap
+C05776,Regne Unit,Oci,Cap
+C05777,Espanya,Negocis,Gold
+C05778,Regne Unit,Negocis,Cap
+C05779,França,Oci,Gold
+C05780,Alemanya,Negocis,Silver
+C05781,Espanya,Oci,Gold
+C05782,Portugal,Oci,Cap
+C05783,França,Oci,Cap
+C05784,Estats Units,Oci,Silver
+C05785,França,Negocis,Silver
+C05786,Regne Unit,Oci,Cap
+C05787,Espanya,Oci,Cap
+C05788,Espanya,Oci,Cap
+C05789,Espanya,Negocis,Gold
+C05790,Regne Unit,Oci,Cap
+C05791,Alemanya,Negocis,Gold
+C05792,Alemanya,Oci,Cap
+C05793,Espanya,Oci,Cap
+C05794,Regne Unit,Negocis,Cap
+C05795,Portugal,Oci,Cap
+C05796,Regne Unit,Oci,Cap
+C05797,Països Baixos,Oci,Cap
+C05798,Estats Units,Oci,Cap
+C05799,Espanya,Oci,Cap
+C05800,França,Negocis,Cap
+C05801,Regne Unit,Oci,Silver
+C05802,Itàlia,Negocis,Silver
+C05803,Alemanya,Oci,Cap
+C05804,Espanya,Oci,Cap
+C05805,Espanya,Oci,Cap
+C05806,Regne Unit,Oci,Silver
+C05807,Espanya,Negocis,Silver
+C05808,Alemanya,Negocis,Gold
+C05809,Espanya,Oci,Gold
+C05810,Espanya,Negocis,Cap
+C05811,Espanya,Oci,Cap
+C05812,Espanya,Oci,Cap
+C05813,Itàlia,Oci,Cap
+C05814,Espanya,Negocis,Cap
+C05815,Països Baixos,Negocis,Cap
+C05816,Alemanya,Oci,Cap
+C05817,Espanya,Oci,Cap
+C05818,Espanya,Oci,Cap
+C05819,Itàlia,Oci,Cap
+C05820,Espanya,Oci,Silver
+C05821,Espanya,Oci,Cap
+C05822,Espanya,Negocis,Cap
+C05823,Itàlia,Oci,Silver
+C05824,Alemanya,Oci,Gold
+C05825,Espanya,Oci,Cap
+C05826,Espanya,Oci,Cap
+C05827,Alemanya,Oci,Cap
+C05828,Espanya,Negocis,Cap
+C05829,Portugal,Negocis,Gold
+C05830,França,Oci,Cap
+C05831,Espanya,Negocis,Cap
+C05832,Espanya,Oci,Cap
+C05833,Països Baixos,Oci,Cap
+C05834,Espanya,Oci,Cap
+C05835,França,Oci,Cap
+C05836,Espanya,Negocis,Silver
+C05837,Estats Units,Negocis,Cap
+C05838,Espanya,Oci,Cap
+C05839,Regne Unit,Negocis,Gold
+C05840,Alemanya,Oci,Silver
+C05841,França,Negocis,Cap
+C05842,França,Oci,Cap
+C05843,Espanya,Oci,Cap
+C05844,Estats Units,Oci,Cap
+C05845,Itàlia,Negocis,Cap
+C05846,França,Negocis,Gold
+C05847,Itàlia,Oci,Silver
+C05848,Espanya,Oci,Cap
+C05849,Estats Units,Oci,Silver
+C05850,França,Negocis,Gold
+C05851,França,Negocis,Silver
+C05852,Països Baixos,Oci,Gold
+C05853,Regne Unit,Negocis,Silver
+C05854,França,Oci,Cap
+C05855,Espanya,Oci,Cap
+C05856,Alemanya,Oci,Cap
+C05857,Espanya,Oci,Silver
+C05858,Portugal,Oci,Cap
+C05859,Països Baixos,Oci,Cap
+C05860,Itàlia,Oci,Cap
+C05861,Regne Unit,Oci,Silver
+C05862,Portugal,Oci,Gold
+C05863,Espanya,Negocis,Cap
+C05864,França,Oci,Silver
+C05865,Alemanya,Negocis,Silver
+C05866,Estats Units,Negocis,Cap
+C05867,Espanya,Oci,Gold
+C05868,França,Oci,Gold
+C05869,Regne Unit,Oci,Cap
+C05870,França,Negocis,Cap
+C05871,França,Negocis,Silver
+C05872,Alemanya,Oci,Cap
+C05873,Espanya,Negocis,Cap
+C05874,Espanya,Oci,Cap
+C05875,França,Oci,Cap
+C05876,França,Negocis,Silver
+C05877,Regne Unit,Negocis,Silver
+C05878,Espanya,Oci,Cap
+C05879,Espanya,Oci,Cap
+C05880,Espanya,Negocis,Silver
+C05881,França,Oci,Silver
+C05882,Regne Unit,Oci,Cap
+C05883,Portugal,Oci,Silver
+C05884,França,Negocis,Cap
+C05885,Portugal,Negocis,Cap
+C05886,França,Oci,Cap
+C05887,França,Oci,Silver
+C05888,Espanya,Oci,Cap
+C05889,Espanya,Oci,Cap
+C05890,Espanya,Oci,Cap
+C05891,Itàlia,Oci,Silver
+C05892,Estats Units,Oci,Cap
+C05893,Regne Unit,Oci,Cap
+C05894,Espanya,Oci,Cap
+C05895,Itàlia,Oci,Cap
+C05896,Estats Units,Oci,Gold
+C05897,França,Oci,Silver
+C05898,Portugal,Oci,Cap
+C05899,Estats Units,Negocis,Gold
+C05900,Itàlia,Oci,Cap
+C05901,Espanya,Oci,Cap
+C05902,Alemanya,Negocis,Silver
+C05903,Portugal,Oci,Cap
+C05904,Espanya,Oci,Cap
+C05905,Regne Unit,Oci,Silver
+C05906,Alemanya,Negocis,Cap
+C05907,Alemanya,Oci,Cap
+C05908,Espanya,Oci,Cap
+C05909,Alemanya,Negocis,Silver
+C05910,Itàlia,Oci,Cap
+C05911,Estats Units,Oci,Silver
+C05912,Itàlia,Oci,Cap
+C05913,Espanya,Oci,Silver
+C05914,Alemanya,Oci,Silver
+C05915,Espanya,Negocis,Silver
+C05916,França,Oci,Cap
+C05917,Estats Units,Oci,Cap
+C05918,Espanya,Oci,Silver
+C05919,Itàlia,Oci,Cap
+C05920,Països Baixos,Negocis,Gold
+C05921,Regne Unit,Negocis,Gold
+C05922,Espanya,Oci,Silver
+C05923,Espanya,Negocis,Cap
+C05924,Espanya,Oci,Cap
+C05925,França,Oci,Cap
+C05926,Espanya,Oci,Cap
+C05927,Itàlia,Negocis,Cap
+C05928,Espanya,Negocis,Cap
+C05929,Portugal,Negocis,Cap
+C05930,Itàlia,Oci,Gold
+C05931,Espanya,oci,Silver
+C05932,Espanya,Oci,Silver
+C05933,França,Oci,Cap
+C05934,França,Oci,Cap
+C05935,Itàlia,Oci,Cap
+C05936,Països Baixos,Oci,Cap
+C05937,Regne Unit,Oci,Cap
+C05938,Itàlia,Oci,Cap
+C05939,Espanya,Negocis,Silver
+C05940,Itàlia,Oci,Cap
+C05941,Espanya,Oci,Cap
+C05942,Itàlia,Oci,Cap
+C05943,Alemanya,Oci,Gold
+C05944,Espanya,Negocis,Silver
+C05945,Alemanya,Oci,Cap
+C05946,Itàlia,Oci,Cap
+C05947,Països Baixos,Negocis,Gold
+C05948,Regne Unit,Oci,Cap
+C05949,Espanya,Oci,Cap
+C05950,Espanya,Negocis,Cap
+C05951,Espanya,Oci,Cap
+C05952,Alemanya,Oci,Cap
+C05953,França,Oci,Cap
+C05954,Portugal,Negocis,Cap
+C05955,Regne Unit,Oci,Cap
+C05956,Països Baixos,Oci,Cap
+C05957,França,Negocis,Cap
+C05958,Portugal,Oci,Cap
+C05959,Espanya,Oci,Cap
+C05960,Espanya,Negocis,Cap
+C05961,Itàlia,Oci,Cap
+C05962,Espanya,Negocis,Silver
+C05963,Espanya,Negocis,Cap
+C05964,Espanya,Oci,Silver
+C05965,Països Baixos,Oci,Cap
+C05966,Itàlia,Oci,Cap
+C05967,Espanya,Oci,Silver
+C05968,Espanya,Oci,Silver
+C05969,Regne Unit,Oci,Cap
+C05970,Espanya,Negocis,Cap
+C05971,Països Baixos,Oci,Cap
+C05972,França,Oci,Cap
+C05973,França,Negocis,Cap
+C05974,França,Negocis,Silver
+C05975,Alemanya,Oci,Cap
+C05976,França,Negocis,Cap
+C05977,Espanya,Oci,Silver
+C05978,França,Oci,Cap
+C05979,Itàlia,Negocis,Gold
+C05980,Països Baixos,Oci,Silver
+C05981,Itàlia,Oci,Cap
+C05982,Portugal,Oci,Silver
+C05983,França,Negocis,Gold
+C05984,Espanya,Negocis,Gold
+C05985,França,Oci,Cap
+C05986,Països Baixos,Oci,Silver
+C05987,Espanya,Oci,Cap
+C05988,França,Negocis,Silver
+C05989,Espanya,Oci,Cap
+C05990,Estats Units,Oci,Silver
+C05991,Espanya,Oci,Cap
+C05992,Alemanya,Oci,Gold
+C05993,Regne Unit,Oci,Gold
+C05994,Regne Unit,Oci,Cap
+C05995,Alemanya,Oci,Cap
+C05996,Espanya,Oci,Silver
+C05997,Alemanya,Negocis,Cap
+C05998,Espanya,Negocis,Cap
+C05999,França,Oci,Silver
+C06000,Espanya,Oci,Silver
+C06001,França,Oci,Cap
+C06002,França,Oci,Cap
+C06003,França,Oci,Cap
+C06004,França,Oci,Gold
+C06005,Estats Units,Oci,Cap
+C06006,Alemanya,Oci,Silver
+C06007,Espanya,Negocis,Silver
+C06008,Espanya,Negocis,Cap
+C06009,França,Oci,Cap
+C06010,Espanya,Oci,Cap
+C06011,Espanya,Oci,Cap
+C06012,Espanya,Negocis,Silver
+C06013,Espanya,Oci,Cap
+C06014,Espanya,Oci,Silver
+C06015,Alemanya,Oci,Silver
+C06016,Regne Unit,Oci,Cap
+C06017,Regne Unit,Oci,Cap
+C06018,Regne Unit,Oci,Cap
+C06019,França,Oci,Cap
+C06020,Alemanya,Negocis,Cap
+C06021,Regne Unit,Oci,Cap
+C06022,Espanya,Oci,Cap
+C06023,Alemanya,Negocis,Cap
+C06024,França,Oci,Cap
+C06025,Alemanya,Negocis,Silver
+C06026,Estats Units,Negocis,Cap
+C06027,França,Negocis,Gold
+C06028,Regne Unit,Oci,Cap
+C06029,França,Negocis,Silver
+C06030,Espanya,Negocis,Cap
+C06031,Espanya,Oci,Cap
+C06032,Espanya,Negocis,Cap
+C06033,Espanya,Oci,Cap
+C06034,França,Oci,Cap
+C06035,Espanya,Oci,Cap
+C06036,Portugal,Oci,Cap
+C06037,Portugal,Oci,Cap
+C06038,Espanya,Oci,Silver
+C06039,Regne Unit,Oci,Cap
+C06040,Espanya,Oci,Cap
+C06041,Espanya,Oci,Cap
+C06042,Itàlia,Negocis,Cap
+C06043,Espanya,Oci,Cap
+C06044,França,Oci,Cap
+C06045,Regne Unit,Oci,Cap
+C06046,Regne Unit,Oci,Silver
+C06047,Estats Units,Oci,Gold
+C06048,Regne Unit,Oci,Cap
+C06049,Itàlia,Oci,Cap
+C06050,Països Baixos,Oci,Cap
+C06051,Itàlia,Negocis,Silver
+C06052,Regne Unit,Negocis,Gold
+C06053,Portugal,Oci,Cap
+C06054,Portugal,Oci,Cap
+C06055,Espanya,Negocis,Silver
+C06056,Alemanya,Negocis,Silver
+C06057,Portugal,Oci,Cap
+C06058,Espanya,Oci,Cap
+C06059,Estats Units,Oci,Cap
+C06060,Espanya,Oci,Cap
+C06061,Països Baixos,Oci,Cap
+C06062,Regne Unit,Negocis,Cap
+C06063,Espanya,Negocis,Cap
+C06064,Espanya,Oci,Silver
+C06065,Espanya,Oci,Cap
+C06066,Estats Units,Negocis,Cap
+C06067,Alemanya,Oci,Cap
+C06068,Espanya,Oci,Silver
+C06069,Alemanya,Oci,Cap
+C06070,Espanya,Negocis,Cap
+C06071,Portugal,Negocis,Cap
+C06072,Espanya,Oci,Cap
+C06073,Regne Unit,Oci,Cap
+C06074,Itàlia,Oci,Cap
+C06075,Espanya,Negocis,Cap
+C06076,Espanya,Negocis,Cap
+C06077,Espanya,Oci,Gold
+C06078,Espanya,Oci,Silver
+C06079,Itàlia,Oci,Cap
+C06080,Portugal,Oci,Cap
+C06081,Espanya,Negocis,Silver
+C06082,Regne Unit,Oci,Cap
+C06083,Espanya,Oci,Cap
+C06084,Espanya,Oci,Cap
+C06085,Itàlia,Oci,Silver
+C06086,França,Negocis,Cap
+C06087,Espanya,Negocis,Gold
+C06088,Espanya,Oci,Cap
+C06089,Regne Unit,Oci,Cap
+C06090,Espanya,Negocis,Gold
+C06091,Portugal,Oci,Cap
+C06092,Regne Unit,Negocis,Silver
+C06093,Regne Unit,Oci,Cap
+C06094,Itàlia,Oci,Cap
+C06095,Regne Unit,Oci,Cap
+C06096,Alemanya,Oci,Cap
+C06097,Portugal,Negocis,Silver
+C06098,Itàlia,Oci ,Cap
+C06099,Països Baixos,Oci,Cap
+C06100,Itàlia,Oci,Cap
+C06101,Alemanya,Oci,Cap
+C06102,Alemanya,Oci,Cap
+C06103,França,Negocis,Silver
+C06104,Regne Unit,Oci,Gold
+C06105,Espanya,Oci,Cap
+C06106,França,Oci,Cap
+C06107,Itàlia,Negocis,Silver
+C06108,Espanya,Negocis,Silver
+C06109,Itàlia,Oci,Gold
+C06110,Alemanya,Oci,Cap
+C06111,Alemanya,Negocis,Silver
+C06112,Portugal,Negocis,Cap
+C06113,Alemanya,Oci,Cap
+C06114,Regne Unit,Oci,Gold
+C06115,Estats Units,Oci,Cap
+C06116,Portugal,Oci,Silver
+C06117,Alemanya,Oci,Cap
+C06118,Espanya,Oci,Silver
+C06119,Itàlia,Oci,Cap
+C06120,Portugal,Oci,Gold
+C06121,Espanya,Negocis,Silver
+C06122,França,Oci,Cap
+C06123,Espanya,Negocis,Cap
+C06124,Espanya,Negocis,Cap
+C06125,Alemanya,Oci,Cap
+C06126,França,Oci,Silver
+C06127,Països Baixos,Oci,Silver
+C06128,Itàlia,Negocis,Gold
+C06129,França,Oci,Silver
+C06130,Espanya,Negocis,Silver
+C06131,Països Baixos,Oci,Silver
+C06132,França,Oci,Cap
+C06133,Espanya,Oci,Cap
+C06134,Regne Unit,Oci,Cap
+C06135,Països Baixos,Oci,Silver
+C06136,Portugal,Oci,Cap
+C06137,Alemanya,Oci,Silver
+C06138,Regne Unit,Oci,Cap
+C06139,Espanya,Oci,Cap
+C06140,França,Negocis,Gold
+C06141,Espanya,Negocis,Cap
+C06142,Espanya,Oci,Silver
+C06143,Espanya,Negocis,Silver
+C06144,Espanya,Oci,Silver
+C06145,Països Baixos,Oci,Cap
+C06146,Espanya,Negocis,Cap
+C06147,Espanya,Oci,Cap
+C06148,Itàlia,Negocis,Cap
+C06149,Espanya,Negocis,Cap
+C06150,Portugal,Negocis,Silver
+C06151,Alemanya,Oci,Cap
+C06152,Portugal,Oci,Silver
+C06153,Itàlia,Oci,Silver
+C06154,Regne Unit,Negocis,Cap
+C06155,Espanya,Oci,Silver
+C06156,Espanya,Negocis,Cap
+C06157,Alemanya,Oci,Silver
+C06158,Regne Unit,Oci,Cap
+C06159,Països Baixos,Oci,Cap
+C06160,Alemanya,Negocis,Cap
+C06161,Espanya,Oci,Cap
+C06162,França,Oci,Cap
+C06163,França,Negocis,Gold
+C06164,Estats Units,Oci,Cap
+C06165,Espanya,Negocis,Cap
+C06166,Regne Unit,Oci,Cap
+C06167,Espanya,Negocis,Silver
+C06168,Espanya,Oci,Cap
+C06169,Espanya,Oci,Silver
+C06170,Portugal,Oci,Cap
+C06171,Itàlia,Negocis,Silver
+C06172,Alemanya,Oci,Cap
+C06173,Espanya,Oci,Silver
+C06174,França,Oci,Cap
+C06175,Alemanya,Oci,Cap
+C06176,França,Oci,Silver
+C06177,Espanya,Oci,Cap
+C06178,Espanya,Oci,Cap
+C06179,Espanya,Oci,Cap
+C06180,Itàlia,Oci,Cap
+C06181,Regne Unit,Negocis,Silver
+C06182,Espanya,Oci,Cap
+C06183,Estats Units,Oci,Cap
+C06184,Portugal,Oci,Cap
+C06185,Països Baixos,Oci,Silver
+C06186,Espanya,Oci,Silver
+C06187,Espanya,Negocis,Silver
+C06188,Països Baixos,Oci,Cap
+C06189,Espanya,Oci,Cap
+C06190,França,Negocis,Cap
+C06191,Itàlia,Oci,Cap
+C06192,Alemanya,Oci,Gold
+C06193,Espanya,Negocis,Cap
+C06194,Estats Units,Oci,Silver
+C06195,Itàlia,Oci,Cap
+C06196,Espanya,Oci,Cap
+C06197,Estats Units,Oci,Gold
+C06198,França,Oci,Cap
+C06199,Itàlia,Oci,Cap
+C06200,Itàlia,Oci,Cap
+C06201,Espanya,Oci,Cap
+C06202,Regne Unit,Oci,Silver
+C06203,Espanya,Negocis,Silver
+C06204,Espanya,Oci,Cap
+C06205,Portugal,Oci,Cap
+C06206,Espanya,Oci,Cap
+C06207,Espanya,Oci,Cap
+C06208,Espanya,Oci,Cap
+C06209,Alemanya,Negocis,Cap
+C06210,Regne Unit,Oci,Cap
+C06211,Estats Units,Oci,Cap
+C06212,Espanya,Oci,Silver
+C06213,Regne Unit,Negocis,Gold
+C06214,Itàlia,Negocis,Gold
+C06215,Regne Unit,Negocis,Cap
+C06216,Espanya,Oci ,Cap
+C06217,França,Oci,Cap
+C06218,Espanya,Negocis,Cap
+C06219,França,Oci,Gold
+C06220,Espanya,Oci,Cap
+C06221,Espanya,Oci,Silver
+C06222,França,Oci,Cap
+C06223,Itàlia,Oci,Cap
+C06224,Espanya,Oci,Silver
+C06225,Regne Unit,Oci,Cap
+C06226,Països Baixos,Oci,Silver
+C06227,Espanya,Negocis,Silver
+C06228,Alemanya,Negocis,Gold
+C06229,Espanya,Negocis,Cap
+C06230,Espanya,Negocis,Cap
+C06231,Espanya,Negocis,Cap
+C06232,Espanya,Oci,Cap
+C06233,Espanya,Negocis,Cap
+C06234,França,Oci,Cap
+C06235,Espanya,Oci,Cap
+C06236,Estats Units,Oci,Cap
+C06237,Espanya,Oci,Silver
+C06238,Espanya,Negocis,Cap
+C06239,Espanya,Negocis,Gold
+C06240,Itàlia,Oci,Cap
+C06241,França,Negocis,Gold
+C06242,Alemanya,Negocis,Silver
+C06243,Alemanya,Oci,Cap
+C06244,Itàlia,Oci,Cap
+C06245,Itàlia,Negocis,Gold
+C06246,Estats Units,Oci,Cap
+C06247,França,Negocis,Cap
+C06248,Espanya,Oci,Cap
+C06249,Regne Unit,Oci,Silver
+C06250,Espanya,Oci,Gold
+C06251,França,Oci,Cap
+C06252,Espanya,Oci,Cap
+C06253,Alemanya,Oci,Silver
+C06254,Regne Unit,Negocis,Cap
+C06255,Alemanya,Negocis,Cap
+C06256,Països Baixos,Oci,Cap
+C06257,Països Baixos,Oci,Cap
+C06258,Estats Units,Oci,Cap
+C06259,Itàlia,Oci,Gold
+C06260,Països Baixos,Oci,Cap
+C06261,Regne Unit,Oci,Cap
+C06262,França,Negocis,Cap
+C06263,Regne Unit,Oci,Silver
+C06264,Espanya,Oci,Cap
+C06265,Regne Unit,Negocis ,Cap
+C06266,Espanya,Negocis,Gold
+C06267,Espanya,Oci,Cap
+C06268,Itàlia,Oci,Silver
+C06269,Espanya,Negocis,Gold
+C06270,França,Oci,Silver
+C06271,Estats Units,Oci,Cap
+C06272,Espanya,Negocis,Cap
+C06273,Països Baixos,Negocis,Cap
+C06274,França,Negocis,Silver
+C06275,Portugal,Negocis,Silver
+C06276,Espanya,Negocis,Silver
+C06277,Portugal,Negocis,Gold
+C06278,Espanya,Negocis,Cap
+C06279,França,Oci,Cap
+C06280,Itàlia,Oci,Gold
+C06281,Alemanya,Negocis,Silver
+C06282,Espanya,Negocis,Gold
+C06283,Espanya,Oci,Cap
+C06284,Espanya,Oci,Silver
+C06285,Regne Unit,Negocis,Cap
+C06286,Espanya,Oci,Cap
+C06287,Itàlia,Oci,Gold
+C06288,Països Baixos,Oci,Cap
+C06289,Alemanya,Oci,Cap
+C06290,Itàlia,Negocis,Cap
+C06291,Espanya,Oci,Cap
+C06292,França,Oci,Cap
+C06293,Espanya,Oci,Cap
+C06294,Portugal,Negocis,Silver
+C06295,Espanya,Oci,Silver
+C06296,França,Oci,Cap
+C06297,Espanya,Oci,Cap
+C06298,Alemanya,Negocis,Cap
+C06299,Espanya,Negocis,Cap
+C06300,Espanya,Oci,Cap
+C06301,França,Oci,Cap
+C06302,Països Baixos,Oci,Cap
+C06303,Itàlia,Negocis,Gold
+C06304,Portugal,Negocis,Cap
+C06305,Alemanya,Oci,Gold
+C06306,Estats Units,Oci,Cap
+C06307,Alemanya,Oci,Silver
+C06308,Espanya,Oci,Cap
+C06309,Portugal,Negocis,Cap
+C06310,Espanya,Oci,Silver
+C06311,Regne Unit,Oci,Silver
+C06312,França,Oci,Silver
+C06313,Espanya,Oci,Cap
+C06314,Espanya,Oci,Cap
+C06315,Alemanya,Oci,Cap
+C06316,Alemanya,Oci,Cap
+C06317,Espanya,Negocis,Silver
+C06318,Espanya,Oci,Cap
+C06319,França,Oci,Cap
+C06320,França,Negocis,Cap
+C06321,Regne Unit,Oci,Cap
+C06322,Regne Unit,Oci,Silver
+C06323,Regne Unit,Negocis,Cap
+C06324,Espanya,Oci,Cap
+C06325,Espanya,Oci,Cap
+C06326,França,Oci,Cap
+C06327,Regne Unit,Oci,Silver
+C06328,Alemanya,Oci,Cap
+C06329,Espanya,Oci,Cap
+C06330,França,Oci,Cap
+C06331,França,Oci,Silver
+C06332,Portugal,Oci,Cap
+C06333,Itàlia,Oci,Cap
+C06334,Regne Unit,Oci,Silver
+C06335,Espanya,Negocis,Gold
+C06336,Espanya,Oci,Cap
+C06337,Regne Unit,Oci,Cap
+C06338,Espanya,Negocis,Cap
+C06339,Portugal,Oci,Cap
+C06340,Estats Units,Oci,Silver
+C06341,Regne Unit,Oci,Gold
+C06342,Estats Units,Negocis,Silver
+C06343,Espanya,Oci,Cap
+C06344,Espanya,Negocis,Cap
+C06345,Alemanya,Oci,Cap
+C06346,Espanya,Oci,Silver
+C06347,Espanya,Negocis,Cap
+C06348,Alemanya,Oci,Silver
+C06349,Espanya,Oci,Cap
+C06350,Espanya,Oci,Cap
+C06351,Alemanya,Negocis,Cap
+C06352,Alemanya,Negocis,Cap
+C06353,Itàlia,Oci,Cap
+C06354,Espanya,Oci,Cap
+C06355,Espanya,Negocis,Cap
+C06356,França,Oci,Cap
+C06357,Estats Units,Oci,Cap
+C06358,Espanya,Oci,Cap
+C06359,Regne Unit,Negocis,Cap
+C06360,Portugal,Negocis,Cap
+C06361,Espanya,Oci,Cap
+C06362,Portugal,Oci,Silver
+C06363,França,Oci,Cap
+C06364,Alemanya,Negocis,Cap
+C06365,Alemanya,Oci,Silver
+C06366,Espanya,Oci,Cap
+C06367,Itàlia,Oci,Gold
+C06368,França,Oci,Cap
+C06369,Espanya,Oci,Cap
+C06370,Portugal,Oci,Silver
+C06371,Espanya,Oci,Silver
+C06372,Països Baixos,Negocis,Cap
+C06373,Estats Units,Negocis,Gold
+C06374,Espanya,Oci,Cap
+C06375,Espanya,Oci,Silver
+C06376,Espanya,Oci,Gold
+C06377,Alemanya,Oci,Cap
+C06378,Portugal,Oci,Cap
+C06379,Espanya,Oci,Cap
+C06380,Portugal,Negocis,Cap
+C06381,Alemanya,Oci,Cap
+C06382,Espanya,Oci,Cap
+C06383,Països Baixos,Oci,Cap
+C06384,Itàlia,Negocis,Cap
+C06385,Espanya,Negocis,Cap
+C06386,Regne Unit,Negocis,Silver
+C06387,Espanya,oci,Silver
+C06388,França,Negocis,Cap
+C06389,França,Oci,Gold
+C06390,Itàlia,Oci,Gold
+C06391,Itàlia,Oci,Cap
+C06392,França,Oci,Cap
+C06393,Itàlia,Oci,Cap
+C06394,França,Oci,Silver
+C06395,Espanya,Oci,Cap
+C06396,França,Oci,Cap
+C06397,França,Negocis,Silver
+C06398,Regne Unit,Oci,Cap
+C06399,Països Baixos,Oci,Silver
+C06400,Espanya,Oci,Cap
+C06401,Espanya,Negocis,Silver
+C06402,França,Oci,Cap
+C06403,Regne Unit,Negocis,Cap
+C06404,Regne Unit,Negocis,Cap
+C06405,Estats Units,Oci,Silver
+C06406,Alemanya,Oci,Cap
+C06407,Espanya,Oci,Cap
+C06408,Itàlia,Negocis,Cap
+C06409,Regne Unit,Oci,Cap
+C06410,Espanya,Oci,Gold
+C06411,França,Negocis,Cap
+C06412,Espanya,Negocis ,Cap
+C06413,Espanya,Oci,Cap
+C06414,França,Negocis,Cap
+C06415,Alemanya,Oci,Cap
+C06416,Regne Unit,Negocis,Cap
+C06417,Estats Units,Oci,Cap
+C06418,Espanya,Oci,Silver
+C06419,Alemanya,Oci,Cap
+C06420,Espanya,Negocis,Cap
+C06421,Alemanya,Oci,Cap
+C06422,Espanya,Oci,Cap
+C06423,Alemanya,Oci,Silver
+C06424,França,Negocis,Cap
+C06425,Portugal,Oci,Gold
+C06426,Espanya,Oci,Cap
+C06427,Espanya,Oci,Cap
+C06428,Països Baixos,Oci,Cap
+C06429,França,Oci,Cap
+C06430,Estats Units,Oci,Cap
+C06431,Espanya,Oci,Silver
+C06432,Espanya,Oci,Cap
+C06433,Regne Unit,Oci,Cap
+C06434,Itàlia,Oci,Cap
+C06435,França,Oci,Cap
+C06436,Regne Unit,Negocis,Cap
+C06437,Espanya,Negocis,Silver
+C06438,Regne Unit,Oci,Cap
+C06439,Itàlia,Negocis,Cap
+C06440,Espanya,Oci,Cap
+C06441,Portugal,Negocis,Silver
+C06442,Regne Unit,Oci,Cap
+C06443,França,Oci,Silver
+C06444,Itàlia,Negocis,Cap
+C06445,Espanya,Oci,Silver
+C06446,França,Negocis,Gold
+C06447,Estats Units,Oci,Cap
+C06448,Espanya,Negocis,Silver
+C06449,Espanya,Oci,Silver
+C06450,Espanya,Oci,Silver
+C06451,Regne Unit,Oci,Silver
+C06452,Espanya,Oci,Gold
+C06453,Estats Units,Oci,Cap
+C06454,Espanya,Oci,Cap
+C06455,França,Negocis,Silver
+C06456,Països Baixos,Negocis,Cap
+C06457,Alemanya,Oci,Cap
+C06458,Itàlia,Negocis,Silver
+C06459,Alemanya,Oci,Cap
+C06460,Regne Unit,Oci,Cap
+C06461,Estats Units,Negocis,Cap
+C06462,Itàlia,Oci,Silver
+C06463,Espanya,Oci,Silver
+C06464,Portugal,Negocis,Silver
+C06465,Itàlia,Oci,Gold
+C06466,França,Negocis,Silver
+C06467,Espanya,Oci,Cap
+C06468,Portugal,Oci,Silver
+C06469,Espanya,Oci,Silver
+C06470,França,Oci,Silver
+C06471,Portugal,Negocis,Cap
+C06472,Països Baixos,Negocis,Silver
+C06473,Itàlia,Oci,Silver
+C06474,Espanya,Negocis,Cap
+C06475,Espanya,Negocis,Gold
+C06476,França,Oci,Cap
+C06477,Regne Unit,Oci,Cap
+C06478,Espanya,Oci,Cap
+C06479,Espanya,Oci,Cap
+C06480,Portugal,Oci,Cap
+C06481,Regne Unit,Negocis,Silver
+C06482,França,Negocis,Cap
+C06483,Alemanya,Oci,Cap
+C06484,Espanya,Oci,Cap
+C06485,Regne Unit,Oci,Cap
+C06486,Espanya,Oci,Cap
+C06487,Regne Unit,Oci,Silver
+C06488,Regne Unit,Negocis,Silver
+C06489,Itàlia,Oci,Cap
+C06490,França,Oci,Cap
+C06491,França,Oci,Cap
+C06492,Alemanya,Oci,Gold
+C06493,Països Baixos,Negocis,Cap
+C06494,Espanya,Negocis,Silver
+C06495,Països Baixos,Oci,Gold
+C06496,França,Oci,Cap
+C06497,Regne Unit,Oci,Cap
+C06498,Regne Unit,Oci,Silver
+C06499,Espanya,Oci,Cap
+C06500,França,Negocis,Cap
